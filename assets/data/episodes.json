@@ -41,6 +41,27 @@
     "summary": "At a Kolkata traffic light, the whole world moved too fast except the fruit seller and two glowing oranges."
   },
   {
+    "slug": "the-moving-mountain",
+    "title": "The Moving Mountain",
+    "subtitle": "A huge fabric-wrapped load appeared on the road like a small mountain that had learned how to move.",
+    "country": "India",
+    "location": "On the road",
+    "journeyPhase": "Outbound / South Asia",
+    "type": "Story",
+    "emotions": [
+      "Road Wonder",
+      "India Traffic",
+      "Strange Beauty",
+      "Moving Mountain",
+      "Everyday Absurdity"
+    ],
+    "image": "../assets/images/stories/india/the-moving-mountain/the-moving-mountain-main.jpg",
+    "thumb": "assets/images/stories/india/the-moving-mountain/the-moving-mountain-main.jpg",
+    "status": "Real Memory Photos",
+    "affiliate": "Tuzi",
+    "summary": "While driving in India, Tuzi saw a huge wrapped load moving along the road like a small mountain sharing traffic with everyone else."
+  },
+  {
     "slug": "407-km-to-cuttack",
     "title": "407 km to Cuttack",
     "subtitle": "A winter market, a Tibetan refugee community, and the meaning of having a home.",

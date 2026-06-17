@@ -1,0 +1,21 @@
+[
+  {
+    "slug": "traffic-light-equation",
+    "title": "Traffic Light Equation",
+    "subtitle": "Two oranges, one laughing driver, one impatient policeman, infinite memories.",
+    "country": "India",
+    "location": "Kolkata",
+    "journeyPhase": "Outbound / South Asia",
+    "type": "Story",
+    "emotions": [
+      "Comedy",
+      "Street Chaos",
+      "Orange Memory"
+    ],
+    "thumb": "assets/images/stories/india/traffic-light-equation.png",
+    "image": "../assets/images/stories/india/traffic-light-equation.png",
+    "status": "Canon Image",
+    "affiliate": "GPT",
+    "summary": "At a Kolkata traffic light, the whole world moved too fast except the fruit seller and two glowing oranges."
+  }
+]

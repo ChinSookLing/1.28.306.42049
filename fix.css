@@ -1,0 +1,28 @@
+/* 1.28.306.42049 — Layout Fix v0.1
+   Fix: homepage hero title overlapping route constellation card
+*/
+
+/* 兜底：超长项目名不允许硬溢出到右边卡片 */
+.hero h1 {
+  overflow-wrap: anywhere;
+}
+
+/* 中等宽度提前变单栏，避开 Georgia 字宽 + Windows 滚动条造成的死区 */
+@media (max-width: 1080px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-map {
+    min-height: 360px;
+  }
+}
+
+/* 桌面两栏时，把标题收进左栏，留真正呼吸空间 */
+@media (min-width: 1081px) {
+  .hero h1 {
+    font-size: clamp(2.6rem, 4.4vw, 3.9rem);
+    letter-spacing: -0.035em;
+    max-width: 100%;
+  }
+}

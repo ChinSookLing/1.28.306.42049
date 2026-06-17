@@ -17,5 +17,26 @@
     "status": "Canon Image",
     "affiliate": "GPT",
     "summary": "At a Kolkata traffic light, the whole world moved too fast except the fruit seller and two glowing oranges."
+  },
+  {
+    "slug": "thirty-minutes-of-moonlight",
+    "title": "Thirty Minutes of Moonlight",
+    "subtitle": "A full moon window, a silent Taj Mahal, and a family photo taken in the dark.",
+    "country": "India",
+    "location": "Taj Mahal, Agra",
+    "journeyPhase": "Outbound / South Asia",
+    "type": "Story",
+    "emotions": [
+      "Silence",
+      "Full Moon",
+      "Wonder",
+      "Human Kindness",
+      "Crystal Memory"
+    ],
+    "image": "../assets/images/stories/india/taj-mahal-full-moon/taj-mahal-moon-gopro.jpg",
+    "thumb": "assets/images/stories/india/taj-mahal-full-moon/taj-mahal-moon-gopro.jpg",
+    "status": "Real Memory Photo",
+    "affiliate": "Tuzi",
+    "summary": "A rare full moon viewing window at Taj Mahal turned into a silent thirty-minute memory under moonlight."
   }
 ]

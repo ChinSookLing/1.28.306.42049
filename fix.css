@@ -26,3 +26,73 @@
     max-width: 100%;
   }
 }
+
+/* Atlas v0.1 — Country Memory Index */
+.atlas-grid {
+  width: min(1120px, calc(100% - 32px));
+  margin: 32px auto 80px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.atlas-card {
+  border: 1px solid rgba(37, 33, 27, 0.16);
+  border-radius: var(--radius-lg);
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.42), rgba(216, 201, 173, 0.25)),
+    var(--paper);
+  box-shadow: var(--shadow-soft);
+  overflow: hidden;
+}
+
+.atlas-card-head {
+  padding: 24px 24px 16px;
+  border-bottom: 1px solid rgba(37, 33, 27, 0.12);
+}
+
+.atlas-card-head h2 {
+  margin: 0.2rem 0;
+  font-size: clamp(1.7rem, 3vw, 2.4rem);
+}
+
+.atlas-card-head p:last-child {
+  color: var(--muted);
+  margin-bottom: 0;
+}
+
+.atlas-list {
+  display: grid;
+}
+
+.atlas-item {
+  display: grid;
+  gap: 4px;
+  padding: 16px 24px;
+  text-decoration: none;
+  color: var(--ink);
+  border-bottom: 1px solid rgba(37, 33, 27, 0.08);
+}
+
+.atlas-item:last-child {
+  border-bottom: 0;
+}
+
+.atlas-item:hover {
+  background: rgba(255, 159, 28, 0.10);
+}
+
+.atlas-title {
+  font-weight: 700;
+}
+
+.atlas-meta {
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+@media (max-width: 860px) {
+  .atlas-grid {
+    grid-template-columns: 1fr;
+  }
+}

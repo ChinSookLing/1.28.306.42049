@@ -41,93 +41,6 @@
     "summary": "At a Kolkata traffic light, the whole world moved too fast except the fruit seller and two glowing oranges."
   },
   {
-    "slug": "the-moving-mountain",
-    "title": "The Moving Mountain",
-    "subtitle": "A huge fabric-wrapped load appeared on the road like a small mountain that had learned how to move.",
-    "country": "India",
-    "location": "On the road",
-    "journeyPhase": "Outbound / South Asia",
-    "type": "Story",
-    "emotions": [
-      "Road Wonder",
-      "India Traffic",
-      "Strange Beauty",
-      "Moving Mountain",
-      "Everyday Absurdity"
-    ],
-    "image": "../assets/images/stories/india/the-moving-mountain/the-moving-mountain-main.jpg",
-    "thumb": "assets/images/stories/india/the-moving-mountain/the-moving-mountain-main.jpg",
-    "status": "Real Memory Photos",
-    "affiliate": "Tuzi",
-    "summary": "While driving in India, Tuzi saw a huge wrapped load moving along the road like a small mountain sharing traffic with everyone else."
-  },
-  {
-    "slug": "the-green-house-in-morena",
-    "title": "The Green House in Morena",
-    "subtitle": "A roadside curiosity, a green house, and the most beautiful cow dung cakes Tuzi had ever photographed.",
-    "country": "India",
-    "location": "Morena",
-    "journeyPhase": "Outbound / South Asia",
-    "type": "Story",
-    "emotions": [
-      "Roadside Curiosity",
-      "Morena",
-      "Cow Dung Cakes",
-      "Colour Memory",
-      "Children",
-      "Everyday Beauty"
-    ],
-    "image": "../assets/images/stories/india/the-green-house-in-morena/morena-cow-dung-family.jpg",
-    "thumb": "assets/images/stories/india/the-green-house-in-morena/morena-cow-dung-family.jpg",
-    "status": "Real Memory Photos",
-    "affiliate": "Tuzi",
-    "summary": "In Morena, Tuzi stopped to ask about roadside cow dung cakes and found beauty in a green house, smiling children, and everyday rural life."
-  },
-  {
-    "slug": "the-colourful-day-in-gwalior",
-    "title": "The Colourful Day in Gwalior",
-    "subtitle": "A decorated calf, a tight route toward Nepal, and the hidden pressure of reaching Iran customs by 01/01/2024.",
-    "country": "India",
-    "location": "Gwalior / Sanjay Nagar",
-    "journeyPhase": "Outbound / Toward Nepal",
-    "type": "Story",
-    "emotions": [
-      "Colour Memory",
-      "Road Deadline",
-      "Gwalior",
-      "Decorated Calf",
-      "Nepal Rush",
-      "Iran Deadline"
-    ],
-    "image": "../assets/images/stories/india/the-colourful-day-in-gwalior/gwalior-decorated-calf.jpg",
-    "thumb": "assets/images/stories/india/the-colourful-day-in-gwalior/gwalior-decorated-calf.jpg",
-    "status": "Real Memory Photo",
-    "affiliate": "Tuzi",
-    "summary": "While rushing toward Nepal with a strict route plan toward Iran, Tuzi stopped in Gwalior for a colourful decorated calf."
-  },
-  {
-    "slug": "chai-goats-and-the-border-gate",
-    "title": "Chai, Goats, and the Border Gate",
-    "subtitle": "Small fragments from 26/11/2023: a clay cup of masala chai, goats in clothes, and the customs gate toward Kathmandu.",
-    "country": "India / Nepal",
-    "location": "Birgunj route",
-    "journeyPhase": "Outbound / Toward Kathmandu",
-    "type": "Story",
-    "emotions": [
-      "Border Day",
-      "Masala Chai",
-      "Kulhad",
-      "Goats in Clothes",
-      "Birgunj",
-      "Toward Kathmandu"
-    ],
-    "image": "../assets/images/stories/nepal/chai-goats-and-the-border-gate/masala-chai-kulhad.jpg",
-    "thumb": "assets/images/stories/nepal/chai-goats-and-the-border-gate/masala-chai-kulhad.jpg",
-    "status": "Real Memory Photos",
-    "affiliate": "Tuzi",
-    "summary": "On the way toward Kathmandu, 26/11/2023 became a day of small fragments: masala chai, goats in clothes, and the Birgunj customs gate."
-  },
-  {
     "slug": "407-km-to-cuttack",
     "title": "407 km to Cuttack",
     "subtitle": "A winter market, a Tibetan refugee community, and the meaning of having a home.",
@@ -259,6 +172,71 @@
     "summary": "A rare full moon viewing window at Taj Mahal turned into a silent thirty-minute memory under moonlight."
   },
   {
+    "slug": "the-moving-mountain",
+    "title": "The Moving Mountain",
+    "subtitle": "A huge fabric-wrapped load appeared on the road like a small mountain that had learned how to move.",
+    "country": "India",
+    "location": "On the road",
+    "journeyPhase": "Outbound / South Asia",
+    "type": "Story",
+    "emotions": [
+      "Road Wonder",
+      "India Traffic",
+      "Strange Beauty",
+      "Moving Mountain",
+      "Everyday Absurdity"
+    ],
+    "image": "../assets/images/stories/india/the-moving-mountain/the-moving-mountain-main.jpg",
+    "thumb": "assets/images/stories/india/the-moving-mountain/the-moving-mountain-main.jpg",
+    "status": "Real Memory Photos",
+    "affiliate": "Tuzi",
+    "summary": "While driving in India, Tuzi saw a huge wrapped load moving along the road like a small mountain sharing traffic with everyone else."
+  },
+  {
+    "slug": "the-green-house-in-morena",
+    "title": "The Green House in Morena",
+    "subtitle": "A roadside curiosity, a green house, and the most beautiful cow dung cakes Tuzi had ever photographed.",
+    "country": "India",
+    "location": "Morena",
+    "journeyPhase": "Outbound / South Asia",
+    "type": "Story",
+    "emotions": [
+      "Roadside Curiosity",
+      "Morena",
+      "Cow Dung Cakes",
+      "Colour Memory",
+      "Children",
+      "Everyday Beauty"
+    ],
+    "image": "../assets/images/stories/india/the-green-house-in-morena/morena-cow-dung-family.jpg",
+    "thumb": "assets/images/stories/india/the-green-house-in-morena/morena-cow-dung-family.jpg",
+    "status": "Real Memory Photos",
+    "affiliate": "Tuzi",
+    "summary": "In Morena, Tuzi stopped to ask about roadside cow dung cakes and found beauty in a green house, smiling children, and everyday rural life."
+  },
+  {
+    "slug": "the-colourful-day-in-gwalior",
+    "title": "The Colourful Day in Gwalior",
+    "subtitle": "A decorated calf, a tight route toward Nepal, and the hidden pressure of reaching Iran customs by 01/01/2024.",
+    "country": "India",
+    "location": "Gwalior / Sanjay Nagar",
+    "journeyPhase": "Outbound / Toward Nepal",
+    "type": "Story",
+    "emotions": [
+      "Colour Memory",
+      "Road Deadline",
+      "Gwalior",
+      "Decorated Calf",
+      "Nepal Rush",
+      "Iran Deadline"
+    ],
+    "image": "../assets/images/stories/india/the-colourful-day-in-gwalior/gwalior-decorated-calf.jpg",
+    "thumb": "assets/images/stories/india/the-colourful-day-in-gwalior/gwalior-decorated-calf.jpg",
+    "status": "Real Memory Photo",
+    "affiliate": "Tuzi",
+    "summary": "While rushing toward Nepal with a strict route plan toward Iran, Tuzi stopped in Gwalior for a colourful decorated calf."
+  },
+  {
     "slug": "spreading-smiles-at-sugauli-road",
     "title": "Spreading Smiles at Sugauli Road",
     "subtitle": "A roadside stop, a headmaster’s wave, and a schoolyard suddenly full of laughter.",
@@ -279,5 +257,27 @@
     "status": "Real Memory Photo",
     "affiliate": "Tuzi",
     "summary": "On the way to Nepal, Tuzi stopped to film children playing and was invited by a headmaster into a primary school full of laughter."
+  },
+  {
+    "slug": "chai-goats-and-the-border-gate",
+    "title": "Chai, Goats, and the Border Gate",
+    "subtitle": "Small fragments from 03/12/2023: a clay cup of masala chai, goats in clothes, and the customs gate toward Kathmandu.",
+    "country": "Nepal",
+    "location": "Birgunj route",
+    "journeyPhase": "Nepal / Toward Kathmandu",
+    "type": "Story",
+    "emotions": [
+      "Border Day",
+      "Masala Chai",
+      "Kulhad",
+      "Goats in Clothes",
+      "Birgunj",
+      "Toward Kathmandu"
+    ],
+    "image": "../assets/images/stories/nepal/chai-goats-and-the-border-gate/masala-chai-kulhad.jpg",
+    "thumb": "assets/images/stories/nepal/chai-goats-and-the-border-gate/masala-chai-kulhad.jpg",
+    "status": "Real Memory Photos",
+    "affiliate": "Tuzi",
+    "summary": "On the way toward Kathmandu, 03/12/2023 became a day of small fragments: masala chai, the Birgunj customs gate, and goats in clothes after entering through the gate."
   }
 ]

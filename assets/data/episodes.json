@@ -1,5 +1,27 @@
 [
   {
+    "slug": "the-container-door-closed",
+    "title": "The Container Door Closed",
+    "subtitle": "Before the road began, Toyotaki first had to disappear into a 20-foot container.",
+    "country": "Malaysia",
+    "location": "Port Klang",
+    "journeyPhase": "Prologue / Before India",
+    "type": "Story",
+    "emotions": [
+      "Threshold",
+      "Departure",
+      "Logistics Ordeal",
+      "Trust",
+      "Relief",
+      "Release"
+    ],
+    "image": "../assets/images/stories/malaysia/container-door-closed/toyotaki-container-port-klang.jpg",
+    "thumb": "assets/images/stories/malaysia/container-door-closed/toyotaki-container-port-klang.jpg",
+    "status": "Real Memory Photo",
+    "affiliate": "Tuzi",
+    "summary": "Before the 306-day road journey began, Toyotaki was loaded into a 20-foot container at Port Klang and shipped toward Kolkata."
+  },
+  {
     "slug": "traffic-light-equation",
     "title": "Traffic Light Equation",
     "subtitle": "Two oranges, one laughing driver, one impatient policeman, infinite memories.",

@@ -301,5 +301,27 @@
     "status": "Real Memory Photos",
     "affiliate": "Tuzi",
     "summary": "On the way to Daman, Toyotaki was stuck against a roadside rock until Sanjay Gole and his family helped, creating an unexpected Malaysia-Nepal bond."
+  },
+  {
+    "slug": "hotel-paradise-daman",
+    "title": "Hotel Paradise, Daman",
+    "subtitle": "After the difficult road toward Daman, Tuzi found three beautiful days of mountain air, Himalayan views, and quiet hospitality at Hotel Paradise.",
+    "country": "Nepal",
+    "location": "Hotel Paradise, Daman",
+    "journeyPhase": "Nepal / Daman",
+    "type": "Story",
+    "emotions": [
+      "Mountain Shelter",
+      "Nepal Hospitality",
+      "Himalayan View",
+      "Road Recovery",
+      "Daman",
+      "Shy Couple"
+    ],
+    "image": "../assets/images/stories/nepal/hotel-paradise-daman/hotel-paradise-daman.jpg",
+    "thumb": "assets/images/stories/nepal/hotel-paradise-daman/hotel-paradise-daman.jpg",
+    "status": "Real Memory Image / YouTube Archive",
+    "affiliate": "Tuzi",
+    "summary": "At Hotel Paradise in Daman, Tuzi stayed for three beautiful days after a difficult road, surrounded by Himalayan views and the quiet warmth of a shy Nepalese couple."
   }
 ]

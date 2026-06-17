@@ -323,5 +323,69 @@
     "status": "Real Memory Image / YouTube Archive",
     "affiliate": "Tuzi",
     "summary": "At Hotel Paradise in Daman, Tuzi stayed for three beautiful days after a difficult road, surrounded by Himalayan views and the quiet warmth of a shy Nepalese couple."
+  },
+  {
+    "slug": "a-kk-mart-on-the-road-to-kathmandu",
+    "title": "A KK Mart on the Road to Kathmandu",
+    "subtitle": "A small Malaysian surprise in Nepal: a familiar KK Mart standing quietly on the road toward Kathmandu.",
+    "country": "Nepal",
+    "location": "Road to Kathmandu",
+    "journeyPhase": "Nepal / Toward Kathmandu",
+    "type": "Story",
+    "emotions": [
+      "Malaysia Echo",
+      "Kathmandu Road",
+      "Familiar Surprise",
+      "Cross-Border Memory",
+      "Small Discovery"
+    ],
+    "image": "../assets/images/stories/nepal/a-kk-mart-on-the-road-to-kathmandu/kk-mart-road-to-kathmandu.jpg",
+    "thumb": "assets/images/stories/nepal/a-kk-mart-on-the-road-to-kathmandu/kk-mart-road-to-kathmandu.jpg",
+    "status": "Real Memory Photo",
+    "affiliate": "Tuzi",
+    "summary": "On the road toward Kathmandu, Tuzi unexpectedly found a KK Mart operated by a Malaysian boss, with an interior that felt just like Malaysia."
+  },
+  {
+    "slug": "goats-on-the-roof",
+    "title": "Goats on the Roof",
+    "subtitle": "While exploring Kathmandu, Tuzi noticed goats tied on top of a bus — funny, practical, strange, and completely part of the road.",
+    "country": "Nepal",
+    "location": "Kathmandu",
+    "journeyPhase": "Nepal / Kathmandu",
+    "type": "Story",
+    "emotions": [
+      "Kathmandu",
+      "Road Culture",
+      "Daily Absurdity",
+      "Local Life",
+      "Surprise Detail"
+    ],
+    "image": "../assets/images/stories/nepal/goats-on-the-roof/goats-on-bus-roof-kathmandu.jpg",
+    "thumb": "assets/images/stories/nepal/goats-on-the-roof/goats-on-bus-roof-kathmandu.jpg",
+    "status": "Real Memory Photo",
+    "affiliate": "Tuzi",
+    "summary": "In Kathmandu, Tuzi saw goats tied on top of a bus, a funny and unforgettable glimpse of local road life."
+  },
+  {
+    "slug": "where-the-journey-became-stickers",
+    "title": "Where the Journey Became Stickers",
+    "subtitle": "In Kathmandu, Abhishek Baniya helped design and apply country stickers to Toyotaki — turning the route into visible memory.",
+    "country": "Nepal",
+    "location": "Aaradhya Sticker House, Kathmandu",
+    "journeyPhase": "Nepal / Kathmandu",
+    "type": "Story",
+    "emotions": [
+      "Kathmandu",
+      "Sticker House",
+      "Country Markers",
+      "Creative Help",
+      "Road Identity",
+      "Abhishek Baniya"
+    ],
+    "image": "../assets/images/stories/nepal/where-the-journey-became-stickers/abhishek-country-stickers.jpg",
+    "thumb": "assets/images/stories/nepal/where-the-journey-became-stickers/abhishek-country-stickers.jpg",
+    "status": "Real Memory Photo / YouTube Archive",
+    "affiliate": "Tuzi",
+    "summary": "At Aaradhya Sticker House in Kathmandu, Abhishek Baniya, an Indian entrepreneur in Nepal, helped Tuzi turn her crossed countries into stickers on Toyotaki."
   }
 ]

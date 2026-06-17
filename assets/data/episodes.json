@@ -22,6 +22,25 @@
     "summary": "Before the 306-day road journey began, Toyotaki was loaded into a 20-foot container at Port Klang and shipped toward Kolkata."
   },
   {
+    "slug": "traffic-light-equation",
+    "title": "Traffic Light Equation",
+    "subtitle": "Two oranges, one laughing driver, one impatient policeman, infinite memories.",
+    "country": "India",
+    "location": "Kolkata",
+    "journeyPhase": "Outbound / South Asia",
+    "type": "Story",
+    "emotions": [
+      "Comedy",
+      "Street Chaos",
+      "Orange Memory"
+    ],
+    "thumb": "assets/images/stories/india/traffic-light-equation.png",
+    "image": "../assets/images/stories/india/traffic-light-equation.png",
+    "status": "Canon Image",
+    "affiliate": "GPT",
+    "summary": "At a Kolkata traffic light, the whole world moved too fast except the fruit seller and two glowing oranges."
+  },
+  {
     "slug": "407-km-to-cuttack",
     "title": "407 km to Cuttack",
     "subtitle": "A winter market, a Tibetan refugee community, and the meaning of having a home.",
@@ -88,25 +107,6 @@
     "summary": "After trusting two men she met in Coimbatore, Tuzi was brought to a Kerala temple and received a sentence that stayed with her on the road."
   },
   {
-    "slug": "traffic-light-equation",
-    "title": "Traffic Light Equation",
-    "subtitle": "Two oranges, one laughing driver, one impatient policeman, infinite memories.",
-    "country": "India",
-    "location": "Kolkata",
-    "journeyPhase": "Outbound / South Asia",
-    "type": "Story",
-    "emotions": [
-      "Comedy",
-      "Street Chaos",
-      "Orange Memory"
-    ],
-    "thumb": "assets/images/stories/india/traffic-light-equation.png",
-    "image": "../assets/images/stories/india/traffic-light-equation.png",
-    "status": "Canon Image",
-    "affiliate": "GPT",
-    "summary": "At a Kolkata traffic light, the whole world moved too fast except the fruit seller and two glowing oranges."
-  },
-  {
     "slug": "the-green-light-of-kasaragod",
     "title": "The Green Light of Kasaragod",
     "subtitle": "A mosque at night, a warm local community, and the first pause on the rush toward Agra.",
@@ -170,5 +170,27 @@
     "status": "Real Memory Photo",
     "affiliate": "Tuzi",
     "summary": "A rare full moon viewing window at Taj Mahal turned into a silent thirty-minute memory under moonlight."
+  },
+  {
+    "slug": "spreading-smiles-at-sugauli-road",
+    "title": "Spreading Smiles at Sugauli Road",
+    "subtitle": "A roadside stop, a headmaster’s wave, and a schoolyard suddenly full of laughter.",
+    "country": "India",
+    "location": "Sugauli Road",
+    "journeyPhase": "Outbound / Toward Nepal",
+    "type": "Story",
+    "emotions": [
+      "Serendipity",
+      "School Joy",
+      "Children",
+      "Road to Nepal",
+      "Human Warmth",
+      "Playfulness"
+    ],
+    "image": "../assets/images/stories/india/spreading-smiles-at-sugauli-road/sugauli-road-primary-school.jpg",
+    "thumb": "assets/images/stories/india/spreading-smiles-at-sugauli-road/sugauli-road-primary-school.jpg",
+    "status": "Real Memory Photo",
+    "affiliate": "Tuzi",
+    "summary": "On the way to Nepal, Tuzi stopped to film children playing and was invited by a headmaster into a primary school full of laughter."
   }
 ]

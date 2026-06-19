@@ -413,14 +413,12 @@
   {
     "slug": "by-the-roadside-a-magar-wedding",
     "title": "By the Roadside, a Magar Wedding",
+    "subtitle": "Drawn in by music and colour, Tuzi stopped by the roadside in Pokhara and was warmly invited into a Magar community wedding.",
     "country": "Nepal",
     "location": "Pokhara",
-    "date": "2023-12-09",
     "journeyPhase": "Nepal / Pokhara",
-    "path": "stories/by-the-roadside-a-magar-wedding.html",
-    "image": "assets/images/stories/nepal/by-the-roadside-a-magar-wedding/magar-wedding-pokhara.jpg",
-    "summary": "A roadside stop in Pokhara turned into a warm invitation into a Magar community wedding.",
-    "tags": [
+    "type": "Story",
+    "emotions": [
       "Serendipity",
       "Wedding",
       "Cultural Encounter",
@@ -429,6 +427,11 @@
       "Hospitality",
       "Joy",
       "Pokhara"
-    ]
+    ],
+    "image": "../assets/images/stories/nepal/by-the-roadside-a-magar-wedding/magar-wedding-pokhara.jpg",
+    "thumb": "assets/images/stories/nepal/by-the-roadside-a-magar-wedding/magar-wedding-pokhara.jpg",
+    "status": "Real Memory Photo / YouTube Archive",
+    "affiliate": "Tuzi",
+    "summary": "A roadside stop in Pokhara turned into a warm invitation into a Magar community wedding, with music, food, hospitality, and an interview about Magar traditions."
   }
 ]

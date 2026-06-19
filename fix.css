@@ -429,3 +429,47 @@
     grid-column: auto;
   }
 }
+
+/* Field Notes index */
+.field-note-grid {
+  width: min(1120px, calc(100% - 32px));
+  margin: 34px auto 80px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.field-note-card {
+  display: grid;
+  align-content: start;
+  gap: 10px;
+  min-height: 260px;
+  text-decoration: none;
+  color: var(--ink);
+  border: 1px solid rgba(37, 33, 27, 0.14);
+  border-radius: var(--radius-lg);
+  padding: 22px;
+  background:
+    linear-gradient(135deg, rgba(255,255,255,0.42), rgba(216,201,173,0.22)),
+    var(--paper);
+  box-shadow: var(--shadow-soft);
+}
+
+.field-note-card h2 {
+  margin: 0.2rem 0 0.4rem;
+  font-size: clamp(1.45rem, 3vw, 2.2rem);
+}
+
+.field-note-card p {
+  color: var(--muted);
+}
+
+.field-note-card.placeholder {
+  opacity: 0.72;
+}
+
+@media (max-width: 900px) {
+  .field-note-grid {
+    grid-template-columns: 1fr;
+  }
+}

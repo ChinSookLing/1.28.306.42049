@@ -1,7 +1,96 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Stories — 1.28.306.42049</title><link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="fix.css"></head><body><header class="site-header"><nav class="nav"><a class="brand" href="index.html"><strong>1.28.306.42049</strong><span>Visual Memory Archive</span></a><div class="nav-links"><a href="index.html">Home</a>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Stories — 1.28.306.42049</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="fix.css">
+</head>
+<body>
+<header class="site-header">
+  <nav class="nav">
+    <a class="brand" href="index.html">
+      <strong>1.28.306.42049</strong>
+      <span>Visual Memory Archive</span>
+    </a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
       <a href="stories.html" aria-current="page">Stories</a>
       <a href="atlas.html">Atlas</a>
       <a href="gallery.html">Gallery</a>
       <a href="field-notes.html">Field Notes</a>
-      <a href="about.html">About Me</a></div></nav></header><main><section class="section" style="border-top:0"><p class="kicker">Stories</p><h2>Real memories, one page at a time.</h2><p class="lead">Each story page holds one lived incident or one memory that refused to disappear.</p></section><div class="grid cards" data-story-cards><p>Loading stories...</p></div><script src="script.js"></script></main><footer class="footer"><span>© Tuzi · 1.28.306.42049</span><span>A world folded into pages.</span></footer></body></html>
+      <a href="about.html">About Me</a>
+    </div>
+  </nav>
+</header>
+
+<main>
+  <section class="page-hero">
+    <p class="kicker">Stories · Full Archive Timeline</p>
+    <h1>Every memory has a place in the sequence.</h1>
+    <p>
+      This page is the complete story index. Unlike Home, it does not only show selected memories.
+      It follows the archive order from departure, into India, Nepal, and onward.
+    </p>
+  </section>
+
+  <section class="timeline-tools">
+    <div>
+      <p class="kicker">Archive Count</p>
+      <h2 id="stories-count">Loading...</h2>
+    </div>
+    <div class="timeline-note">
+      <strong>Reading rule:</strong>
+      follow the cards from top to bottom to move with Toyotaki through the journey.
+    </div>
+  </section>
+
+  <section class="story-index" id="story-index">
+    <p class="muted">Loading stories...</p>
+  </section>
+</main>
+
+<footer class="footer">
+  <span>© Tuzi · 1.28.306.42049</span>
+  <span>A world folded into pages.</span>
+</footer>
+
+<script>
+async function loadStories() {
+  const container = document.getElementById("story-index");
+  const count = document.getElementById("stories-count");
+
+  try {
+    const res = await fetch("assets/data/episodes.json");
+    const episodes = await res.json();
+
+    count.textContent = `${episodes.length} stories indexed`;
+
+    container.innerHTML = episodes.map((item, index) => `
+      <a class="story-row-card" href="stories/${item.slug}.html">
+        <div class="story-number">${String(index + 1).padStart(2, "0")}</div>
+        <img src="${item.thumb || item.image || ""}" alt="${item.title}">
+        <div class="story-row-body">
+          <p class="kicker">${item.country || ""} · ${item.location || ""}</p>
+          <h2>${item.title}</h2>
+          <p>${item.subtitle || item.summary || ""}</p>
+          <div class="mini-tags">
+            ${(item.emotions || []).slice(0, 5).map(tag => `<span>${tag}</span>`).join("")}
+          </div>
+        </div>
+        <div class="story-phase">${item.journeyPhase || ""}</div>
+      </a>
+    `).join("");
+
+  } catch (err) {
+    count.textContent = "Unable to load stories";
+    container.innerHTML = "<p class='muted'>Unable to load stories.</p>";
+    console.error(err);
+  }
+}
+
+loadStories();
+</script>
+</body>
+</html>

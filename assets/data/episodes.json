@@ -458,5 +458,27 @@
     "status": "Real Memory Photos",
     "affiliate": "Tuzi",
     "summary": "In Pokhara, after a narrow path and an overnight stop, Tuzi saw Machapuchare clearly from the hotel rooftop, with her portrait taken by a local cleaner lady."
+  },
+  {
+    "slug": "beautiful-dangerous-road-back-to-india",
+    "title": "Beautiful, Dangerous Road",
+    "subtitle": "Nepal’s road scenery was stunning, but the road condition was frightening enough that Tuzi decided to drive back toward India.",
+    "country": "Nepal",
+    "location": "Nepal mountain road, returning toward India",
+    "journeyPhase": "Nepal / Return Toward India",
+    "type": "Story",
+    "emotions": [
+      "Nepal Road",
+      "Beautiful Danger",
+      "Road Condition",
+      "Returning to India",
+      "Toyotaki",
+      "Mountain Road"
+    ],
+    "image": "../assets/images/stories/nepal/beautiful-dangerous-road-back-to-india/nepal-dangerous-road-01.jpg",
+    "thumb": "assets/images/stories/nepal/beautiful-dangerous-road-back-to-india/nepal-dangerous-road-01.jpg",
+    "status": "Real Memory Stills",
+    "affiliate": "Tuzi",
+    "summary": "Scared by Nepal’s rough and dangerous mountain road conditions, Tuzi decided to drive Toyotaki back toward India, even though the scenery was beautiful."
   }
 ]

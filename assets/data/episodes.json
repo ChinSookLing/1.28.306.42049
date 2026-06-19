@@ -480,5 +480,28 @@
     "status": "Real Memory Stills",
     "affiliate": "Tuzi",
     "summary": "Scared by Nepal’s rough and dangerous mountain road conditions, Tuzi decided to drive Toyotaki back toward India, even though the scenery was beautiful."
+  },
+  {
+    "slug": "when-sunset-joined-two-buddhas",
+    "title": "When Sunset Joined Two Buddhas",
+    "subtitle": "Tuzi reached Lumbini late in the evening, only to find that the timing had brought sunset, reflection, becoming Buddha, and the birth of Buddha into one frame.",
+    "country": "Nepal",
+    "location": "Lumbini",
+    "journeyPhase": "Nepal / Lumbini",
+    "type": "Story",
+    "emotions": [
+      "Lumbini",
+      "Sunset",
+      "Sacred Timing",
+      "Becoming Buddha",
+      "Birth of Buddha",
+      "Reflection",
+      "Serendipity"
+    ],
+    "image": "../assets/images/stories/nepal/when-sunset-joined-two-buddhas/lumbini-sunset-two-buddhas.jpg",
+    "thumb": "assets/images/stories/nepal/when-sunset-joined-two-buddhas/lumbini-sunset-two-buddhas.jpg",
+    "status": "Real Memory Photo",
+    "affiliate": "Tuzi",
+    "summary": "In Lumbini, a late evening arrival became perfect timing: sunset, reflection, the Buddha in meditation, and the birth of Buddha appeared together in one frame."
   }
 ]

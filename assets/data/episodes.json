@@ -409,5 +409,26 @@
     "status": "Real Memory Photo / YouTube Archive",
     "affiliate": "Tuzi",
     "summary": "Along the Trishuli River, Tuzi stopped for lunch and met young restaurant owner Sandip Shrestha, turning a meal into a YouTube interview."
+  },
+  {
+    "slug": "by-the-roadside-a-magar-wedding",
+    "title": "By the Roadside, a Magar Wedding",
+    "country": "Nepal",
+    "location": "Pokhara",
+    "date": "2023-12-09",
+    "journeyPhase": "Nepal / Pokhara",
+    "path": "stories/by-the-roadside-a-magar-wedding.html",
+    "image": "assets/images/stories/nepal/by-the-roadside-a-magar-wedding/magar-wedding-pokhara.jpg",
+    "summary": "A roadside stop in Pokhara turned into a warm invitation into a Magar community wedding.",
+    "tags": [
+      "Serendipity",
+      "Wedding",
+      "Cultural Encounter",
+      "Magar Community",
+      "Music",
+      "Hospitality",
+      "Joy",
+      "Pokhara"
+    ]
   }
 ]

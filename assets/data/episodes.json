@@ -526,5 +526,28 @@
     "status": "Real Memory Photo",
     "affiliate": "Tuzi",
     "summary": "In Lumbini, a late evening arrival became perfect timing: sunset, reflection, the Buddha in meditation, and the birth of Buddha appeared together in one frame."
+  },
+  {
+    "slug": "the-teachers-voice-on-my-birthday",
+    "title": "The Teacher’s Voice on My Birthday",
+    "subtitle": "On Tuzi’s birthday, a roadside chai stop became a conversation with Abdul Azizul Khan, a retired English teacher who spoke about Nepal’s hopes and dilemmas.",
+    "country": "Nepal",
+    "location": "Lumbini roadside",
+    "journeyPhase": "Nepal / Return Toward India",
+    "type": "Story",
+    "emotions": [
+      "Birthday Road",
+      "Roadside Chai",
+      "Retired Teacher",
+      "Nepal Dilemma",
+      "Education",
+      "Agriculture",
+      "Interview"
+    ],
+    "image": "../assets/images/stories/nepal/the-teachers-voice-on-my-birthday/abdul-azizul-khan-lumbini.jpg",
+    "thumb": "assets/images/stories/nepal/the-teachers-voice-on-my-birthday/abdul-azizul-khan-lumbini.jpg",
+    "status": "Real Memory Still / YouTube Archive",
+    "affiliate": "Tuzi",
+    "summary": "On her birthday, Tuzi stopped for chai near Lumbini and met Abdul Azizul Khan, a retired English teacher who shared insights about Nepal’s education, agriculture, infrastructure, and future."
   }
 ]

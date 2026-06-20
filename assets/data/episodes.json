@@ -572,5 +572,27 @@
     "status": "Real Memory Still / YouTube Archive",
     "affiliate": "Tuzi",
     "summary": "On her birthday, Tuzi stopped for chai near Lumbini and met Abdul Azizul Khan, a retired English teacher who shared insights about Nepal’s education, agriculture, infrastructure, and future."
+  },
+  {
+    "slug": "amritsar-golden-temple",
+    "title": "Amritsar Golden Temple",
+    "subtitle": "Tuzi visited the Golden Temple in Amritsar, where gold, water, devotion, Langar, reflection, and sacred atmosphere came together.",
+    "country": "India",
+    "location": "Amritsar",
+    "journeyPhase": "Outbound / Toward Pakistan",
+    "type": "Story",
+    "emotions": [
+      "Amritsar",
+      "Golden Temple",
+      "Sri Harmandir Sahib",
+      "Langar",
+      "Reflection",
+      "Spiritual Place"
+    ],
+    "image": "../assets/images/stories/india/amritsar-golden-temple/golden-temple-view-thumb.jpg",
+    "thumb": "assets/images/stories/india/amritsar-golden-temple/golden-temple-view-thumb.jpg",
+    "status": "YouTube Archive / Supplementary Video",
+    "affiliate": "Tuzi",
+    "summary": "A visit to the Golden Temple in Amritsar, remembering the sacred architecture, Amrit Sarovar, Langar, reflection, devotion, and the atmosphere of the place."
   }
 ]

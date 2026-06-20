@@ -728,5 +728,27 @@
     "status": "YouTube Archive / Human Interviews",
     "affiliate": "Tuzi",
     "summary": "From 28/12/2023 to 03/01/2024, Tuzi stayed by the roadside in Zahedan while waiting for Iran travel card and insurance, using VPN and Google Translate to conduct human interviews with local shops and restaurants."
+  },
+  {
+    "slug": "the-house-that-winter-opened",
+    "title": "The House That Winter Opened",
+    "subtitle": "Before Iran, Tuzi knew no one. One Zahedan contact opened a route through Iranshahr to Chabahar, where a neighbour family became her winter shelter.",
+    "country": "Iran",
+    "location": "Zahedan / Iranshahr / Chabahar",
+    "journeyPhase": "Iran Winter Shelter",
+    "type": "Story",
+    "emotions": [
+      "Iran",
+      "Winter Shelter",
+      "Zahedan",
+      "Iranshahr",
+      "Chabahar",
+      "Iran Family"
+    ],
+    "image": "../assets/images/stories/iran/the-house-that-winter-opened/iranshahr-sunset-rooftop.jpg",
+    "thumb": "assets/images/stories/iran/the-house-that-winter-opened/iranshahr-sunset-rooftop.jpg",
+    "status": "Original Photos / Winter Shelter Memory",
+    "affiliate": "Tuzi",
+    "summary": "Tuzi entered Iran knowing no one, hoping to spend winter there instead of entering Europe too early. A Zahedan contact led to Iranshahr, an old house in Chabahar, and finally a neighbour family who became her Iran family from 14/01/2024 to 19/02/2024."
   }
 ]

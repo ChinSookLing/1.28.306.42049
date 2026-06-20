@@ -594,5 +594,27 @@
     "status": "YouTube Archive / Supplementary Video",
     "affiliate": "Tuzi",
     "summary": "A visit to the Golden Temple in Amritsar, remembering the sacred architecture, Amrit Sarovar, Langar, reflection, devotion, and the atmosphere of the place."
+  },
+  {
+    "slug": "the-border-opened-at-330",
+    "title": "The Border Opened at 3:30",
+    "subtitle": "After hours held at the India exit side because of a missing entry stamp, Toyotaki finally crossed into Pakistan while the Wagah Border ceremony crowd was already waiting.",
+    "country": "Pakistan",
+    "location": "Wagah / Attari Border",
+    "journeyPhase": "Pakistan Entry",
+    "type": "Story",
+    "emotions": [
+      "Border Crossing",
+      "Pakistan Entry",
+      "Customs Delay",
+      "Wagah Ceremony",
+      "Spotlight",
+      "Relief"
+    ],
+    "image": "../assets/images/stories/pakistan/the-border-opened-at-330/wagah-pakistan-entry.jpg",
+    "thumb": "assets/images/stories/pakistan/the-border-opened-at-330/wagah-pakistan-entry.jpg",
+    "status": "Original Photo / Original Videos",
+    "affiliate": "Tuzi",
+    "summary": "A missing India immigration entry stamp caused hours of delay at the India exit side. Around 3:30pm, Tuzi was finally released into Pakistan, just as the Wagah Border ceremony crowd had already gathered on both sides."
   }
 ]

@@ -661,5 +661,27 @@
     "status": "YouTube Archive / Comparative Memory",
     "affiliate": "Tuzi",
     "summary": "On 22/12/2023 and 23/12/2023, Tuzi asked Pakistani children similar questions to those she had asked in Waling, Nepal, creating a comparison memory about education, environment, and the dreams children can imagine."
+  },
+  {
+    "slug": "quetta-before-the-escort-road",
+    "title": "Quetta, Before the Escort Road",
+    "subtitle": "From Bloom Star Hotel in Quetta to levies quarters, police quarters, Taftan, and finally Iran, Tuzi followed the controlled escort road before entering Iran on 28/12/2023.",
+    "country": "Pakistan",
+    "location": "Quetta / Taftan / Iran Border Route",
+    "journeyPhase": "Pakistan to Iran Transit",
+    "type": "Story",
+    "emotions": [
+      "Quetta",
+      "Bloom Star Hotel",
+      "Levies Escort",
+      "Taftan",
+      "Iran Entry",
+      "Road Companions"
+    ],
+    "image": "../assets/images/stories/pakistan/quetta-levies-road-to-iran/bloom-star-hotel-cat.jpg",
+    "thumb": "assets/images/stories/pakistan/quetta-levies-road-to-iran/bloom-star-hotel-cat.jpg",
+    "status": "Original Photos / Original Video / Route Map",
+    "affiliate": "Tuzi",
+    "summary": "The Quetta-to-Iran transition included Bloom Star Hotel, levies and police quarters, many escort transfers, a Chinese couple who later helped Tuzi connect in Zahedan, and an Iran entry stamp placed on separate paper instead of her passport."
   }
 ]

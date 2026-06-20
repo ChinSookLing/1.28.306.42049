@@ -616,5 +616,27 @@
     "status": "Original Photo / Original Videos",
     "affiliate": "Tuzi",
     "summary": "A missing India immigration entry stamp caused hours of delay at the India exit side. Around 3:30pm, Tuzi was finally released into Pakistan, just as the Wagah Border ceremony crowd had already gathered on both sides."
+  },
+  {
+    "slug": "the-road-west-through-pakistan",
+    "title": "The Road West Through Pakistan",
+    "subtitle": "Because Tuzi’s Iran e-visa would expire on 03/01/2024, Pakistan became a fast westbound highway chapter through Sukkur, Quetta, escort procedures, rice fields, and winter kindness.",
+    "country": "Pakistan",
+    "location": "Pakistan Highway / PK M3 Rest Stop / Sukkur Route",
+    "journeyPhase": "Pakistan Transit",
+    "type": "Story",
+    "emotions": [
+      "Pakistan Highway",
+      "Sukkur Route",
+      "Quetta",
+      "Levies Escort",
+      "Iran Visa Deadline",
+      "Winter Kindness"
+    ],
+    "image": "../assets/images/stories/pakistan/the-road-west-through-pakistan/pakistan-rice-field.jpg",
+    "thumb": "assets/images/stories/pakistan/the-road-west-through-pakistan/pakistan-rice-field.jpg",
+    "status": "Original Photo / Route Context / Original Video",
+    "affiliate": "Tuzi",
+    "summary": "Pakistan was a fast road for Tuzi because her Iran e-visa would expire on 03/01/2024. The route toward Sukkur, Quetta, and Iran carried escort procedures, but also quiet rice fields and warm water kindness at PK M3 Rest Stop."
   }
 ]

@@ -860,5 +860,27 @@
     "status": "YouTube Records",
     "affiliate": "Tuzi",
     "summary": "A local economy story about Mohsen Rahmat Poor, who created rotating night markets so farmers, fishermen, and traders could do business without permanent shops or city travel."
+  },
+  {
+    "slug": "from-chabahar-toward-the-next-horizon",
+    "title": "From Chabahar Toward the Next Horizon",
+    "subtitle": "After the Chabahar family chapter, Tuzi moved again through Tis Beach, Darak Desert Beach, Black Stone, Bandar Abbas, and Ice Gold Cafe in Fasa.",
+    "country": "Iran",
+    "location": "Tis / Darak Desert Beach / Bandar Abbas / Fasa",
+    "journeyPhase": "Iran to Iceland Transition",
+    "type": "Story",
+    "emotions": [
+      "Iran",
+      "Road Survival",
+      "Darak Desert Beach",
+      "Sandstorm",
+      "EcoFlow",
+      "Ice Gold Cafe"
+    ],
+    "image": "../assets/images/stories/iran/from-chabahar-toward-the-next-horizon/tis-beachside-parking-departure.jpg",
+    "thumb": "assets/images/stories/iran/from-chabahar-toward-the-next-horizon/tis-beachside-parking-departure.jpg",
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "summary": "A transition road chapter after Chabahar: beachside departures, a phone replacement, sandstorm driving, bicycle overlanders, black-stone silence, limited solar charging, and a car park night at Ice Gold Cafe in Fasa."
   }
 ]

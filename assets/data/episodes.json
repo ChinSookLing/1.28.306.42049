@@ -1031,5 +1031,22 @@
     "status": "Archive Record",
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/armenia/a-little-flower-seller-beside-the-snow-road/little-flower-seller-beside-snow-road-thumb.jpg"
+  },
+  {
+    "slug": "restaurant-zejebe-fed-the-overlanders",
+    "title": "Restaurant Zejebe Fed the Overlanders",
+    "country": "Georgia",
+    "location": "Restaurant Zejebe",
+    "date": "2024-03-11",
+    "summary": "After entering Georgia, Tuzi overnighted at Restaurant Zejebe, where the owner offered free food and a free campsite to overlanders. Georgia also brought a navigation problem: DiGi roaming was not available.",
+    "emotions": [
+      "Kindness",
+      "Overlanders",
+      "No Roaming"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/georgia/restaurant-zejebe-free-food-overlanders/restaurant-zejebe-free-campsite-thumb.jpg",
+    "thumb": "assets/images/stories/georgia/restaurant-zejebe-free-food-overlanders/restaurant-zejebe-free-campsite-thumb.jpg"
   }
 ]

@@ -970,5 +970,27 @@
     "status": "Archive Record",
     "affiliate": "Tuzi",
     "summary": "A border waiting story before Armenia: after a rule change required Malaysian passport holders to apply for an e-visa, Tuzi was sent back to Iran side and waited at the Norduz customs car park from 02–05 March 2024."
+  },
+  {
+    "slug": "the-first-climb-into-armenia",
+    "title": "The First Climb Into Armenia",
+    "subtitle": "After Toyotaki was x-rayed twice at the border, Tuzi entered Armenia late in the day and faced an icy mountain climb so frightening that she stopped at Kajaran to recover.",
+    "country": "Armenia",
+    "location": "Kajaran",
+    "journeyPhase": "Iran to Iceland Transition",
+    "type": "Story",
+    "emotions": [
+      "Armenia",
+      "Kajaran",
+      "Winter Road",
+      "Hairpin Bends",
+      "Fear",
+      "Recovery"
+    ],
+    "image": "../assets/images/stories/armenia/the-first-climb-into-armenia/armenia-first-climb-thumb.jpg",
+    "thumb": "assets/images/stories/armenia/the-first-climb-into-armenia/armenia-first-climb-thumb.jpg",
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "summary": "The first Armenia story: after border x-ray checks delayed her exit until around 1pm, Tuzi faced a darkening icy mountain climb with long hairpin bends and high altitude, then stopped at Kajaran petrol station for two days to recover from the fear."
   }
 ]

@@ -882,5 +882,27 @@
     "status": "Archive Record",
     "affiliate": "Tuzi",
     "summary": "A transition road chapter after Chabahar: beachside departures, a phone replacement, sandstorm driving, bicycle overlanders, black-stone silence, limited solar charging, and a car park night at Ice Gold Cafe in Fasa."
+  },
+  {
+    "slug": "the-cold-road-toward-tehran",
+    "title": "The Cold Road Toward Tehran",
+    "subtitle": "A 26–27 February cold-road leg: 4°C weather, Toyotaki insulation, simple camper breakfast, a handmade crochet hood, Aminabad petrol station, and the first snow toward Tehran.",
+    "country": "Iran",
+    "location": "Shiraz / Aminabad / Road to Tehran",
+    "journeyPhase": "Iran to Iceland Transition",
+    "type": "Story",
+    "emotions": [
+      "Iran",
+      "Cold Weather",
+      "Toyotaki",
+      "First Snow",
+      "Family Encouragement",
+      "Road Survival"
+    ],
+    "image": "../assets/images/stories/iran/cold-road-toward-tehran/crochet-hood-in-toyotaki.jpg",
+    "thumb": "assets/images/stories/iran/cold-road-toward-tehran/crochet-hood-in-toyotaki.jpg",
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "summary": "A cold-road story from 26–27 February 2024: 4°C weather, Toyotaki insulation, simple breakfast, a handmade crochet hood, Aminabad petrol station, and Tuzi’s first snow on the road to Tehran."
   }
 ]

@@ -816,5 +816,26 @@
     "status": "YouTube Records",
     "affiliate": "Tuzi",
     "summary": "A story page collecting three local Chabahar wonders reached through local trust: Pozm Tiyb Mountain Beach, Ramin Beach, and Tang Mud Volcano."
+  },
+  {
+    "slug": "the-bbq-restaurant-that-became-a-video-set",
+    "title": "The BBQ Restaurant That Became a Video Set",
+    "subtitle": "A Chabahar BBQ stop, Google Translate, and a spontaneous restaurant video with customers joining the fun.",
+    "country": "Iran",
+    "location": "Chabahar",
+    "journeyPhase": "Iran Family / Local Encounters",
+    "type": "Story",
+    "emotions": [
+      "Chabahar",
+      "Food",
+      "Google Translate",
+      "Funny Moment",
+      "Local Encounter"
+    ],
+    "image": "../assets/images/stories/iran/the-house-that-winter-opened/chabahar-seaside-sunset-14jan.jpg",
+    "thumb": "assets/images/stories/iran/the-house-that-winter-opened/chabahar-seaside-sunset-14jan.jpg",
+    "status": "YouTube Record",
+    "affiliate": "Tuzi",
+    "summary": "A funny Chabahar encounter where Tuzi stopped for BBQ, communicated through Google Translate, and ended up helping film a spontaneous restaurant video."
   }
 ]

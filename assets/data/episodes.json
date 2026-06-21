@@ -837,5 +837,28 @@
     "status": "YouTube Record",
     "affiliate": "Tuzi",
     "summary": "A funny Chabahar encounter where Tuzi stopped for BBQ, communicated through Google Translate, and ended up helping film a spontaneous restaurant video."
+  },
+  {
+    "slug": "the-night-markets-mohsen-built",
+    "title": "The Night Markets Mohsen Built",
+    "subtitle": "Yesra’s relative, Mohsen Rahmat Poor, built rotating night markets from empty land, basic facilities, and community trust.",
+    "country": "Iran",
+    "location": "Dashtyari / Chabahar region",
+    "journeyPhase": "Iran Family / Local Economy",
+    "type": "Story",
+    "emotions": [
+      "Iran",
+      "Night Market",
+      "Local Economy",
+      "Community",
+      "Farmers",
+      "Fishermen",
+      "Sanctions"
+    ],
+    "image": "../assets/images/stories/iran/the-little-old-house-in-chabahar/chabahar-village-grocery-shop.jpg",
+    "thumb": "assets/images/stories/iran/the-little-old-house-in-chabahar/chabahar-village-grocery-shop.jpg",
+    "status": "YouTube Records",
+    "affiliate": "Tuzi",
+    "summary": "A local economy story about Mohsen Rahmat Poor, who created rotating night markets so farmers, fishermen, and traders could do business without permanent shops or city travel."
   }
 ]

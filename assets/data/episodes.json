@@ -926,5 +926,27 @@
     "status": "Archive Record",
     "affiliate": "Tuzi",
     "summary": "A winter survival story from 28 February 2024, when Toyotaki’s wiper malfunctioned during heavy snow on the road toward Tehran, forcing Tuzi to sleep by the highway shoulder until morning."
+  },
+  {
+    "slug": "the-man-who-pulled-in-front-of-me",
+    "title": "The Man Who Pulled In Front of Me",
+    "subtitle": "On the winter road toward Nordoz, an oily windscreen forced Tuzi to stop — and Mr. Gader Salmani immediately pulled in front to help.",
+    "country": "Iran",
+    "location": "Arak / Northbound Route / Nordoz road",
+    "journeyPhase": "Iran to Iceland Transition",
+    "type": "Story",
+    "emotions": [
+      "Iran",
+      "Nordoz",
+      "Winter Road",
+      "Local Kindness",
+      "Windscreen",
+      "Family Hospitality"
+    ],
+    "image": "../assets/images/stories/iran/the-man-who-pulled-in-front-of-me/salmani-family-outside.jpg",
+    "thumb": "assets/images/stories/iran/the-man-who-pulled-in-front-of-me/salmani-family-outside.jpg",
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "summary": "A winter road story: after skipping Tehran to keep pace with the Iceland ferry schedule, Tuzi was misled toward a village route near Nordoz and found Toyotaki’s windscreen covered with oily residue. Mr. Gader Salmani immediately helped, brought her home to meet his family, guided her back to the correct road, and gave her windscreen washer fluid."
   }
 ]

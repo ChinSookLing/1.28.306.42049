@@ -992,5 +992,27 @@
     "status": "Archive Record",
     "affiliate": "Tuzi",
     "summary": "The first Armenia story: after border x-ray checks delayed her exit until around 1pm, Tuzi faced a darkening icy mountain climb with long hairpin bends and high altitude, then stopped at Kajaran petrol station for two days to recover from the fear."
+  },
+  {
+    "slug": "when-zorats-karer-asked-me-to-stay",
+    "title": "When Zorats Karer Asked Me to Stay",
+    "subtitle": "At Zorats Karer, winter mud trapped Toyotaki long enough for Tuzi to be invited into a Women’s Day local feast.",
+    "country": "Armenia",
+    "location": "Zorats Karer / Karahunj",
+    "journeyPhase": "Iran to Iceland Transition",
+    "type": "Story",
+    "emotions": [
+      "Armenia",
+      "Zorats Karer",
+      "Winter Mud",
+      "Women’s Day",
+      "Local Feast",
+      "Hospitality"
+    ],
+    "image": "../assets/images/stories/armenia/when-zorats-karer-asked-me-to-stay/womens-day-staff-feast.jpg",
+    "thumb": "assets/images/stories/armenia/when-zorats-karer-asked-me-to-stay/womens-day-staff-feast.jpg",
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "summary": "A Women’s Day memory at Zorats Karer: after a morning drive felt less frightening than the previous mountain climb, Toyotaki got stuck in winter mud near the ancient site, and Tuzi was invited to stay and join a local feast."
   }
 ]

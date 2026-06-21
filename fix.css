@@ -766,3 +766,16 @@
 .memory-section .memory-card span {
   font-size: 0.78rem;
 }
+
+
+/* Home country opener sections: reduce oversized headings */
+.country-open-feature > h2 {
+  font-size: clamp(1.65rem, 4vw, 2.4rem);
+  line-height: 0.98;
+  max-width: 560px;
+  margin-bottom: 1rem;
+}
+
+.country-open-feature .memory-card {
+  margin-top: 0.4rem;
+}

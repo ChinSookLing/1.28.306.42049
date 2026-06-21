@@ -1048,5 +1048,22 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/georgia/restaurant-zejebe-free-food-overlanders/restaurant-zejebe-free-campsite-thumb.jpg",
     "thumb": "assets/images/stories/georgia/restaurant-zejebe-free-food-overlanders/restaurant-zejebe-free-campsite-thumb.jpg"
+  },
+  {
+    "slug": "turkey-opened-with-a-river-rest",
+    "title": "Turkey Opened With a River Rest",
+    "country": "Turkey",
+    "location": "Sarp Border · Danzi Campsite",
+    "date": "2024-03-13",
+    "summary": "After entering Turkey through the friendly Sarp border crossing, Tuzi stopped at Danzi Campsite for two days beside a flowing river to recover from the rush through Armenia and Georgia.",
+    "emotions": [
+      "Gratitude",
+      "River Rest",
+      "Recovery"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/turkey/sarp-border-danzi-campsite/sarp-border-turkey-entry-thumb.jpg",
+    "thumb": "assets/images/stories/turkey/sarp-border-danzi-campsite/sarp-border-turkey-entry-thumb.jpg"
   }
 ]

@@ -948,5 +948,27 @@
     "status": "Archive Record",
     "affiliate": "Tuzi",
     "summary": "A winter road story: after skipping Tehran to keep pace with the Iceland ferry schedule, Tuzi was misled toward a village route near Nordoz and found Toyotaki’s windscreen covered with oily residue. Mr. Gader Salmani immediately helped, brought her home to meet his family, guided her back to the correct road, and gave her windscreen washer fluid."
+  },
+  {
+    "slug": "when-armenia-said-not-yet",
+    "title": "When Armenia Said “Not Yet”",
+    "subtitle": "At Norduz, Tuzi expected visa-free Armenia entry but was sent back to the Iran side to apply for an e-visa, waiting from 02–05 March at the customs car park.",
+    "country": "Iran",
+    "location": "Norduz Iran–Armenia Border",
+    "journeyPhase": "Iran to Iceland Transition",
+    "type": "Story",
+    "emotions": [
+      "Iran",
+      "Armenia Border",
+      "E-visa",
+      "Waiting",
+      "Customs Car Park",
+      "Border Pause"
+    ],
+    "image": "../assets/images/stories/iran/when-armenia-said-not-yet/norduz-border-terminal-map.jpg",
+    "thumb": "assets/images/stories/iran/when-armenia-said-not-yet/norduz-border-terminal-map.jpg",
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "summary": "A border waiting story before Armenia: after a rule change required Malaysian passport holders to apply for an e-visa, Tuzi was sent back to Iran side and waited at the Norduz customs car park from 02–05 March 2024."
   }
 ]

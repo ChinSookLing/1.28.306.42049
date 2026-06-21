@@ -795,3 +795,16 @@
     line-height: 1.05 !important;
   }
 }
+
+
+/* Home featured country opener titles: Pakistan / Iran / Armenia */
+.featured-memories > h2 {
+  font-size: clamp(1.9rem, 3.2vw, 2.9rem) !important;
+  line-height: 1.05 !important;
+  max-width: 680px !important;
+  margin-bottom: 1rem !important;
+}
+
+.featured-memories .featured-card {
+  max-width: 340px;
+}

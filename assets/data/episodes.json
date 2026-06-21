@@ -904,5 +904,27 @@
     "status": "Archive Record",
     "affiliate": "Tuzi",
     "summary": "A cold-road story from 26–27 February 2024: 4°C weather, Toyotaki insulation, simple breakfast, a handmade crochet hood, Aminabad petrol station, and Tuzi’s first snow on the road to Tehran."
+  },
+  {
+    "slug": "the-night-the-highway-froze",
+    "title": "The Night the Highway Froze",
+    "subtitle": "A frightening winter road night near Tehran: heavy snow, sudden wiper failure, a roadside stop, frozen windows, and a long line of vehicles by morning.",
+    "country": "Iran",
+    "location": "Road toward Tehran",
+    "journeyPhase": "Iran to Iceland Transition",
+    "type": "Story",
+    "emotions": [
+      "Iran",
+      "Snowstorm",
+      "Wiper Failure",
+      "Road Fear",
+      "Winter Survival",
+      "Tehran Road"
+    ],
+    "image": "../assets/images/stories/iran/the-night-the-highway-froze/snow-highway-traffic-line.jpg",
+    "thumb": "assets/images/stories/iran/the-night-the-highway-froze/snow-highway-traffic-line.jpg",
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "summary": "A winter survival story from 28 February 2024, when Toyotaki’s wiper malfunctioned during heavy snow on the road toward Tehran, forcing Tuzi to sleep by the highway shoulder until morning."
   }
 ]

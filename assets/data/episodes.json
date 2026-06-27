@@ -1358,5 +1358,23 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/czech-republic/brno-prague-first-days/czech-vodka-price-conversion-thumb.jpg",
     "thumb": "assets/images/stories/czech-republic/brno-prague-first-days/czech-vodka-price-conversion-thumb.jpg"
+  },
+  {
+    "slug": "poland-yellow-fields-wroclaw-and-katyn-memory",
+    "title": "Poland Yellow Fields, Wrocław, and Katyn Memory",
+    "country": "Poland",
+    "location": "Jelenia Góra / Wrocław",
+    "date": "2024-04-10",
+    "summary": "Poland opened with smooth entry, yellow fields beside Toyotaki, Wrocław city fragments, and a painful encounter with war memory, including Katyn remembrance and the importance of art in rebuilding civilisation after destruction.",
+    "emotions": [
+      "Poland",
+      "Yellow Fields",
+      "Wrocław",
+      "War Memory"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/poland/wroclaw-yellow-fields-katyn/toyotaki-yellow-fields-wide-thumb.jpg",
+    "thumb": "assets/images/stories/poland/wroclaw-yellow-fields-katyn/toyotaki-yellow-fields-wide-thumb.jpg"
   }
 ]

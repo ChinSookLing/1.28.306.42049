@@ -758,3 +758,35 @@
   letter-spacing: 0.12em;
   vertical-align: middle;
 }
+
+
+.route-chain {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.08em 0.24em;
+  align-items: baseline;
+}
+
+.route-chain span:not(:last-child)::after {
+  content: "→";
+  margin-left: 0.24em;
+}
+
+@media (max-width: 640px) {
+  .route-chain {
+    display: block;
+  }
+
+  .route-chain span {
+    display: block;
+    line-height: 0.95;
+  }
+
+  .route-chain span:not(:last-child)::after {
+    content: "↓";
+    display: block;
+    margin: 0.06em 0 0.12em;
+    font-size: 0.72em;
+    line-height: 1;
+  }
+}

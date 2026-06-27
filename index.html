@@ -258,10 +258,21 @@ async function loadHome() {
       grouped[country].push(item);
     });
 
-    const countryOrder = ["Malaysia", "India", "Nepal", "Pakistan", "Iran"];
+    const countryOrder = [
+      "Malaysia",
+      "India",
+      "Nepal",
+      "Pakistan",
+      "Iran",
+      "Armenia",
+      "Georgia",
+      "Turkey",
+      "Bulgaria"
+    ];
+
     const ordered = [
       ...countryOrder.filter(c => grouped[c]),
-      ...Object.keys(grouped).filter(c => !countryOrder.includes(c)).sort()
+      ...Object.keys(grouped).filter(c => !countryOrder.includes(c))
     ];
 
     countryPreview.innerHTML = ordered.map(country => `

@@ -96,37 +96,38 @@ async function loadAtlas() {
       "Malaysia Return"
     ];
 
-    const countryFlags = {
-      "Malaysia": "🇲🇾",
-      "India": "🇮🇳",
-      "Nepal": "🇳🇵",
-      "Pakistan": "🇵🇰",
-      "Iran": "🇮🇷",
-      "Armenia": "🇦🇲",
-      "Georgia": "🇬🇪",
-      "Turkey": "🇹🇷",
-      "Bulgaria": "🇧🇬",
-      "Romania": "🇷🇴",
-      "Hungary": "🇭🇺",
-      "Slovakia": "🇸🇰",
-      "Austria": "🇦🇹",
-      "Czech Republic": "🇨🇿",
-      "Poland": "🇵🇱",
-      "Germany": "🇩🇪",
-      "Denmark": "🇩🇰",
-      "Faroe Islands": "🇫🇴",
-      "Iceland": "🇮🇸",
-      "Lithuania": "🇱🇹",
-      "Latvia": "🇱🇻",
-      "Estonia": "🇪🇪",
-      "Russia": "🇷🇺",
-      "Azerbaijan": "🇦🇿",
-      "Kazakhstan": "🇰🇿",
-      "China": "🇨🇳",
-      "Hong Kong": "🇭🇰",
-      "Laos": "🇱🇦",
-      "Thailand": "🇹🇭",
-      "Malaysia Return": "🇲🇾"
+
+    const countryCodes = {
+      "Malaysia": "MY",
+      "India": "IN",
+      "Nepal": "NP",
+      "Pakistan": "PK",
+      "Iran": "IR",
+      "Armenia": "AM",
+      "Georgia": "GE",
+      "Turkey": "TR",
+      "Bulgaria": "BG",
+      "Romania": "RO",
+      "Hungary": "HU",
+      "Slovakia": "SK",
+      "Austria": "AT",
+      "Czech Republic": "CZ",
+      "Poland": "PL",
+      "Germany": "DE",
+      "Denmark": "DK",
+      "Faroe Islands": "FO",
+      "Iceland": "IS",
+      "Lithuania": "LT",
+      "Latvia": "LV",
+      "Estonia": "EE",
+      "Russia": "RU",
+      "Azerbaijan": "AZ",
+      "Kazakhstan": "KZ",
+      "China": "CN",
+      "Hong Kong": "HK",
+      "Laos": "LA",
+      "Thailand": "TH",
+      "Malaysia Return": "MY"
     };
 
     const groups = {};
@@ -154,7 +155,7 @@ async function loadAtlas() {
         <article class="atlas-card">
           <div class="atlas-card-head">
             <p class="kicker">${country}</p>
-            <h2>${countryFlags[country] ? countryFlags[country] + " " : ""}${country}</h2>
+            <h2>${countryCodes[country] ? `<span class="flag-code">${countryCodes[country]}</span> ` : ""}${country}</h2>
             <p>${items.length} memory ${items.length === 1 ? "entry" : "entries"}</p>
           </div>
 

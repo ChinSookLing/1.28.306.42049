@@ -270,6 +270,39 @@ async function loadHome() {
       "Bulgaria"
     ];
 
+    const countryCodes = {
+      "Malaysia": "MY",
+      "India": "IN",
+      "Nepal": "NP",
+      "Pakistan": "PK",
+      "Iran": "IR",
+      "Armenia": "AM",
+      "Georgia": "GE",
+      "Turkey": "TR",
+      "Bulgaria": "BG",
+      "Romania": "RO",
+      "Hungary": "HU",
+      "Slovakia": "SK",
+      "Austria": "AT",
+      "Czech Republic": "CZ",
+      "Poland": "PL",
+      "Germany": "DE",
+      "Denmark": "DK",
+      "Faroe Islands": "FO",
+      "Iceland": "IS",
+      "Lithuania": "LT",
+      "Latvia": "LV",
+      "Estonia": "EE",
+      "Russia": "RU",
+      "Azerbaijan": "AZ",
+      "Kazakhstan": "KZ",
+      "China": "CN",
+      "Hong Kong": "HK",
+      "Laos": "LA",
+      "Thailand": "TH",
+      "Malaysia Return": "MY"
+    };
+
     const ordered = [
       ...countryOrder.filter(c => grouped[c]),
       ...Object.keys(grouped).filter(c => !countryOrder.includes(c))
@@ -277,7 +310,7 @@ async function loadHome() {
 
     countryPreview.innerHTML = ordered.map(country => `
       <a class="country-chip" href="atlas.html">
-        <strong>${countryFlags[country] ? countryFlags[country] + " " : ""}${country}</strong>
+        <strong>${countryCodes[country] ? `<span class="flag-code">${countryCodes[country]}</span> ` : ""}${country}</strong>
         <span>${grouped[country].length} ${grouped[country].length === 1 ? "memory" : "memories"}</span>
       </a>
     `).join("");

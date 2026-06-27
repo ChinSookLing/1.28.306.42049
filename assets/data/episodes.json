@@ -1273,20 +1273,36 @@
   },
   {
     "slug": "budapest-chinese-buffet-and-action-mall-night",
-    "title": "Budapest Chinese Buffet and Action Mall Night",
+    "title": "Budapest Chinese Buffet and a Free Family Dinner",
     "country": "Hungary",
     "location": "Budapest",
     "date": "2024-04-01",
-    "summary": "Hungary opened with Budapest free parking, a Chinese buffet run by Chinese people, a kind owner who invited Tuzi for a free home dinner, and a very long taxi at Action Mall before the journey continued toward Slovakia.",
+    "summary": "Hungary opened with Budapest free parking, a Chinese buffet run by Chinese people, and a kind owner who invited Tuzi for a free home dinner before the journey continued toward Slovakia.",
     "emotions": [
       "Hungary",
       "Chinese Buffet",
-      "Kindness",
-      "Action Mall"
+      "Kindness"
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/hungary/budapest-chinese-buffet/budapest-chinese-buffet-owner-thumb.jpg",
     "thumb": "assets/images/stories/hungary/budapest-chinese-buffet/budapest-chinese-buffet-owner-thumb.jpg"
+  },
+  {
+    "slug": "slovakia-abandoned-border-and-action-mall-night",
+    "title": "Slovakia Abandoned Border and Action Mall Night",
+    "country": "Slovakia",
+    "location": "Bratislava / Petržalka",
+    "date": "2024-04-03",
+    "summary": "Slovakia opened with a quiet Hungary–Slovakia border where the customs area seemed almost abandoned, leaving Tuzi wondering what would happen to her passport. She later overnighted at Action Bratislava Petržalka and saw a very long taxi.",
+    "emotions": [
+      "Slovakia",
+      "Quiet Border",
+      "Action Mall"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/slovakia/bratislava-border-action-mall/hungary-to-slovakia-abandoned-border-thumb.jpg",
+    "thumb": "assets/images/stories/slovakia/bratislava-border-action-mall/hungary-to-slovakia-abandoned-border-thumb.jpg"
   }
 ]

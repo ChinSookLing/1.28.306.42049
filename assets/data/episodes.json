@@ -1151,5 +1151,22 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/turkey/sapanca-marmara-transition/tsunami-evacuation-route-sign-thumb.jpg",
     "thumb": "assets/images/stories/turkey/sapanca-marmara-transition/tsunami-evacuation-route-sign-thumb.jpg"
+  },
+  {
+    "slug": "toward-europe-at-kapitan-andreevo",
+    "title": "Toward Europe at Kapitan Andreevo",
+    "country": "Bulgaria",
+    "location": "Kapitan Andreevo",
+    "date": "2024-03-24",
+    "summary": "Toyotaki reached Bulgaria at Kapitan Andreevo: the Europe chapter opened with flags at the border, a village detour to see a nesting stork, and an overnight at a casino parking lot with a hot-water toilet.",
+    "emotions": [
+      "Europe Opens",
+      "Stork",
+      "Casino Parking"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/bulgaria/kapitan-andreevo-europe-opening/kapitan-andreevo-border-toyotaki-thumb.jpg",
+    "thumb": "assets/images/stories/bulgaria/kapitan-andreevo-europe-opening/kapitan-andreevo-border-toyotaki-thumb.jpg"
   }
 ]

@@ -1185,5 +1185,22 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/bulgaria/plovdiv-princess-casino/princess-casino-parking-toyotaki-thumb.jpg",
     "thumb": "assets/images/stories/bulgaria/plovdiv-princess-casino/princess-casino-parking-toyotaki-thumb.jpg"
+  },
+  {
+    "slug": "sofia-crossings-and-the-presidential-guards",
+    "title": "Sofia Crossings and the Presidential Guards",
+    "country": "Bulgaria",
+    "location": "Sofia",
+    "date": "2024-03-26",
+    "summary": "In Sofia, Tuzi walked from 1:20pm to 7:20pm, reaching 15,869 steps. The city taught her to observe how locals cross roads and use underground passages, and she happened to see the presidential guard-changing ceremony.",
+    "emotions": [
+      "Sofia",
+      "Crossing Lesson",
+      "Changing Guards"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/bulgaria/sofia-presidential-crossing/sofia-presidential-guard-change-thumb.jpg",
+    "thumb": "assets/images/stories/bulgaria/sofia-presidential-crossing/sofia-presidential-guard-change-thumb.jpg"
   }
 ]

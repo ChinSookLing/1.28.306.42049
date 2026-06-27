@@ -1202,5 +1202,22 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/bulgaria/sofia-presidential-crossing/sofia-presidential-guard-change-thumb.jpg",
     "thumb": "assets/images/stories/bulgaria/sofia-presidential-crossing/sofia-presidential-guard-change-thumb.jpg"
+  },
+  {
+    "slug": "ruse-danube-river-and-the-blue-river-night",
+    "title": "Ruse Danube River and the Blue River Night",
+    "country": "Bulgaria",
+    "location": "Ruse",
+    "date": "2024-03-27",
+    "summary": "In Ruse, Tuzi met a Bulgarian wife and her Ukrainian husband beside the Danube River, spoke with them for a while, and later overnighted alone by the river.",
+    "emotions": [
+      "Danube River",
+      "Roadside Meeting",
+      "Quiet Night"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/bulgaria/ruse-danube-river/ruse-danube-river-meeting-thumb.jpg",
+    "thumb": "assets/images/stories/bulgaria/ruse-danube-river/ruse-danube-river-meeting-thumb.jpg"
   }
 ]

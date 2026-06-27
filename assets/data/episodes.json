@@ -1270,5 +1270,23 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/romania/timisoara-spring-roadside-night/timisoara-spring-roadside-parking-thumb.jpg",
     "thumb": "assets/images/stories/romania/timisoara-spring-roadside-night/timisoara-spring-roadside-parking-thumb.jpg"
+  },
+  {
+    "slug": "budapest-chinese-buffet-and-action-mall-night",
+    "title": "Budapest Chinese Buffet and Action Mall Night",
+    "country": "Hungary",
+    "location": "Budapest",
+    "date": "2024-04-01",
+    "summary": "Hungary opened with Budapest free parking, a Chinese buffet run by Chinese people, a kind owner who invited Tuzi for a free home dinner, and a very long taxi at Action Mall before the journey continued toward Slovakia.",
+    "emotions": [
+      "Hungary",
+      "Chinese Buffet",
+      "Kindness",
+      "Action Mall"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/hungary/budapest-chinese-buffet/budapest-chinese-buffet-owner-thumb.jpg",
+    "thumb": "assets/images/stories/hungary/budapest-chinese-buffet/budapest-chinese-buffet-owner-thumb.jpg"
   }
 ]

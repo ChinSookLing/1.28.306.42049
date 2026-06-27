@@ -1219,5 +1219,22 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/bulgaria/ruse-danube-river/ruse-danube-river-meeting-thumb.jpg",
     "thumb": "assets/images/stories/bulgaria/ruse-danube-river/ruse-danube-river-meeting-thumb.jpg"
+  },
+  {
+    "slug": "friendship-bridge-and-the-china-vignette",
+    "title": "Friendship Bridge and the China Vignette",
+    "country": "Romania",
+    "location": "Bucharest",
+    "date": "2024-03-28",
+    "summary": "Tuzi entered Romania from Bulgaria through the Friendship Danube Bridge. At the border petrol station, the vignette system could not find Malaysia, so Toyotaki was temporarily registered under China before the road continued to Bucharest.",
+    "emotions": [
+      "Border Crossing",
+      "Vignette",
+      "Road Humor"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/romania/bucharest-vignette-palace/bucharest-street-casino-thumb.jpg",
+    "thumb": "assets/images/stories/romania/bucharest-vignette-palace/bucharest-street-casino-thumb.jpg"
   }
 ]

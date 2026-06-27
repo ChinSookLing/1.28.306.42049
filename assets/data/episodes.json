@@ -1100,5 +1100,22 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/turkey/samsun-caravan-and-black-sea-road/black-sea-road-to-campoluza-thumb.jpg",
     "thumb": "assets/images/stories/turkey/samsun-caravan-and-black-sea-road/black-sea-road-to-campoluza-thumb.jpg"
+  },
+  {
+    "slug": "campoluza-and-the-fire-in-his-eyes",
+    "title": "CampOluza and the Fire in His Eyes",
+    "country": "Turkey",
+    "location": "CampOluza · Sinop",
+    "date": "2024-03-18",
+    "summary": "At CampOluza in Sinop, Tuzi met Ali, who could not speak English but introduced the campsite he built with his family and friends. Even without understanding the words, she could see the passion in his eyes.",
+    "emotions": [
+      "CampOluza",
+      "Passion",
+      "Body Language"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/turkey/campoluza-sinop-campsite/campoluza-cforce-450l-thumb.jpg",
+    "thumb": "assets/images/stories/turkey/campoluza-sinop-campsite/campoluza-cforce-450l-thumb.jpg"
   }
 ]

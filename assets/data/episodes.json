@@ -1376,5 +1376,39 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/poland/wroclaw-yellow-fields-katyn/toyotaki-yellow-fields-wide-thumb.jpg",
     "thumb": "assets/images/stories/poland/wroclaw-yellow-fields-katyn/toyotaki-yellow-fields-wide-thumb.jpg"
+  },
+  {
+    "slug": "germany-friendly-border-and-berlin-hail",
+    "title": "Germany Friendly Border and Berlin Hail",
+    "country": "Germany",
+    "location": "Berlin / Hamburg",
+    "date": "2024-04-14",
+    "summary": "Germany opened with a quiet Poland–Germany border that had almost no obvious notice, Berlin hail rain around the old Reichstag, and roadside parking in Hamburg.",
+    "emotions": [
+      "Germany",
+      "Friendly Border",
+      "Berlin Hail"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/germany/berlin-hail-reichstag/berlin-reichstag-hail-view-thumb.jpg",
+    "thumb": "assets/images/stories/germany/berlin-hail-reichstag/berlin-reichstag-hail-view-thumb.jpg"
+  },
+  {
+    "slug": "denmark-border-hirtshals-and-the-ferry-to-iceland",
+    "title": "Denmark Border, Hirtshals, and the Ferry to Iceland",
+    "country": "Denmark",
+    "location": "Hirtshals",
+    "date": "2024-04-17",
+    "summary": "Denmark opened as the final road country before Iceland: Toyotaki reached the Denmark border, stayed near Hirtshals, and prepared to board the Smyril Line Norröna ferry.",
+    "emotions": [
+      "Denmark",
+      "Hirtshals",
+      "Ferry to Iceland"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/denmark/border-hirtshals-ferry/toyotaki-denmark-border-sign-thumb.jpg",
+    "thumb": "assets/images/stories/denmark/border-hirtshals-ferry/toyotaki-denmark-border-sign-thumb.jpg"
   }
 ]

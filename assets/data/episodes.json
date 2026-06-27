@@ -1322,5 +1322,41 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/austria/vienna-crazy-classical-town/maria-theresien-monument-thumb.jpg",
     "thumb": "assets/images/stories/austria/vienna-crazy-classical-town/maria-theresien-monument-thumb.jpg"
+  },
+  {
+    "slug": "vienna-mozart-concert-and-vr-tourists",
+    "title": "Vienna Mozart Concert and VR Tourists",
+    "country": "Austria",
+    "location": "Vienna",
+    "date": "2024-04-06",
+    "summary": "Tuzi watched her first live concert at Mozart’s Vienna residence basement concert hall, then continued the remaining spots on her Vienna list and saw tourists using VR gadgets in the classical city.",
+    "emotions": [
+      "Austria",
+      "Mozart",
+      "First Concert",
+      "VR Tourists"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/austria/vienna-mozart-vr/vienna-mozart-residence-basement-concert-thumb.jpg",
+    "thumb": "assets/images/stories/austria/vienna-mozart-vr/vienna-mozart-residence-basement-concert-thumb.jpg"
+  },
+  {
+    "slug": "czechia-brno-prices-and-kfc-password",
+    "title": "Czechia Brno Prices and the KFC Password",
+    "country": "Czech Republic",
+    "location": "Brno / Prague",
+    "date": "2024-04-06",
+    "summary": "Czech Republic opened with Brno parking, a mental currency conversion shift from Euro x5 to Czech koruna ÷5, and a Prague KFC toilet that needed a password.",
+    "emotions": [
+      "Czech Republic",
+      "Brno",
+      "Prague",
+      "Currency Conversion"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/czech-republic/brno-prague-first-days/czech-vodka-price-conversion-thumb.jpg",
+    "thumb": "assets/images/stories/czech-republic/brno-prague-first-days/czech-vodka-price-conversion-thumb.jpg"
   }
 ]

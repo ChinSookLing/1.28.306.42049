@@ -1626,5 +1626,59 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/iceland/closing-return-ferry/seydisfjordur-port-smyril-line-return-thumb.jpg",
     "thumb": "assets/images/stories/iceland/closing-return-ferry/seydisfjordur-port-smyril-line-return-thumb.jpg"
+  },
+  {
+    "slug": "denmark-return-pause-at-arslev-vest",
+    "title": "Denmark Return Pause at Årslev Vest",
+    "country": "Denmark",
+    "location": "Rasteplads Årslev Vest",
+    "date": "2024-05-18",
+    "summary": "After returning from Iceland by sea, Toyotaki rested at Rasteplads Årslev Vest in Denmark, where the next morning began with birds singing.",
+    "emotions": [
+      "Denmark",
+      "Return Leg",
+      "Birdsong"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/denmark/return-rasteplads-arslev-vest/rasteplads-arslev-vest-toyotaki-thumb.jpg",
+    "thumb": "assets/images/stories/denmark/return-rasteplads-arslev-vest/rasteplads-arslev-vest-toyotaki-thumb.jpg"
+  },
+  {
+    "slug": "berlin-alwin-culture-festival-and-museum-pass",
+    "title": "Berlin, Alwin, Culture Festival, and Museum Pass",
+    "country": "Germany",
+    "location": "Berlin",
+    "date": "2024-05-20",
+    "summary": "In Berlin, Tuzi met Alwin again, stayed in the downstairs parking at his place, observed the culture festival environment, and walked through museums that later influenced TCF Chamber design thinking.",
+    "emotions": [
+      "Germany",
+      "Berlin",
+      "Alwin",
+      "Museum Pass",
+      "TCF Seed"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/germany/berlin-alwin-culture-museums/alwin-roommates-berlin-thumb.jpg",
+    "thumb": "assets/images/stories/germany/berlin-alwin-culture-museums/alwin-roommates-berlin-thumb.jpg"
+  },
+  {
+    "slug": "poland-return-ports-creativity-and-campsites",
+    "title": "Poland Return Ports, Creativity, and Campsites",
+    "country": "Poland",
+    "location": "Szczecin / Koszalin / Gdańsk / Warsaw / Drohiczyn",
+    "date": "2024-05-25",
+    "summary": "Poland’s return route became a chain of port parkings, city creativity in Szczecin, free overnight spaces, and a final green campsite at Drohiczyn.",
+    "emotions": [
+      "Poland",
+      "Return Route",
+      "Creativity",
+      "Port Parking"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/poland/return-ports-creativity/szczecin-port-parking-modern-building-thumb.jpg",
+    "thumb": "assets/images/stories/poland/return-ports-creativity/szczecin-port-parking-modern-building-thumb.jpg"
   }
 ]

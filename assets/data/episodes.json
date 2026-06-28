@@ -1537,5 +1537,58 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/iceland/reykjadalur-hot-spring-hike/wild-river-hot-spring-thumb.jpg",
     "thumb": "assets/images/stories/iceland/reykjadalur-hot-spring-hike/wild-river-hot-spring-thumb.jpg"
+  },
+  {
+    "slug": "strokkur-double-explosion-and-uthlid-cottages",
+    "title": "Strokkur Double Explosion and Úthlíð Cottages",
+    "country": "Iceland",
+    "location": "Strokkur / Úthlíð",
+    "date": "2024-04-30",
+    "summary": "On 30 April 2024, Tuzi witnessed Strokkur Geyser erupt in a rare double explosion before overnighting at Úthlíð Cottages.",
+    "emotions": [
+      "Iceland",
+      "Strokkur",
+      "Geyser",
+      "Double Explosion"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/iceland/strokkur-uthlid/strokkur-double-explosion-close-thumb.jpg",
+    "thumb": "assets/images/stories/iceland/strokkur-uthlid/strokkur-double-explosion-close-thumb.jpg"
+  },
+  {
+    "slug": "iceland-campsite-chain-to-the-north",
+    "title": "Iceland Campsite Chain to the North",
+    "country": "Iceland",
+    "location": "Thingvellir / Reykjavík / Snæfellsjökull / Hvammstangi",
+    "date": "2024-05-01",
+    "summary": "From 1 to 6 May 2024, Iceland became a chain of overnight anchors: Thingvellir National Park, Lava Hostel, Reykjavik Eco Campsite, Snæfellsjökull National Park, and Hvammstangi Campsite.",
+    "emotions": [
+      "Iceland",
+      "Campsite Life",
+      "Northbound Route"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "",
+    "thumb": ""
+  },
+  {
+    "slug": "akureyri-summer-ice-berjaya-and-love-traffic-light",
+    "title": "Akureyri Summer Ice, Berjaya, and Love Traffic Light",
+    "country": "Iceland",
+    "location": "Akureyri",
+    "date": "2024-05-07",
+    "summary": "On 7 May 2024, Akureyri gathered many small surprises: a swimming-pool sleeping area, summer snow mountains, Malaysia’s Berjaya name in Iceland, and the love traffic light.",
+    "emotions": [
+      "Iceland",
+      "Akureyri",
+      "Berjaya",
+      "Love Traffic Light"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/iceland/akureyri-love-traffic-light/akureyri-love-traffic-light-thumb.jpg",
+    "thumb": "assets/images/stories/iceland/akureyri-love-traffic-light/akureyri-love-traffic-light-thumb.jpg"
   }
 ]

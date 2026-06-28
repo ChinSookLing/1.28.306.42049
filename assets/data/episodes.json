@@ -1501,5 +1501,41 @@
     "affiliate": "Tuzi",
     "image": "../assets/images/stories/iceland/skogafoss-black-beach/skogafoss-through-toyotaki-window-thumb.jpg",
     "thumb": "assets/images/stories/iceland/skogafoss-black-beach/skogafoss-through-toyotaki-window-thumb.jpg"
+  },
+  {
+    "slug": "kerid-crater-and-hveragerdi-campsite",
+    "title": "Kerið Crater and Hveragerði Campsite",
+    "country": "Iceland",
+    "location": "Kerið / Hveragerði",
+    "date": "2024-04-28",
+    "summary": "On 28 April 2024, Tuzi walked around Kerið Crater, appreciating the beautiful volcanic crater and its well-planned visitor route, before resting at Hveragerði Campsite.",
+    "emotions": [
+      "Iceland",
+      "Kerið Crater",
+      "Volcano Crater",
+      "Route Design"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/iceland/kerid-hveragerdi/kerid-crater-walk-thumb.jpg",
+    "thumb": "assets/images/stories/iceland/kerid-hveragerdi/kerid-crater-walk-thumb.jpg"
+  },
+  {
+    "slug": "reykjadalur-wild-river-hot-spring-hike",
+    "title": "Reykjadalur Wild River Hot Spring Hike",
+    "country": "Iceland",
+    "location": "Reykjadalur / Hveragerði",
+    "date": "2024-04-29",
+    "summary": "On 29 April 2024, Tuzi hiked 2.5 hours to reach a wild river hot spring near Hveragerði, a hard-earned Iceland soak followed by a playful camera moment.",
+    "emotions": [
+      "Iceland",
+      "Reykjadalur",
+      "Wild Hot Spring",
+      "Hiking"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/iceland/reykjadalur-hot-spring-hike/wild-river-hot-spring-thumb.jpg",
+    "thumb": "assets/images/stories/iceland/reykjadalur-hot-spring-hike/wild-river-hot-spring-thumb.jpg"
   }
 ]

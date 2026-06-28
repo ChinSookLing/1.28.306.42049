@@ -1700,19 +1700,38 @@
     "thumb": "assets/images/stories/poland/belarus-route-evisa/trinity-church-overnight-toyotaki-thumb.jpg"
   },
   {
-    "slug": "poland-field-notes-paper-storks-petrol-and-fishing",
-    "title": "Paper Cup, Stork Baby, Petrol Rules, and Polish Fish",
-    "country": "Poland",
-    "location": "Poland",
+    "slug": "poland-field-note-petrol-rules-country-to-country",
+    "title": "Petrol Rules Country to Country",
+    "country": "Field Notes",
+    "location": "Multiple countries",
     "date": "2024-06-02",
-    "summary": "A Poland field note on small everyday systems: McCafé paper packaging, stork babies, different petrol station rules, and fishing culture where fish are released back into the lake.",
+    "summary": "A field note on how petrol station rules differ across countries: some require payment first, while others allow pumping first and paying later.",
     "emotions": [
       "Field Note",
-      "Poland",
-      "Everyday Systems",
-      "Observation"
+      "Road System",
+      "Petrol",
+      "Overland Habit"
     ],
     "status": "Field Note",
+    "affiliate": "Tuzi",
+    "image": "",
+    "thumb": ""
+  },
+  {
+    "slug": "poland-local-fragments-paper-storks-and-fishing",
+    "title": "Paper, Storks, and Fishing Culture in Poland",
+    "country": "Gallery",
+    "location": "Poland",
+    "date": "2024-06-02",
+    "summary": "Three local fragments from Poland: McCafé paper packaging, young storks after the earlier nests in Bulgaria, and catch-and-release fishing culture.",
+    "emotions": [
+      "Gallery",
+      "Local Fragments",
+      "Poland",
+      "Storks",
+      "Fishing"
+    ],
+    "status": "Gallery",
     "affiliate": "Tuzi",
     "image": "../assets/images/field-notes/poland-small-systems/stork-nest-poland-young-born-thumb.jpg",
     "thumb": "assets/images/field-notes/poland-small-systems/stork-nest-poland-young-born-thumb.jpg"

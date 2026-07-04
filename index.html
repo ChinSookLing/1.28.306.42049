@@ -43,25 +43,28 @@
     <aside class="home-route-card">
       <p class="kicker">Archive Status</p>
       <h2 class="route-chain" aria-label="Malaysia to Estonia route">
-        <span>Malaysia</span>
-        <span>India</span>
-        <span>Nepal</span>
-        <span>Pakistan</span>
-        <span>Iran</span>
-        <span>Armenia</span>
-        <span>Georgia</span>
-        <span>Turkey</span>
-        <span>Bulgaria</span>
-        <span>Romania</span>
-        <span>Hungary</span>
-        <span>Slovakia</span>
-        <span>Austria</span>
-        <span>Czech Republic</span>
-        <span>Poland</span>
-        <span>Germany</span>
-        <span>Denmark</span>
-        <span>Iceland</span>
-      </h2>
+          <span>Malaysia</span>
+          <span>India</span>
+          <span>Nepal</span>
+          <span>Pakistan</span>
+          <span>Iran</span>
+          <span>Armenia</span>
+          <span>Georgia</span>
+          <span>Turkey</span>
+          <span>Bulgaria</span>
+          <span>Romania</span>
+          <span>Hungary</span>
+          <span>Slovakia</span>
+          <span>Austria</span>
+          <span>Czech Republic</span>
+          <span>Poland</span>
+          <span>Germany</span>
+          <span>Denmark</span>
+          <span>Iceland</span>
+          <span>Lithuania</span>
+          <span>Latvia</span>
+          <span>Estonia</span>
+        </h2>
       <p>
         The first chambers are open: the container departure, India’s road fragments, Nepal’s mountain encounters, Pakistan’s border-opening story, Iran’s first Zahedan interviews, Armenia’s first icy mountain climb, Georgia’s roadside hospitality, Turkey’s river rest, Bulgaria’s first step into Europe, Romania’s Friendship Bridge vignette moment, Hungary’s Chinese buffet kindness, Slovakia’s quiet border crossing, Austria’s crazy classical Vienna, and Czech Republic’s Brno price-conversion relief, and Poland’s yellow fields with painful war memory, Germany’s Berlin hail, Denmark’s ferry gate, Iceland’s North Atlantic arrival, Lithuania’s bridge north, and Latvia–Estonia’s one-day opening.
       </p>
@@ -429,6 +432,40 @@
     </div>
   </section>
 
+  <section class="featured-memories">
+    <p class="kicker">Lithuania opens</p>
+    <h2>Lithuania became the bridge between waiting and border movement.</h2>
+    <div class="featured-grid">
+      <a class="featured-card" href="stories/lithuania-bridge-kaunas-german-overlanders-and-zemaiciu-kalvarija.html">
+        <img src="assets/images/stories/lithuania/kaunas-zemaiciu-kalvarija/toyotaki-and-german-expedition-camper-kaunas-thumb.jpg" alt="Toyotaki in Lithuania">
+        <div>
+          <p class="kicker">Lithuania · 05/06/2024–06/06/2024</p>
+          <h3>Lithuania Bridge: Kaunas, German Overlanders, and Žemaičių Kalvarija</h3>
+          <p>After the Poland waiting days, Toyotaki moved north through Kaunas, met a German overland couple, and rested near Žemaičių Kalvarija.</p>
+          <span>Read this memory →</span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <section class="featured-memories">
+    <p class="kicker">Latvia and Estonia open</p>
+    <h2>Latvia and Estonia opened in one day.</h2>
+    <div class="featured-grid">
+      <a class="featured-card" href="stories/one-day-two-countries-latvia-estonia-and-russia-route-warning.html">
+        <img src="assets/images/stories/latvia-estonia/opening-route/misso-tir-parking-sleeping-area-thumb.jpg" alt="Toyotaki at Misso TIR Parking in Estonia">
+        <div>
+          <p class="kicker">Latvia / Estonia · 07/06/2024</p>
+          <h3>One Day, Two Countries: Latvia, Estonia, and the Russia Route Warning</h3>
+          <p>Toyotaki crossed from Lithuania into Latvia, then from Latvia into Estonia, while the Russia route remained the real question ahead.</p>
+          <span>Read this memory →</span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+
+
 <section class="home-section home-country-chambers">
     <div class="section-heading">
       <p class="kicker">CURRENT COUNTRY CHAMBERS</p>
@@ -493,27 +530,29 @@ async function loadHome() {
       grouped[country].push(item);
     });
 
-    const countryOrder = [
-      "Malaysia",
-      "India",
-      "Nepal",
-      "Pakistan",
-      "Iran",
-      "Armenia",
-      "Georgia",
-      "Turkey",
-      "Bulgaria",
-      "Romania",
-      "Hungary",
-      "Slovakia",
-      "Austria",
-      "Czech Republic",
-      "Poland",
-      "Germany",
-      "Denmark",
-      "Iceland",
-    "Latvia",
-    "Estonia"];
+      const countryOrder = [
+        "Malaysia",
+        "India",
+        "Nepal",
+        "Pakistan",
+        "Iran",
+        "Armenia",
+        "Georgia",
+        "Turkey",
+        "Bulgaria",
+        "Romania",
+        "Hungary",
+        "Slovakia",
+        "Austria",
+        "Czech Republic",
+        "Poland",
+        "Germany",
+        "Denmark",
+        "Iceland",
+        "Lithuania",
+        "Latvia",
+        "Estonia"
+      ];
 
     const countryCodes = {
       "Malaysia": "MY",

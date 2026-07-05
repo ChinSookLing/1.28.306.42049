@@ -1718,12 +1718,29 @@
     "thumb": "assets/images/stories/lithuania/kaunas-zemaiciu-kalvarija/toyotaki-and-german-expedition-camper-kaunas-thumb.jpg"
   },
   {
+    "slug": "latvia-first-crossing-from-lithuania",
+    "title": "Latvia First Crossing from Lithuania",
+    "country": "Latvia",
+    "location": "Lithuania → Latvia",
+    "date": "2024-06-07",
+    "summary": "Latvia opened as a short crossing memory on 7 June 2024, when Toyotaki moved north from Lithuania toward Estonia and the Russia route ahead.",
+    "emotions": [
+      "Latvia",
+      "Border Crossing",
+      "Leg 3"
+    ],
+    "status": "Archive Record",
+    "affiliate": "Tuzi",
+    "image": "../assets/images/stories/latvia-estonia/opening-route/reach-latvia-from-lithuania-thumb.jpg",
+    "thumb": "assets/images/stories/latvia-estonia/opening-route/reach-latvia-from-lithuania-thumb.jpg"
+  },
+  {
     "slug": "one-day-two-countries-latvia-estonia-and-russia-route-warning",
     "title": "One Day, Two Countries: Latvia, Estonia, and the Russia Route Warning",
-    "country": "Latvia / Estonia",
-    "location": "Lithuania → Latvia → Estonia / Misso TIR Parking",
+    "country": "Estonia",
+    "location": "Latvia → Estonia / Misso TIR Parking",
     "date": "2024-06-07",
-    "summary": "On 7 June 2024, Tuzi opened Latvia and Estonia in one day while preparing for the difficult Russia route, shaped by e-visa restrictions, unclear Belarus–Russia information, and a plan to enter Russia from Estonia before later returning through Georgia.",
+    "summary": "On 7 June 2024, Tuzi reached Estonia after crossing Latvia, while preparing for the difficult Russia route shaped by e-visa restrictions, unclear Belarus–Russia information, and a plan to enter Russia from Estonia before later returning through Georgia.",
     "emotions": [
       "Latvia",
       "Estonia",

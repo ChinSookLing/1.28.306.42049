@@ -987,8 +987,8 @@
       "Fear",
       "Recovery"
     ],
-    "image": "../assets/images/stories/armenia/the-first-climb-into-armenia/armenia-first-climb-thumb.jpg",
-    "thumb": "assets/images/stories/armenia/the-first-climb-into-armenia/armenia-first-climb-thumb.jpg",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/armenia/the-first-climb-into-armenia/armenia-first-climb-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/armenia/the-first-climb-into-armenia/armenia-first-climb-thumb.jpg",
     "status": "Archive Record",
     "affiliate": "Tuzi",
     "summary": "The first Armenia story: after border x-ray checks delayed her exit until around 1pm, Tuzi faced a darkening icy mountain climb with long hairpin bends and high altitude, then stopped at Kajaran petrol station for two days to recover from the fear."
@@ -1009,8 +1009,8 @@
       "Local Feast",
       "Hospitality"
     ],
-    "image": "../assets/images/stories/armenia/when-zorats-karer-asked-me-to-stay/womens-day-staff-feast.jpg",
-    "thumb": "assets/images/stories/armenia/when-zorats-karer-asked-me-to-stay/womens-day-staff-feast.jpg",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/armenia/when-zorats-karer-asked-me-to-stay/womens-day-staff-feast.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/armenia/when-zorats-karer-asked-me-to-stay/womens-day-staff-feast.jpg",
     "status": "Archive Record",
     "affiliate": "Tuzi",
     "summary": "A Women’s Day memory at Zorats Karer: after a morning drive felt less frightening than the previous mountain climb, Toyotaki got stuck in winter mud near the ancient site, and Tuzi was invited to stay and join a local feast."
@@ -1020,7 +1020,7 @@
     "country": "Armenia",
     "date": "2024-03-09",
     "summary": "After overnighting beside Lake Sevan, Tuzi saw a young girl standing alone by a snowy highway toward Georgia customs. A kind couple helped translate; the girl was selling flowers nearby.",
-    "thumb": "assets/images/stories/armenia/a-little-flower-seller-beside-the-snow-road/little-flower-seller-beside-snow-road-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/armenia/a-little-flower-seller-beside-the-snow-road/little-flower-seller-beside-snow-road-thumb.jpg",
     "slug": "a-little-flower-seller-beside-the-snow-road",
     "location": "Hayravank · Lake Sevan · Road toward Georgia",
     "emotions": [
@@ -1030,7 +1030,7 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/armenia/a-little-flower-seller-beside-the-snow-road/little-flower-seller-beside-snow-road-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/armenia/a-little-flower-seller-beside-the-snow-road/little-flower-seller-beside-snow-road-thumb.jpg"
   },
   {
     "slug": "restaurant-zejebe-fed-the-overlanders",
@@ -1046,8 +1046,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/georgia/restaurant-zejebe-free-food-overlanders/restaurant-zejebe-free-campsite-thumb.jpg",
-    "thumb": "assets/images/stories/georgia/restaurant-zejebe-free-food-overlanders/restaurant-zejebe-free-campsite-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/georgia/restaurant-zejebe-free-food-overlanders/restaurant-zejebe-free-campsite-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/georgia/restaurant-zejebe-free-food-overlanders/restaurant-zejebe-free-campsite-thumb.jpg"
   },
   {
     "slug": "turkey-opened-with-a-river-rest",
@@ -1166,8 +1166,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/bulgaria/kapitan-andreevo-europe-opening/kapitan-andreevo-border-toyotaki-thumb.jpg",
-    "thumb": "assets/images/stories/bulgaria/kapitan-andreevo-europe-opening/kapitan-andreevo-border-toyotaki-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/bulgaria/kapitan-andreevo-europe-opening/kapitan-andreevo-border-toyotaki-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/bulgaria/kapitan-andreevo-europe-opening/kapitan-andreevo-border-toyotaki-thumb.jpg"
   },
   {
     "slug": "plovdiv-steps-and-princess-casino",
@@ -1183,8 +1183,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/bulgaria/plovdiv-princess-casino/princess-casino-parking-toyotaki-thumb.jpg",
-    "thumb": "assets/images/stories/bulgaria/plovdiv-princess-casino/princess-casino-parking-toyotaki-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/bulgaria/plovdiv-princess-casino/princess-casino-parking-toyotaki-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/bulgaria/plovdiv-princess-casino/princess-casino-parking-toyotaki-thumb.jpg"
   },
   {
     "slug": "sofia-crossings-and-the-presidential-guards",
@@ -1200,8 +1200,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/bulgaria/sofia-presidential-crossing/sofia-presidential-guard-change-thumb.jpg",
-    "thumb": "assets/images/stories/bulgaria/sofia-presidential-crossing/sofia-presidential-guard-change-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/bulgaria/sofia-presidential-crossing/sofia-presidential-guard-change-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/bulgaria/sofia-presidential-crossing/sofia-presidential-guard-change-thumb.jpg"
   },
   {
     "slug": "ruse-danube-river-and-the-blue-river-night",
@@ -1217,8 +1217,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/bulgaria/ruse-danube-river/ruse-danube-river-meeting-thumb.jpg",
-    "thumb": "assets/images/stories/bulgaria/ruse-danube-river/ruse-danube-river-meeting-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/bulgaria/ruse-danube-river/ruse-danube-river-meeting-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/bulgaria/ruse-danube-river/ruse-danube-river-meeting-thumb.jpg"
   },
   {
     "slug": "friendship-bridge-and-the-china-vignette",
@@ -1234,8 +1234,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/romania/bucharest-vignette-palace/bucharest-street-casino-thumb.jpg",
-    "thumb": "assets/images/stories/romania/bucharest-vignette-palace/bucharest-street-casino-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/romania/bucharest-vignette-palace/bucharest-street-casino-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/romania/bucharest-vignette-palace/bucharest-street-casino-thumb.jpg"
   },
   {
     "slug": "bucharest-luxury-cars-and-arcul-de-triumf",
@@ -1251,8 +1251,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/romania/bucharest-palace-arcul-de-triumf/toyotaki-near-palace-luxury-cars-thumb.jpg",
-    "thumb": "assets/images/stories/romania/bucharest-palace-arcul-de-triumf/toyotaki-near-palace-luxury-cars-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/romania/bucharest-palace-arcul-de-triumf/toyotaki-near-palace-luxury-cars-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/romania/bucharest-palace-arcul-de-triumf/toyotaki-near-palace-luxury-cars-thumb.jpg"
   },
   {
     "slug": "timisoara-flags-and-a-spring-roadside-night",
@@ -1268,8 +1268,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/romania/timisoara-spring-roadside-night/timisoara-spring-roadside-parking-thumb.jpg",
-    "thumb": "assets/images/stories/romania/timisoara-spring-roadside-night/timisoara-spring-roadside-parking-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/romania/timisoara-spring-roadside-night/timisoara-spring-roadside-parking-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/romania/timisoara-spring-roadside-night/timisoara-spring-roadside-parking-thumb.jpg"
   },
   {
     "slug": "budapest-chinese-buffet-and-action-mall-night",
@@ -1285,8 +1285,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/hungary/budapest-chinese-buffet/budapest-chinese-buffet-owner-thumb.jpg",
-    "thumb": "assets/images/stories/hungary/budapest-chinese-buffet/budapest-chinese-buffet-owner-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/hungary/budapest-chinese-buffet/budapest-chinese-buffet-owner-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/hungary/budapest-chinese-buffet/budapest-chinese-buffet-owner-thumb.jpg"
   },
   {
     "slug": "slovakia-abandoned-border-and-action-mall-night",
@@ -1302,8 +1302,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/slovakia/bratislava-border-action-mall/hungary-to-slovakia-abandoned-border-thumb.jpg",
-    "thumb": "assets/images/stories/slovakia/bratislava-border-action-mall/hungary-to-slovakia-abandoned-border-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/slovakia/bratislava-border-action-mall/hungary-to-slovakia-abandoned-border-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/slovakia/bratislava-border-action-mall/hungary-to-slovakia-abandoned-border-thumb.jpg"
   },
   {
     "slug": "vienna-crazy-classical-town-and-20296-steps",
@@ -1320,8 +1320,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/austria/vienna-crazy-classical-town/maria-theresien-monument-thumb.jpg",
-    "thumb": "assets/images/stories/austria/vienna-crazy-classical-town/maria-theresien-monument-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/austria/vienna-crazy-classical-town/maria-theresien-monument-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/austria/vienna-crazy-classical-town/maria-theresien-monument-thumb.jpg"
   },
   {
     "slug": "vienna-mozart-concert-and-vr-tourists",
@@ -1338,8 +1338,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/austria/vienna-mozart-vr/vienna-mozart-residence-basement-concert-thumb.jpg",
-    "thumb": "assets/images/stories/austria/vienna-mozart-vr/vienna-mozart-residence-basement-concert-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/austria/vienna-mozart-vr/vienna-mozart-residence-basement-concert-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/austria/vienna-mozart-vr/vienna-mozart-residence-basement-concert-thumb.jpg"
   },
   {
     "slug": "czechia-brno-prices-and-kfc-password",
@@ -1356,8 +1356,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/czech-republic/brno-prague-first-days/czech-vodka-price-conversion-thumb.jpg",
-    "thumb": "assets/images/stories/czech-republic/brno-prague-first-days/czech-vodka-price-conversion-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/czech-republic/brno-prague-first-days/czech-vodka-price-conversion-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/czech-republic/brno-prague-first-days/czech-vodka-price-conversion-thumb.jpg"
   },
   {
     "slug": "poland-yellow-fields-wroclaw-and-katyn-memory",
@@ -1374,8 +1374,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/poland/wroclaw-yellow-fields-katyn/toyotaki-yellow-fields-wide-thumb.jpg",
-    "thumb": "assets/images/stories/poland/wroclaw-yellow-fields-katyn/toyotaki-yellow-fields-wide-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/poland/wroclaw-yellow-fields-katyn/toyotaki-yellow-fields-wide-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/poland/wroclaw-yellow-fields-katyn/toyotaki-yellow-fields-wide-thumb.jpg"
   },
   {
     "slug": "germany-friendly-border-and-berlin-hail",
@@ -1391,8 +1391,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/germany/berlin-hail-reichstag/berlin-reichstag-hail-view-thumb.jpg",
-    "thumb": "assets/images/stories/germany/berlin-hail-reichstag/berlin-reichstag-hail-view-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/germany/berlin-hail-reichstag/berlin-reichstag-hail-view-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/germany/berlin-hail-reichstag/berlin-reichstag-hail-view-thumb.jpg"
   },
   {
     "slug": "denmark-border-hirtshals-and-the-ferry-to-iceland",
@@ -1408,8 +1408,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/denmark/border-hirtshals-ferry/toyotaki-denmark-border-sign-thumb.jpg",
-    "thumb": "assets/images/stories/denmark/border-hirtshals-ferry/toyotaki-denmark-border-sign-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/denmark/border-hirtshals-ferry/toyotaki-denmark-border-sign-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/denmark/border-hirtshals-ferry/toyotaki-denmark-border-sign-thumb.jpg"
   },
   {
     "slug": "boarding-norrona-from-denmark-to-the-north-atlantic",
@@ -1427,8 +1427,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/iceland/norrona-north-atlantic/toyotaki-malaysia-flag-seydisfjordur-arrival-thumb.jpg",
-    "thumb": "assets/images/stories/iceland/norrona-north-atlantic/toyotaki-malaysia-flag-seydisfjordur-arrival-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/norrona-north-atlantic/toyotaki-malaysia-flag-seydisfjordur-arrival-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/norrona-north-atlantic/toyotaki-malaysia-flag-seydisfjordur-arrival-thumb.jpg"
   },
   {
     "slug": "iceland-lockscreen-roads-and-eastfjords-campsites",
@@ -1445,8 +1445,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/iceland/eastfjords-lockscreen-campsites/seydisfjordur-lockscreen-fjord-thumb.jpg",
-    "thumb": "assets/images/stories/iceland/eastfjords-lockscreen-campsites/seydisfjordur-lockscreen-fjord-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/eastfjords-lockscreen-campsites/seydisfjordur-lockscreen-fjord-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/eastfjords-lockscreen-campsites/seydisfjordur-lockscreen-fjord-thumb.jpg"
   },
   {
     "slug": "hofn-snow-water-glacier-lunch-and-jokulsarlon",
@@ -1463,8 +1463,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/iceland/jokulsarlon-hofn/jokulsarlon-ice-in-hand-thumb.jpg",
-    "thumb": "assets/images/stories/iceland/jokulsarlon-hofn/jokulsarlon-ice-in-hand-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/jokulsarlon-hofn/jokulsarlon-ice-in-hand-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/jokulsarlon-hofn/jokulsarlon-ice-in-hand-thumb.jpg"
   },
   {
     "slug": "skaftafell-national-park-sleeping-area",
@@ -1499,8 +1499,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/iceland/skogafoss-black-beach/skogafoss-through-toyotaki-window-thumb.jpg",
-    "thumb": "assets/images/stories/iceland/skogafoss-black-beach/skogafoss-through-toyotaki-window-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/skogafoss-black-beach/skogafoss-through-toyotaki-window-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/skogafoss-black-beach/skogafoss-through-toyotaki-window-thumb.jpg"
   },
   {
     "slug": "kerid-crater-and-hveragerdi-campsite",
@@ -1517,8 +1517,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/iceland/kerid-hveragerdi/kerid-crater-walk-thumb.jpg",
-    "thumb": "assets/images/stories/iceland/kerid-hveragerdi/kerid-crater-walk-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/kerid-hveragerdi/kerid-crater-walk-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/kerid-hveragerdi/kerid-crater-walk-thumb.jpg"
   },
   {
     "slug": "reykjadalur-wild-river-hot-spring-hike",
@@ -1535,8 +1535,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/iceland/reykjadalur-hot-spring-hike/wild-river-hot-spring-thumb.jpg",
-    "thumb": "assets/images/stories/iceland/reykjadalur-hot-spring-hike/wild-river-hot-spring-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/reykjadalur-hot-spring-hike/wild-river-hot-spring-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/reykjadalur-hot-spring-hike/wild-river-hot-spring-thumb.jpg"
   },
   {
     "slug": "strokkur-double-explosion-and-uthlid-cottages",
@@ -1553,8 +1553,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/iceland/strokkur-uthlid/strokkur-double-explosion-close-thumb.jpg",
-    "thumb": "assets/images/stories/iceland/strokkur-uthlid/strokkur-double-explosion-close-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/strokkur-uthlid/strokkur-double-explosion-close-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/strokkur-uthlid/strokkur-double-explosion-close-thumb.jpg"
   },
   {
     "slug": "iceland-campsite-chain-to-the-north",
@@ -1588,8 +1588,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/iceland/akureyri-love-traffic-light/akureyri-love-traffic-light-thumb.jpg",
-    "thumb": "assets/images/stories/iceland/akureyri-love-traffic-light/akureyri-love-traffic-light-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/akureyri-love-traffic-light/akureyri-love-traffic-light-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/akureyri-love-traffic-light/akureyri-love-traffic-light-thumb.jpg"
   },
   {
     "slug": "grenivik-horse-farm-coolant-cap-and-arctic-circle-edge",
@@ -1606,8 +1606,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/iceland/grenivik-arctic-circle/grenivik-polar-hestar-horse-farm-thumb.jpg",
-    "thumb": "assets/images/stories/iceland/grenivik-arctic-circle/grenivik-polar-hestar-horse-farm-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/grenivik-arctic-circle/grenivik-polar-hestar-horse-farm-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/grenivik-arctic-circle/grenivik-polar-hestar-horse-farm-thumb.jpg"
   },
   {
     "slug": "iceland-closing-campsites-and-return-to-norrona",
@@ -1624,8 +1624,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/iceland/closing-return-ferry/seydisfjordur-port-smyril-line-return-thumb.jpg",
-    "thumb": "assets/images/stories/iceland/closing-return-ferry/seydisfjordur-port-smyril-line-return-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/closing-return-ferry/seydisfjordur-port-smyril-line-return-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/iceland/closing-return-ferry/seydisfjordur-port-smyril-line-return-thumb.jpg"
   },
   {
     "slug": "denmark-return-pause-at-arslev-vest",
@@ -1641,8 +1641,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/denmark/return-rasteplads-arslev-vest/rasteplads-arslev-vest-toyotaki-thumb.jpg",
-    "thumb": "assets/images/stories/denmark/return-rasteplads-arslev-vest/rasteplads-arslev-vest-toyotaki-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/denmark/return-rasteplads-arslev-vest/rasteplads-arslev-vest-toyotaki-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/denmark/return-rasteplads-arslev-vest/rasteplads-arslev-vest-toyotaki-thumb.jpg"
   },
   {
     "slug": "berlin-alwin-culture-festival-and-museum-pass",
@@ -1660,8 +1660,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/germany/berlin-alwin-culture-museums/alwin-roommates-berlin-thumb.jpg",
-    "thumb": "assets/images/stories/germany/berlin-alwin-culture-museums/alwin-roommates-berlin-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/germany/berlin-alwin-culture-museums/alwin-roommates-berlin-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/germany/berlin-alwin-culture-museums/alwin-roommates-berlin-thumb.jpg"
   },
   {
     "slug": "poland-return-ports-creativity-and-campsites",
@@ -1678,8 +1678,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/poland/return-ports-creativity/szczecin-port-parking-modern-building-thumb.jpg",
-    "thumb": "assets/images/stories/poland/return-ports-creativity/szczecin-port-parking-modern-building-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/poland/return-ports-creativity/szczecin-port-parking-modern-building-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/poland/return-ports-creativity/szczecin-port-parking-modern-building-thumb.jpg"
   },
   {
     "slug": "belarus-route-failed-and-russia-evisa-opened",
@@ -1696,8 +1696,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/poland/belarus-route-evisa/trinity-church-overnight-toyotaki-thumb.jpg",
-    "thumb": "assets/images/stories/poland/belarus-route-evisa/trinity-church-overnight-toyotaki-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/poland/belarus-route-evisa/trinity-church-overnight-toyotaki-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/poland/belarus-route-evisa/trinity-church-overnight-toyotaki-thumb.jpg"
   },
   {
     "slug": "lithuania-bridge-kaunas-german-overlanders-and-zemaiciu-kalvarija",

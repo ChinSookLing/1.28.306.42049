@@ -6,6 +6,101 @@
   <title>Atlas — 1.28.306.42049</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="fix.css">
+  <style>
+    .route-map {
+      display: grid;
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+
+    .route-section {
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 24px;
+      padding: 1.25rem;
+      background: rgba(255,255,255,0.035);
+    }
+
+    .route-section h2 {
+      margin-bottom: 0.35rem;
+    }
+
+    .route-section-intro {
+      max-width: 780px;
+      margin-bottom: 1rem;
+    }
+
+    .route-line {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .route-node {
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 20px;
+      padding: 1rem;
+      background: rgba(0,0,0,0.18);
+    }
+
+    .route-node.is-empty {
+      opacity: 0.65;
+    }
+
+    .route-node h3 {
+      margin: 0.15rem 0 0.35rem;
+    }
+
+    .route-node .flag-code {
+      font-size: 0.75rem;
+      opacity: 0.75;
+      letter-spacing: 0.08em;
+    }
+
+    .route-items {
+      display: grid;
+      gap: 0.45rem;
+      margin-top: 0.85rem;
+    }
+
+    .route-item {
+      display: block;
+      text-decoration: none;
+      border-radius: 14px;
+      padding: 0.65rem 0.75rem;
+      background: rgba(255,255,255,0.06);
+    }
+
+    .route-item:hover {
+      background: rgba(255,255,255,0.11);
+    }
+
+    .route-title {
+      display: block;
+      font-weight: 700;
+    }
+
+    .route-meta {
+      display: block;
+      font-size: 0.82rem;
+      opacity: 0.72;
+      margin-top: 0.2rem;
+    }
+
+    .support-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 1rem;
+      margin-top: 1.25rem;
+    }
+
+    .support-card {
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 20px;
+      padding: 1rem;
+      background: rgba(255,255,255,0.035);
+    }
+  </style>
 </head>
 <body>
 <header class="site-header">
@@ -27,26 +122,51 @@
 
 <main>
   <section class="page-hero">
-    <p class="kicker">Atlas · Country Memory Index</p>
-    <h1>Not a map of distance only.</h1>
+    <p class="kicker">Atlas · Journey Memory Map</p>
+    <h1>The road is not stored by folders.</h1>
     <p>
-      This atlas groups the journey by country and memory field.
-      Each place is not only a point on the route, but a small chamber of what happened there.
+      This atlas follows the journey itself: the outward road, the northern arc,
+      and the long homeward arc across Eurasia. Media may live in archive repositories,
+      but the memory still moves in the order the road was lived.
     </p>
   </section>
 
   <section class="prose">
     <p class="kicker">中文说明</p>
-    <h3>这不是只有公里数的地图。</h3>
+    <h3>Atlas 跟着旅程走，不跟着 repository 走。</h3>
     <p>
-      这里先用国家来整理 1.28.306.42049 的记忆。
-      每一个国家不是一个 checkbox，而是一层 memory field：
-      有 border、有 kindness、有 fear、有 wonder，也有那些路边突然出现的小碎片。
+      这里不是单纯按照 Asia / Europe media folder 来整理，而是按照真实路线来整理：
+      从出发，到北方，到返航。一个国家可以在不同路线里出现，因为它在旅程里承担了不同的意义。
     </p>
   </section>
 
-  <section class="atlas-grid" id="atlas-grid">
-    <p class="muted">Loading atlas...</p>
+  <section class="route-map" id="route-map">
+    <p class="muted">Loading journey atlas...</p>
+  </section>
+
+  <section class="prose">
+    <p class="kicker">Memory Systems</p>
+    <h2>Field Notes and Gallery are the second layer of the Atlas.</h2>
+    <p>
+      Some memories are not only country memories. They belong to safety rituals,
+      daily systems, people, animals, sky, kindness, quiet places, and the atmosphere of the road.
+    </p>
+
+    <div class="support-grid">
+      <article class="support-card">
+        <p class="kicker">Field Notes</p>
+        <h3>Road systems and safety rituals</h3>
+        <p>Daily mileage, nightly location sharing, embassy contact, connectivity, planning, and small systems.</p>
+        <p><a class="button secondary" href="field-notes.html">Open Field Notes</a></p>
+      </article>
+
+      <article class="support-card">
+        <p class="kicker">Gallery</p>
+        <h3>People, crossings, sky, kindness</h3>
+        <p>The visual layer of the journey: road-life crossings, quiet places, roadside kindness, people of the road, and sky-light memories.</p>
+        <p><a class="button secondary" href="gallery.html">Open Gallery</a></p>
+      </article>
+    </div>
   </section>
 </main>
 
@@ -57,122 +177,157 @@
 
 <script>
 async function loadAtlas() {
-  const container = document.getElementById("atlas-grid");
+  const container = document.getElementById("route-map");
+
+  const countryCodes = {
+    "Malaysia": "MY",
+    "Malaysia Return": "MY",
+    "India": "IN",
+    "Nepal": "NP",
+    "Pakistan": "PK",
+    "Iran": "IR",
+    "Turkey": "TR",
+    "Armenia": "AM",
+    "Georgia": "GE",
+    "Bulgaria": "BG",
+    "Romania": "RO",
+    "Hungary": "HU",
+    "Slovakia": "SK",
+    "Austria": "AT",
+    "Czech Republic": "CZ",
+    "Poland": "PL",
+    "Germany": "DE",
+    "Denmark": "DK",
+    "Faroe Islands": "FO",
+    "Iceland": "IS",
+    "Lithuania": "LT",
+    "Latvia": "LV",
+    "Estonia": "EE",
+    "Russia": "RU",
+    "Belarus": "BY",
+    "Azerbaijan": "AZ",
+    "Kazakhstan": "KZ",
+    "China": "CN",
+    "Hong Kong": "HK",
+    "Laos": "LA",
+    "Thailand": "TH"
+  };
+
+  const routes = [
+    {
+      title: "Origin Point",
+      kicker: "Malaysia · Before the road opened",
+      intro: "The place where Toyotaki became a journey object, where the container door closed, and where the first version of the road began.",
+      nodes: [
+        { label: "Malaysia · Origin", countries: ["Malaysia"] }
+      ]
+    },
+    {
+      title: "Outward Arc",
+      kicker: "Malaysia → India → Nepal → Pakistan → Iran → Turkey",
+      intro: "The first long arc: entering the road, learning borders, meeting kindness, and finding the rhythm of Toyotaki as a travelling home.",
+      nodes: [
+        "Malaysia",
+        "India",
+        "Nepal",
+        "Pakistan",
+        "Iran",
+        "Turkey"
+      ]
+    },
+    {
+      title: "Northern Arc",
+      kicker: "Turkey → Caucasus → Europe → North Atlantic",
+      intro: "The route that carried the journey from Turkey into the Caucasus, across Europe, and toward the northern edge of the Atlantic.",
+      nodes: [
+        "Turkey",
+        "Georgia",
+        "Armenia",
+        "Bulgaria",
+        "Romania",
+        "Hungary",
+        "Slovakia",
+        "Austria",
+        "Czech Republic",
+        "Poland",
+        "Germany",
+        "Denmark",
+        "Faroe Islands",
+        "Iceland"
+      ]
+    },
+    {
+      title: "Homeward Arc",
+      kicker: "Iceland → Baltic → Russia → Caucasus → Central Asia → Southeast Asia → Malaysia",
+      intro: "The return arc is not only a way back. It is the long road that will fold the northern memory back toward home.",
+      nodes: [
+        "Iceland",
+        "Germany",
+        "Poland",
+        "Lithuania",
+        { label: "Latvia / Estonia", countries: ["Latvia", "Estonia"] },
+        "Russia",
+        "Georgia",
+        "Azerbaijan",
+        "Kazakhstan",
+        "China",
+        "Hong Kong",
+        "Laos",
+        "Thailand",
+        { label: "Malaysia · Return", countries: ["Malaysia Return", "Malaysia"] }
+      ]
+    }
+  ];
 
   try {
     const res = await fetch("assets/data/episodes.json");
     const episodes = await res.json();
 
-    const countryOrder = [
-      "Malaysia",
-      "India",
-      "Nepal",
-      "Pakistan",
-      "Iran",
-      "Armenia",
-      "Georgia",
-      "Turkey",
-      "Bulgaria",
-      "Romania",
-      "Hungary",
-      "Slovakia",
-      "Austria",
-      "Czech Republic",
-      "Poland",
-      "Germany",
-      "Denmark",
-      "Faroe Islands",
-      "Iceland",
-      "Lithuania",
-      "Latvia",
-      "Estonia",
-      "Russia",
-      "Azerbaijan",
-      "Kazakhstan",
-      "China",
-      "Hong Kong",
-      "Laos",
-      "Thailand",
-      "Malaysia Return"
-    ];
-
-
-    const countryCodes = {
-      "Malaysia": "MY",
-      "India": "IN",
-      "Nepal": "NP",
-      "Pakistan": "PK",
-      "Iran": "IR",
-      "Armenia": "AM",
-      "Georgia": "GE",
-      "Turkey": "TR",
-      "Bulgaria": "BG",
-      "Romania": "RO",
-      "Hungary": "HU",
-      "Slovakia": "SK",
-      "Austria": "AT",
-      "Czech Republic": "CZ",
-      "Poland": "PL",
-      "Germany": "DE",
-      "Denmark": "DK",
-      "Faroe Islands": "FO",
-      "Iceland": "IS",
-      "Lithuania": "LT",
-      "Latvia": "LV",
-      "Estonia": "EE",
-      "Russia": "RU",
-      "Azerbaijan": "AZ",
-      "Kazakhstan": "KZ",
-      "China": "CN",
-      "Hong Kong": "HK",
-      "Laos": "LA",
-      "Thailand": "TH",
-      "Malaysia Return": "MY"
-    };
-
     const groups = {};
-
     episodes.forEach((episode) => {
       const country = episode.country || "Unknown";
       if (!groups[country]) groups[country] = [];
       groups[country].push(episode);
     });
 
-    const orderedCountries = [
-      ...countryOrder.filter((country) => groups[country]),
-      ...Object.keys(groups).filter((country) => !countryOrder.includes(country)).sort()
-    ];
-
-    if (!orderedCountries.length) {
-      container.innerHTML = "<p class='muted'>No atlas entries yet.</p>";
-      return;
-    }
-
-    container.innerHTML = orderedCountries.map((country) => {
-      const items = groups[country];
+    function renderNode(node) {
+      const label = typeof node === "string" ? node : node.label;
+      const countries = typeof node === "string" ? [node] : (node.countries || [node.label]);
+      const items = countries.flatMap((country) => groups[country] || []);
+      const codes = countries.map((country) => countryCodes[country]).filter(Boolean).join(" / ");
+      const emptyClass = items.length ? "" : " is-empty";
 
       return `
-        <article class="atlas-card">
-          <div class="atlas-card-head">
-            <p class="kicker">${country}</p>
-            <h2>${countryCodes[country] ? `<span class="flag-code">${countryCodes[country]}</span> ` : ""}${country}</h2>
-            <p>${items.length} memory ${items.length === 1 ? "entry" : "entries"}</p>
-          </div>
+        <article class="route-node${emptyClass}">
+          <p class="kicker">${codes ? `<span class="flag-code">${codes}</span>` : "Route Node"}</p>
+          <h3>${label}</h3>
+          <p>${items.length ? `${items.length} memory ${items.length === 1 ? "entry" : "entries"}` : "Route node · stories to be added"}</p>
 
-          <div class="atlas-list">
+          <div class="route-items">
             ${items.map((item) => `
-              <a class="atlas-item" href="stories/${item.slug}.html">
-                <span class="atlas-title">${item.title}</span>
-                <span class="atlas-meta">${item.location || ""} · ${item.journeyPhase || ""}</span>
+              <a class="route-item" href="stories/${item.slug}.html">
+                <span class="route-title">${item.title}</span>
+                <span class="route-meta">${item.location || ""}${item.journeyPhase ? " · " + item.journeyPhase : ""}</span>
               </a>
             `).join("")}
           </div>
         </article>
       `;
-    }).join("");
+    }
+
+    container.innerHTML = routes.map((route) => `
+      <section class="route-section">
+        <p class="kicker">${route.kicker}</p>
+        <h2>${route.title}</h2>
+        <p class="route-section-intro">${route.intro}</p>
+        <div class="route-line">
+          ${route.nodes.map(renderNode).join("")}
+        </div>
+      </section>
+    `).join("");
 
   } catch (err) {
-    container.innerHTML = "<p class='muted'>Unable to load atlas data.</p>";
+    container.innerHTML = "<p class='muted'>Unable to load journey atlas data.</p>";
     console.error(err);
   }
 }

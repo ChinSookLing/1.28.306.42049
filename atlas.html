@@ -59,8 +59,7 @@
       border-radius: 22px;
       padding: 1rem;
       background: rgba(255, 255, 255, 0.5);
-      max-height: 380px;
-      overflow: auto;
+      overflow: visible;
     }
 
     .route-node.is-empty {
@@ -84,9 +83,7 @@
       display: grid;
       gap: 0.45rem;
       margin-top: 0.85rem;
-      max-height: 230px;
-      overflow: auto;
-      padding-right: 0.2rem;
+      overflow: visible;
     }
 
     .route-item {
@@ -349,12 +346,13 @@ async function loadAtlas() {
           <p>${items.length ? `${items.length} memory ${items.length === 1 ? "entry" : "entries"}` : "Route node · stories to be added"}</p>
 
           <div class="route-items">
-            ${items.map((item) => `
+            ${items.slice(0, 5).map((item) => `
               <a class="route-item" href="stories/${item.slug}.html">
                 <span class="route-title">${item.title}</span>
                 <span class="route-meta">${item.location || ""}${item.journeyPhase ? " · " + item.journeyPhase : ""}</span>
               </a>
             `).join("")}
+            ${items.length > 5 ? `<p class="route-meta">+ ${items.length - 5} more memory entries</p>` : ""}
           </div>
         </article>
       `;

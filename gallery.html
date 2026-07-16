@@ -10,17 +10,17 @@
 <style id="georgia-petronas-gallery-style">
   .georgia-petronas-feature {
     max-width: 1120px;
-    margin: 3rem auto;
+    margin: 4rem auto 4.5rem;
     padding: 0 1rem;
   }
 
   .georgia-petronas-card {
     display: grid;
-    grid-template-columns: minmax(0, 1.15fr) minmax(260px, 0.85fr);
-    gap: 1.25rem;
+    grid-template-columns: minmax(260px, 0.95fr) minmax(280px, 1.05fr);
+    gap: 0;
     align-items: stretch;
     border: 1px solid rgba(40, 32, 24, 0.14);
-    border-radius: 26px;
+    border-radius: 24px;
     overflow: hidden;
     background: rgba(255, 250, 239, 0.72);
   }
@@ -28,21 +28,29 @@
   .georgia-petronas-card img {
     width: 100%;
     height: 100%;
-    min-height: 320px;
+    min-height: 300px;
     object-fit: cover;
     display: block;
   }
 
   .georgia-petronas-copy {
-    padding: 1.35rem;
+    padding: 1.25rem 1.35rem;
     display: grid;
     align-content: center;
-    gap: 0.8rem;
+    gap: 0.72rem;
+  }
+
+  .georgia-petronas-copy h2 {
+    margin: 0;
+    font-size: clamp(2rem, 3.4vw, 2.85rem);
+    line-height: 0.98;
+    letter-spacing: -0.035em;
   }
 
   .georgia-petronas-copy p {
     margin: 0;
-    line-height: 1.65;
+    font-size: 0.94rem;
+    line-height: 1.58;
   }
 
   .georgia-petronas-copy .zh {
@@ -50,7 +58,7 @@
   }
 
   .georgia-petronas-copy .en {
-    opacity: 0.78;
+    opacity: 0.76;
   }
 
   @media (max-width: 760px) {
@@ -60,6 +68,10 @@
 
     .georgia-petronas-card img {
       min-height: auto;
+    }
+
+    .georgia-petronas-copy h2 {
+      font-size: clamp(2rem, 9vw, 2.55rem);
     }
   }
 </style>
@@ -496,7 +508,6 @@
       </article>
     </div>
   </section>
-
 
 
 <section class="georgia-petronas-feature" id="georgia-petronas-carparts-shop">

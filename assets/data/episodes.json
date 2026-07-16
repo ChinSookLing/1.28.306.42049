@@ -1842,5 +1842,29 @@
       "Camping Parus",
       "Stara"
     ]
+  },
+  {
+    "slug": "the-taxi-i-took-to-find-toyotaki",
+    "title": "The Taxi I Took to Find Toyotaki",
+    "titleZh": "我第一次搭的士去找 Toyotaki",
+    "country": "Russia",
+    "location": "Moscow / Kremlin area / Russia",
+    "date": "2024-06-17",
+    "journeyPhase": "Russia Road / Navigation System Failure",
+    "excerpt": "Near the Kremlin, Google Maps lagged so badly that after 23,584 steps I had to ask locals to call a taxi to find Toyotaki.",
+    "excerptZh": "靠近 Kremlin 时 Google Map 严重 lag，走了 23,584 步后，我第一次请路人用 app 打车去找自己的 Toyotaki。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/moscow-kremlin-red-square-tuzi.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/moscow-kremlin-red-square-tuzi.jpg",
+    "imageAlt": "Tuzi near the Kremlin and Red Square area in Moscow.",
+    "tags": [
+      "Russia",
+      "Moscow",
+      "Kremlin",
+      "Google Maps",
+      "Yandex",
+      "taxi",
+      "Toyotaki",
+      "navigation"
+    ]
   }
 ]

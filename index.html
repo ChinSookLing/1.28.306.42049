@@ -659,7 +659,7 @@ async function loadHome() {
     ];
 
     countryPreview.innerHTML = ordered.map(country => `
-      <a class="country-chip" href="atlas.html">
+      <a class="country-chip" href="stories.html?country=${encodeURIComponent(country)}" data-country="${country}">
         <strong>${countryCodes[country] ? `<span class="flag-code">${countryCodes[country]}</span> ` : ""}${country}</strong>
         <span>${grouped[country].length} ${grouped[country].length === 1 ? "memory" : "memories"}</span>
       </a>

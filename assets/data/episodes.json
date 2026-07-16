@@ -1785,8 +1785,8 @@
     "location": "Pskov / Russia",
     "date": "2024-06-14",
     "journeyPhase": "Russia Entry / Memory of War",
-    "excerpt": "After Sumilkino, affordable petrol and a free parking night in Pskov were followed by rows of names on war memorials.",
-    "excerptZh": "从 Sumilkino 出来以后，便宜汽油和 Pskov 免费停车之后，是一路战争纪念碑上一排一排的名字。",
+    "excerpt": "After Sumilkino, affordable petrol, 24/7 supplies, a simple Russian meal, and a free parking night in Pskov were followed by rows of names on war memorials.",
+    "excerptZh": "从 Sumilkino 出来以后，便宜汽油、24/7 物资、一份普通 Russia 餐和 Pskov 免费停车之后，是一路战争纪念碑上一排一排的名字。",
     "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/pskov-kremlin-free-parking.jpg",
     "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/pskov-kremlin-free-parking.jpg",
     "imageAlt": "Toyotaki parked near Pskov Kremlin with church domes in the background.",
@@ -1795,6 +1795,8 @@
       "Pskov",
       "Sumilkino",
       "petrol",
+      "24/7 supplies",
+      "food",
       "war memorial",
       "names"
     ]

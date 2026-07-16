@@ -92,5 +92,39 @@ async function loadStories() {
 
 loadStories();
 </script>
+
+<script id="country-chambers-link-to-stories">
+(function () {
+  function toStoriesHref(href) {
+    return href
+      .replace("atlas.html?country=", "stories.html?country=")
+      .replace("atlas.html#country-", "stories.html#country-");
+  }
+
+  function fixCountryLinks() {
+    document
+      .querySelectorAll('a[href*="atlas.html?country="], a[href*="atlas.html#country-"]')
+      .forEach((link) => {
+        link.setAttribute("href", toStoriesHref(link.getAttribute("href")));
+      });
+  }
+
+  document.addEventListener("click", function (event) {
+    const link = event.target.closest('a[href*="atlas.html?country="], a[href*="atlas.html#country-"]');
+    if (!link) return;
+
+    event.preventDefault();
+    window.location.href = toStoriesHref(link.getAttribute("href"));
+  }, true);
+
+  document.addEventListener("DOMContentLoaded", fixCountryLinks);
+  new MutationObserver(fixCountryLinks).observe(document.documentElement, {
+    childList: true,
+    subtree: true
+  });
+  fixCountryLinks();
+})();
+</script>
+
 </body>
 </html>

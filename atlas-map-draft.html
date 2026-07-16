@@ -92,21 +92,14 @@
       fill: #1f1a14;
     }
 
-    .node-label {
-      pointer-events: none;
-      font-family: var(--font-sans, system-ui, sans-serif);
-      font-size: 13px;
-      font-weight: 800;
-      text-anchor: middle;
-      fill: rgba(31, 26, 20, 0.78);
+    .node-label,
+    .node-count {
+      display: none;
     }
 
-    .node-count {
-      pointer-events: none;
-      font-family: var(--font-sans, system-ui, sans-serif);
-      font-size: 11px;
-      text-anchor: middle;
-      fill: rgba(31, 26, 20, 0.58);
+    .node-button:hover .node-dot,
+    .node-button:focus .node-dot {
+      stroke-width: 5;
     }
 
     .map-legend {
@@ -436,6 +429,10 @@ async function loadMap() {
     const count = svgEl("text", { class: "node-count", x: node.x, y: node.y + 52 });
     count.textContent = items.length ? `${items.length} memories` : "waiting";
     g.appendChild(count);
+
+    const title = svgEl("title");
+    title.textContent = `${node.label} · ${items.length ? items.length + " memories" : "waiting"}`;
+    g.appendChild(title);
 
     g.addEventListener("click", () => renderPanel(node));
     g.addEventListener("keydown", (event) => {

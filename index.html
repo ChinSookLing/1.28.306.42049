@@ -654,7 +654,7 @@ async function loadHome() {
   };
 
     const ordered = [
-      ...countryOrder.filter(c => grouped[c] || c === "Russia"),
+      ...countryOrder.filter(c => grouped[c]),
       ...Object.keys(grouped).filter(c => !countryOrder.includes(c))
     ];
 
@@ -835,46 +835,6 @@ loadHome();
 
 
 
-<script id="ensure-russia-country-chip">
-(function () {
-  async function getRussiaCount() {
-    try {
-      const res = await fetch("assets/data/episodes.json", { cache: "no-store" });
-      const episodes = await res.json();
-      const count = episodes.filter((item) => item.country === "Russia").length;
-      return count || 1;
-    } catch (err) {
-      return 1;
-    }
-  }
-
-  async function ensureRussiaChip() {
-    const preview = document.getElementById("country-preview");
-    if (!preview) return;
-
-    if (preview.textContent.includes("Russia")) return;
-
-    const count = await getRussiaCount();
-
-    const link = document.createElement("a");
-    link.className = "country-chip";
-    link.href = "stories.html?country=Russia";
-    link.setAttribute("data-country", "Russia");
-    link.innerHTML = `
-      <strong><span class="flag-code">RU</span> Russia</strong>
-      <span>${count} ${count === 1 ? "memory" : "memories"}</span>
-    `;
-
-    preview.appendChild(link);
-  }
-
-  document.addEventListener("DOMContentLoaded", ensureRussiaChip);
-  window.addEventListener("load", ensureRussiaChip);
-  setTimeout(ensureRussiaChip, 600);
-  setTimeout(ensureRussiaChip, 1800);
-  setTimeout(ensureRussiaChip, 3500);
-})();
-</script>
 
 </body>
 </html>

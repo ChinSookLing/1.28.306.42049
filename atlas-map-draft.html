@@ -85,7 +85,7 @@
     .node-code {
       pointer-events: none;
       font-family: var(--font-sans, system-ui, sans-serif);
-      font-size: 15px;
+      font-size: 13px;
       font-weight: 900;
       text-anchor: middle;
       dominant-baseline: central;
@@ -235,17 +235,17 @@
         <path d="M890,455 C960,420 1055,442 1090,500 C1124,560 1058,605 980,592 C910,581 845,510 890,455Z" fill="rgba(255,248,225,0.82)"/>
         <path d="M95,42 C140,18 190,18 225,52 C196,80 145,88 95,42Z" fill="rgba(255,248,225,0.82)"/>
 
-        <text x="175" y="260" class="region-label">Europe</text>
-        <text x="460" y="285" class="region-label">Caucasus</text>
-        <text x="705" y="260" class="region-label">Central Asia</text>
-        <text x="950" y="335" class="region-label">China</text>
-        <text x="945" y="510" class="region-label">Southeast Asia</text>
-        <text x="96" y="86" class="region-label">Iceland</text>
+        <text x="155" y="125" class="region-label">North Atlantic</text>
+        <text x="250" y="330" class="region-label">Europe</text>
+        <text x="555" y="330" class="region-label">Caucasus</text>
+        <text x="725" y="245" class="region-label">Central Asia</text>
+        <text x="950" y="300" class="region-label">China</text>
+        <text x="1000" y="555" class="region-label">Southeast Asia</text>
 
         <!-- routes -->
-        <polyline class="route-line outward" points="940,570 720,470 780,430 650,430 540,390 430,330"/>
-        <polyline class="route-line northern" points="430,330 485,300 475,325 360,285 380,255 320,235 330,215 300,235 300,210 360,185 275,190 285,120 140,80"/>
-        <polyline class="route-line homeward" points="140,80 275,190 360,185 420,160 440,130 570,150 485,300 510,325 720,280 950,330 1010,470 990,520 940,570"/>
+        <polyline class="route-line outward" points="955,590 805,485 840,400 720,440 600,430 500,370"/>
+        <polyline class="route-line northern" points="500,370 555,345 540,375 410,345 430,305 370,285 355,250 300,300 310,260 360,210 265,240 270,170 120,80"/>
+        <polyline class="route-line homeward" points="120,80 270,170 265,240 360,210 430,180 455,145 595,155 555,345 585,375 745,275 940,340 1010,470 985,525 955,590"/>
 
         <!-- nodes are filled by JS with counts but coordinates live here -->
         <g id="map-nodes"></g>
@@ -299,34 +299,34 @@
 
 <script>
 const nodes = [
-  { id: "MY", label: "Malaysia", countries: ["Malaysia"], x: 940, y: 570, status: "active" },
-  { id: "IN", label: "India", countries: ["India"], x: 720, y: 470, status: "active" },
-  { id: "NP", label: "Nepal", countries: ["Nepal"], x: 780, y: 430, status: "active" },
-  { id: "PK", label: "Pakistan", countries: ["Pakistan"], x: 650, y: 430, status: "active" },
-  { id: "IR", label: "Iran", countries: ["Iran"], x: 540, y: 390, status: "active" },
-  { id: "TR", label: "Turkey", countries: ["Turkey"], x: 430, y: 330, status: "active" },
+  { id: "MY", label: "Malaysia", countries: ["Malaysia"], x: 955, y: 590, status: "active" },
+  { id: "IN", label: "India", countries: ["India"], x: 805, y: 485, status: "active" },
+  { id: "NP", label: "Nepal", countries: ["Nepal"], x: 840, y: 400, status: "active" },
+  { id: "PK", label: "Pakistan", countries: ["Pakistan"], x: 720, y: 440, status: "active" },
+  { id: "IR", label: "Iran", countries: ["Iran"], x: 600, y: 430, status: "active" },
+  { id: "TR", label: "Turkey", countries: ["Turkey"], x: 500, y: 370, status: "active" },
 
-  { id: "GE", label: "Georgia", countries: ["Georgia"], x: 485, y: 300, status: "active" },
-  { id: "AM", label: "Armenia", countries: ["Armenia"], x: 475, y: 325, status: "active" },
-  { id: "BG", label: "Bulgaria", countries: ["Bulgaria"], x: 360, y: 285, status: "active" },
-  { id: "RO", label: "Romania", countries: ["Romania"], x: 380, y: 255, status: "active" },
-  { id: "HU", label: "Hungary", countries: ["Hungary"], x: 320, y: 235, status: "active" },
-  { id: "SK", label: "Slovakia", countries: ["Slovakia"], x: 330, y: 215, status: "active" },
-  { id: "AT", label: "Austria", countries: ["Austria"], x: 300, y: 235, status: "active" },
-  { id: "CZ", label: "Czech Republic", countries: ["Czech Republic"], x: 300, y: 210, status: "active" },
-  { id: "PL", label: "Poland", countries: ["Poland"], x: 360, y: 185, status: "active" },
-  { id: "DE", label: "Germany", countries: ["Germany"], x: 275, y: 190, status: "active" },
-  { id: "DK", label: "Denmark", countries: ["Denmark"], x: 285, y: 120, status: "active" },
-  { id: "IS", label: "Iceland", countries: ["Iceland"], x: 140, y: 80, status: "active" },
+  { id: "GE", label: "Georgia", countries: ["Georgia"], x: 555, y: 345, status: "active" },
+  { id: "AM", label: "Armenia", countries: ["Armenia"], x: 540, y: 375, status: "active" },
+  { id: "BG", label: "Bulgaria", countries: ["Bulgaria"], x: 410, y: 345, status: "active" },
+  { id: "RO", label: "Romania", countries: ["Romania"], x: 430, y: 305, status: "active" },
+  { id: "HU", label: "Hungary", countries: ["Hungary"], x: 370, y: 285, status: "active" },
+  { id: "SK", label: "Slovakia", countries: ["Slovakia"], x: 355, y: 250, status: "active" },
+  { id: "AT", label: "Austria", countries: ["Austria"], x: 300, y: 300, status: "active" },
+  { id: "CZ", label: "Czech Republic", countries: ["Czech Republic"], x: 310, y: 260, status: "active" },
+  { id: "PL", label: "Poland", countries: ["Poland"], x: 360, y: 210, status: "active" },
+  { id: "DE", label: "Germany", countries: ["Germany"], x: 265, y: 240, status: "active" },
+  { id: "DK", label: "Denmark", countries: ["Denmark"], x: 270, y: 170, status: "active" },
+  { id: "IS", label: "Iceland", countries: ["Iceland"], x: 120, y: 80, status: "active" },
 
-  { id: "LT", label: "Lithuania", countries: ["Lithuania"], x: 420, y: 160, status: "active" },
-  { id: "LV/EE", label: "Latvia / Estonia", countries: ["Latvia", "Estonia"], x: 440, y: 130, status: "active" },
-  { id: "RU", label: "Russia", countries: ["Russia"], x: 570, y: 150, status: "future" },
-  { id: "AZ", label: "Azerbaijan", countries: ["Azerbaijan"], x: 510, y: 325, status: "future" },
-  { id: "KZ", label: "Kazakhstan", countries: ["Kazakhstan"], x: 720, y: 280, status: "future" },
-  { id: "CN", label: "China", countries: ["China"], x: 950, y: 330, status: "future" },
+  { id: "LT", label: "Lithuania", countries: ["Lithuania"], x: 430, y: 180, status: "active" },
+  { id: "LV/EE", label: "Latvia / Estonia", countries: ["Latvia", "Estonia"], x: 455, y: 145, status: "active" },
+  { id: "RU", label: "Russia", countries: ["Russia"], x: 595, y: 155, status: "future" },
+  { id: "AZ", label: "Azerbaijan", countries: ["Azerbaijan"], x: 585, y: 375, status: "future" },
+  { id: "KZ", label: "Kazakhstan", countries: ["Kazakhstan"], x: 745, y: 275, status: "future" },
+  { id: "CN", label: "China", countries: ["China"], x: 940, y: 340, status: "future" },
   { id: "LA", label: "Laos", countries: ["Laos"], x: 1010, y: 470, status: "future" },
-  { id: "TH", label: "Thailand", countries: ["Thailand"], x: 990, y: 520, status: "future" }
+  { id: "TH", label: "Thailand", countries: ["Thailand"], x: 985, y: 525, status: "future" }
 ];
 
 const captions = {
@@ -416,7 +416,7 @@ async function loadMap() {
       "aria-label": `${node.label}, ${items.length} memory entries`
     });
 
-    g.appendChild(svgEl("circle", { class: "node-dot", cx: node.x, cy: node.y, r: 19 }));
+    g.appendChild(svgEl("circle", { class: "node-dot", cx: node.x, cy: node.y, r: 16 }));
 
     const code = svgEl("text", { class: "node-code", x: node.x, y: node.y });
     code.textContent = node.id;

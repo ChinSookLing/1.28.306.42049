@@ -1935,5 +1935,29 @@
       "Volgograd",
       "cash"
     ]
+  },
+  {
+    "slug": "the-pen-i-gave-instead-of-money",
+    "title": "The Pen I Gave Instead of Money",
+    "titleZh": "我给出的不是钱，是一支笔",
+    "country": "Russia",
+    "location": "Vladikavkaz / North Ossetia–Alania / Russia",
+    "date": "2024-06-23",
+    "journeyPhase": "Russia Road / Checkpoint Memory",
+    "excerpt": "On the road to Georgia, after a special-territory warning and another unclear request, I gave a Tuzi Vlogs pen instead of money.",
+    "excerptZh": "去 Georgia 的路上，special territory 的警告之后又遇到不清楚的要求，我没有给钱，只给了一支 Tuzi Vlogs 的笔。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/road-to-georgia-checkpoint-encounter.png",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/road-to-georgia-checkpoint-encounter.png",
+    "imageAlt": "Illustration based on dashcam memory of a checkpoint encounter near Vladikavkaz.",
+    "tags": [
+      "Russia",
+      "Vladikavkaz",
+      "North Ossetia-Alania",
+      "Georgia road",
+      "checkpoint",
+      "Nataliya",
+      "Tuzi Vlogs pen",
+      "dashcam illustration"
+    ]
   }
 ]

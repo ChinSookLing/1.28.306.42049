@@ -1778,29 +1778,69 @@
     "excerptZh": "一张我不知道自己需要的 GoSwift 排队票，让 Luhamaa 变成几天等待、噪音、海关压力，以及最后从 Sumilkino 出来时的松一口气。"
   },
   {
-    "slug": "after-the-border-the-names",
-    "title": "After the Border, the Names",
-    "titleZh": "过了边境以后，看见那些名字",
+    "slug": "after-sumilkino-supplies-and-shelter",
+    "title": "After Sumilkino, Supplies and Shelter",
+    "titleZh": "过了 Sumilkino，先找到物资和过夜处",
     "country": "Russia",
-    "location": "Pskov / Velikiye Luki / Staro / Russia",
+    "location": "Sumilkino / Pskov / Russia",
     "date": "2024-06-14",
-    "journeyPhase": "Russia Entry / Peace and War Memory",
-    "excerpt": "After Sumilkino, Russia opened through petrol, 24/7 supplies, food, parking nights, and the heavy aura of war memorials.",
-    "excerptZh": "从 Sumilkino 出来以后，Russia 通过汽油、24/7 物资、普通一餐、停车过夜，以及战争纪念碑沉重的 aura 慢慢打开。",
+    "journeyPhase": "Russia Entry / Supplies and Shelter",
+    "excerpt": "After Sumilkino, Russia first opened through petrol, 24/7 supplies, a simple meal, and a free parking night near Pskov Kremlin.",
+    "excerptZh": "从 Sumilkino 出来以后，Russia 第一扇门是汽油、24/7 物资、一份普通餐，以及 Pskov Kremlin 附近的免费停车过夜。",
     "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/pskov-kremlin-free-parking.jpg",
     "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/pskov-kremlin-free-parking.jpg",
     "imageAlt": "Toyotaki parked near Pskov Kremlin with church domes in the background.",
     "tags": [
       "Russia",
-      "Pskov",
-      "Velikiye Luki",
-      "Staro",
       "Sumilkino",
+      "Pskov",
       "petrol",
       "24/7 supplies",
       "food",
+      "parking"
+    ]
+  },
+  {
+    "slug": "after-the-border-the-names",
+    "title": "After the Border, the Names",
+    "titleZh": "过了边境以后，看见那些名字",
+    "country": "Russia",
+    "location": "Velikiye Luki / Russia",
+    "date": "2024-06-15",
+    "journeyPhase": "Russia Road / Names and Memorials",
+    "excerpt": "Along the road toward Velikiye Luki, rows of names on war memorials made history feel like someone’s son, husband, and father.",
+    "excerptZh": "往 Velikiye Luki 的路上，战争纪念碑上一排一排的名字，让历史变成别人家的儿子、丈夫和父亲。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/russia-war-memorial-names.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/russia-war-memorial-names.jpg",
+    "imageAlt": "A Russian war memorial with rows of names on dark plaques.",
+    "tags": [
+      "Russia",
+      "Velikiye Luki",
       "war memorial",
-      "peace"
+      "names",
+      "parking"
+    ]
+  },
+  {
+    "slug": "the-steel-statue-and-the-weight-of-peace",
+    "title": "The Steel Statue and the Weight of Peace",
+    "titleZh": "钢铁雕像前，和平的重量",
+    "country": "Russia",
+    "location": "Second World War Memorial / Camping Parus, Stara / Russia",
+    "date": "2024-06-16",
+    "journeyPhase": "Russia Road / Peace and War Memory",
+    "excerpt": "A giant Second World War steel statue carried an aura of pain and memory, before the road quieted down at Camping Parus, Stara.",
+    "excerptZh": "巨大的第二次世界大战钢铁雕像带着痛苦和记忆的 aura，然后路在 Camping Parus, Stara 的傍晚慢慢安静下来。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/wwii-steel-memorial-toyotaki.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/wwii-steel-memorial-toyotaki.jpg",
+    "imageAlt": "Toyotaki parked near the road with the giant steel memorial in the distance.",
+    "tags": [
+      "Russia",
+      "Second World War",
+      "steel statue",
+      "peace",
+      "Camping Parus",
+      "Stara"
     ]
   }
 ]

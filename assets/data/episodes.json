@@ -1752,5 +1752,22 @@
     "affiliate": "Tuzi",
     "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/opening-route/misso-tir-parking-sleeping-area-thumb.jpg",
     "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/opening-route/misso-tir-parking-sleeping-area-thumb.jpg"
+  },
+  {
+    "slug": "the-ticket-i-did-not-know-i-needed",
+    "title": "The Ticket I Did Not Know I Needed",
+    "country": "Estonia",
+    "location": "Luhamaa Border Parking / Vastseliina Metskond Camping",
+    "date": "2024-06-08",
+    "journeyPhase": "Baltic Gate / Border Waiting",
+    "excerpt": "At Luhamaa, a border queue became a three-day wait after I discovered I needed a GoSwift ticket I did not know how to read.",
+    "tags": [
+      "Estonia",
+      "Luhamaa",
+      "GoSwift",
+      "border",
+      "waiting",
+      "camping"
+    ]
   }
 ]

@@ -36,7 +36,7 @@
       </p>
       <div class="home-actions">
         <a class="button" href="stories.html">Enter the Stories</a>
-        <a class="button secondary" href="atlas.html">Explore the Atlas</a>
+        <a class="button secondary" href="atlas.html">Open the Atlas Map</a>
       </div>
     </div>
 
@@ -629,5 +629,40 @@ async function loadHome() {
 
 loadHome();
 </script>
+
+<script id="make-guide-cards-clickable">
+(function () {
+  const links = {
+    Stories: "stories.html",
+    Atlas: "atlas.html",
+    Gallery: "gallery.html"
+  };
+
+  document.querySelectorAll("article, .card").forEach((card) => {
+    const heading = card.querySelector("h3");
+    if (!heading) return;
+
+    const key = heading.textContent.trim();
+    const href = links[key];
+    if (!href) return;
+
+    card.style.cursor = "pointer";
+    card.setAttribute("role", "link");
+    card.setAttribute("tabindex", "0");
+
+    card.addEventListener("click", (event) => {
+      if (event.target.closest("a, button")) return;
+      window.location.href = href;
+    });
+
+    card.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter" && event.key !== " ") return;
+      event.preventDefault();
+      window.location.href = href;
+    });
+  });
+})();
+</script>
+
 </body>
 </html>

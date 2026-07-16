@@ -1714,8 +1714,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/lithuania/kaunas-zemaiciu-kalvarija/toyotaki-and-german-expedition-camper-kaunas-thumb.jpg",
-    "thumb": "assets/images/stories/lithuania/kaunas-zemaiciu-kalvarija/toyotaki-and-german-expedition-camper-kaunas-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/lithuania/kaunas-zemaiciu-kalvarija/toyotaki-and-german-expedition-camper-kaunas-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/lithuania/kaunas-zemaiciu-kalvarija/toyotaki-and-german-expedition-camper-kaunas-thumb.jpg"
   },
   {
     "slug": "latvia-first-crossing-from-lithuania",
@@ -1731,8 +1731,8 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/latvia-estonia/opening-route/reach-latvia-from-lithuania-thumb.jpg",
-    "thumb": "assets/images/stories/latvia-estonia/opening-route/reach-latvia-from-lithuania-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/opening-route/reach-latvia-from-lithuania-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/opening-route/reach-latvia-from-lithuania-thumb.jpg"
   },
   {
     "slug": "one-day-two-countries-latvia-estonia-and-russia-route-warning",
@@ -1750,7 +1750,7 @@
     ],
     "status": "Archive Record",
     "affiliate": "Tuzi",
-    "image": "../assets/images/stories/latvia-estonia/opening-route/misso-tir-parking-sleeping-area-thumb.jpg",
-    "thumb": "assets/images/stories/latvia-estonia/opening-route/misso-tir-parking-sleeping-area-thumb.jpg"
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/opening-route/misso-tir-parking-sleeping-area-thumb.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/opening-route/misso-tir-parking-sleeping-area-thumb.jpg"
   }
 ]

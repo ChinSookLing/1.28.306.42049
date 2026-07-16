@@ -1959,5 +1959,29 @@
       "Tuzi Vlogs pen",
       "dashcam illustration"
     ]
+  },
+  {
+    "slug": "georgia-opened-again-through-plan-c",
+    "title": "Georgia Opened Again Through Plan C",
+    "titleZh": "Georgia 再次打开，是因为 Plan C",
+    "country": "Georgia",
+    "location": "Camp A Way / Georgia",
+    "date": "2024-06-24",
+    "journeyPhase": "Georgia Return / Route Rebuild",
+    "excerpt": "At Camp A Way, Plan A collapsed and Plan C appeared: container to Baku, flight to Baku, ferry to Aktau, and 3,800 km to Horgos.",
+    "excerptZh": "在 Camp A Way，Plan A 行不通了，Plan C 出现：campervan 用 container 去 Baku，人飞 Baku，再 ferry 去 Aktau，最后 3800 km 去 Horgos。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/georgia/georgia-camp-a-way-plan-c-24-june.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/georgia/georgia-camp-a-way-plan-c-24-june.jpg",
+    "imageAlt": "Toyotaki parked at Camp A Way in Georgia under vines beside other camper vehicles.",
+    "tags": [
+      "Georgia",
+      "Camp A Way",
+      "Plan C",
+      "Baku",
+      "Aktau",
+      "Horgos",
+      "container",
+      "ferry"
+    ]
   }
 ]

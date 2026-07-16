@@ -665,38 +665,129 @@ loadHome();
 </script>
 
 
+
 <script id="home-country-chambers-link-to-stories">
 (function () {
-  function toStoriesHref(href) {
-    return href
-      .replace("atlas.html?country=", "stories.html?country=")
-      .replace("atlas.html#country-", "stories.html#country-");
+  const countries = [
+    "Czech Republic",
+    "Malaysia",
+    "Pakistan",
+    "Armenia",
+    "Georgia",
+    "Bulgaria",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Austria",
+    "Germany",
+    "Denmark",
+    "Iceland",
+    "Lithuania",
+    "Estonia",
+    "Turkey",
+    "Poland",
+    "Latvia",
+    "India",
+    "Nepal",
+    "Iran"
+  ].sort((a, b) => b.length - a.length);
+
+  function escapeRegExp(value) {
+    return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   }
 
-  function fixCountryLinks() {
-    document
-      .querySelectorAll('a[href*="atlas.html?country="], a[href*="atlas.html#country-"]')
-      .forEach((link) => {
-        link.setAttribute("href", toStoriesHref(link.getAttribute("href")));
+  function findCountry(text) {
+    const source = String(text || "");
+    return countries.find((country) => {
+      return new RegExp("(^|\\s|,|\\n)" + escapeRegExp(country) + "(\\s|,|\\n|$)", "i").test(source);
+    });
+  }
+
+  function storiesHref(country) {
+    return "stories.html?country=" + encodeURIComponent(country);
+  }
+
+  function findCountryChambersSection() {
+    const markers = Array.from(document.querySelectorAll("p, span, h2, h3, div"))
+      .filter((el) => el.textContent.trim().toUpperCase() === "CURRENT COUNTRY CHAMBERS");
+
+    const marker = markers[0];
+    if (!marker) return null;
+
+    return marker.closest("section") || marker.parentElement;
+  }
+
+  function findClickableCountryCard(target, section) {
+    let el = target;
+
+    while (el && el !== section && el !== document.body) {
+      if (el.matches("h1, h2, h3, p, span, small")) {
+        el = el.parentElement;
+        continue;
+      }
+
+      const country =
+        el.getAttribute("data-country") ||
+        findCountry(el.textContent);
+
+      const looksClickable =
+        el.matches("a, button, article, li, [role='link'], [onclick], .card, .country-card, .chamber-card, .archive-card, .country-tile, .stat-card");
+
+      if (country && looksClickable) {
+        return { el, country };
+      }
+
+      el = el.parentElement;
+    }
+
+    return null;
+  }
+
+  function fixVisibleLinks() {
+    const section = findCountryChambersSection();
+    if (!section) return;
+
+    section.querySelectorAll("a").forEach((link) => {
+      const country = link.getAttribute("data-country") || findCountry(link.textContent) || findCountry(link.href);
+      if (!country) return;
+      link.setAttribute("href", storiesHref(country));
+    });
+
+    section
+      .querySelectorAll("a, button, article, li, [role='link'], [onclick], .card, .country-card, .chamber-card, .archive-card, .country-tile, .stat-card")
+      .forEach((card) => {
+        const country = card.getAttribute("data-country") || findCountry(card.textContent);
+        if (!country) return;
+        card.style.cursor = "pointer";
+        card.setAttribute("title", "Open " + country + " stories");
       });
   }
 
   document.addEventListener("click", function (event) {
-    const link = event.target.closest('a[href*="atlas.html?country="], a[href*="atlas.html#country-"]');
-    if (!link) return;
+    const section = findCountryChambersSection();
+    if (!section || !section.contains(event.target)) return;
+
+    const result = findClickableCountryCard(event.target, section);
+    if (!result) return;
 
     event.preventDefault();
-    window.location.href = toStoriesHref(link.getAttribute("href"));
+    event.stopPropagation();
+    event.stopImmediatePropagation();
+
+    window.location.href = storiesHref(result.country);
   }, true);
 
-  document.addEventListener("DOMContentLoaded", fixCountryLinks);
-  new MutationObserver(fixCountryLinks).observe(document.documentElement, {
+  document.addEventListener("DOMContentLoaded", fixVisibleLinks);
+
+  new MutationObserver(fixVisibleLinks).observe(document.documentElement, {
     childList: true,
     subtree: true
   });
-  fixCountryLinks();
+
+  fixVisibleLinks();
 })();
 </script>
+
 
 </body>
 </html>

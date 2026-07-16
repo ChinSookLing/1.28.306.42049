@@ -1866,5 +1866,50 @@
       "Toyotaki",
       "navigation"
     ]
+  },
+  {
+    "slug": "the-monastery-parking-after-moscow",
+    "title": "The Monastery Parking After Moscow",
+    "titleZh": "离开 Moscow 后，停在修道院旁",
+    "country": "Russia",
+    "location": "Kazanskiy Tambovskiy Muzhskoy Monastyr' parking / Russia",
+    "date": "2024-06-18",
+    "journeyPhase": "Russia Road / After Moscow Navigation",
+    "excerpt": "After the Kremlin-area Google Maps lag, I moved south and stayed beside Kazanskiy Tambovskiy Muzhskoy Monastyr'.",
+    "excerptZh": "经历 Kremlin 附近 Google Map 严重 lag 之后，我往南移动，在 Kazanskiy Tambovskiy Muzhskoy Monastyr' 旁边过夜。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/kazanskiy-tambovskiy-monastyr-parking-18-june.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/kazanskiy-tambovskiy-monastyr-parking-18-june.jpg",
+    "imageAlt": "Toyotaki parked near Kazanskiy Tambovskiy Muzhskoy Monastyr'.",
+    "tags": [
+      "Russia",
+      "monastery",
+      "Moscow",
+      "Google Maps",
+      "parking",
+      "church"
+    ]
+  },
+  {
+    "slug": "the-border-that-sent-me-back-to-plan-a",
+    "title": "The Border That Sent Me Back to Plan A",
+    "titleZh": "不能从这里出境，只好回到 Plan A",
+    "country": "Russia",
+    "location": "APP Burgristoye / Ozinki / Russia",
+    "date": "2024-06-20",
+    "journeyPhase": "Russia Road / E-visa Border Reversal",
+    "excerpt": "After sauna, shower, and laundry, the Kazakhstan border would not allow my e-visa exit, sending me back to Plan A: Georgia first.",
+    "excerptZh": "sauna、shower 和 laundry 之后，Kazakhstan border 不能让我用 e-visa 从那里出境，只好回到 Plan A：先去 Georgia。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/ozinki-border-plan-a-parking-20-june.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/ozinki-border-plan-a-parking-20-june.jpg",
+    "imageAlt": "Toyotaki parked at Ozinki after the Kazakhstan border plan failed.",
+    "tags": [
+      "Russia",
+      "Kazakhstan border",
+      "e-visa",
+      "Ozinki",
+      "Georgia",
+      "Plan A",
+      "laundry"
+    ]
   }
 ]

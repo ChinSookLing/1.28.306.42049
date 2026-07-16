@@ -1911,5 +1911,29 @@
       "Plan A",
       "laundry"
     ]
+  },
+  {
+    "slug": "the-300-km-back-to-my-documents",
+    "title": "The 300 km Back to My Documents",
+    "titleZh": "为了证件，开回 300 km",
+    "country": "Russia",
+    "location": "Saratov / Mini Hotel U Pruda / Volgograd road / Russia",
+    "date": "2024-06-21",
+    "journeyPhase": "Russia Road / Documents and Border Rules",
+    "excerpt": "After visiting MID Saratov and immigration, I left my passport and immigration documents behind, then drove 300 km back with limited cash to recover them.",
+    "excerptZh": "去过 MID Saratov 和 immigration 之后，我把 passport 和 immigration documents 留在那边，只好带着有限现金开回 300 km 取回。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/saratov-road-wide-sky-21-june.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/russia/saratov-road-wide-sky-21-june.jpg",
+    "imageAlt": "Wide open Russian roadside landscape with dramatic clouds on 21 June 2024.",
+    "tags": [
+      "Russia",
+      "Saratov",
+      "MID",
+      "passport",
+      "immigration documents",
+      "Nataliya",
+      "Volgograd",
+      "cash"
+    ]
   }
 ]

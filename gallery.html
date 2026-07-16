@@ -6,6 +6,64 @@
   <title>Gallery — 1.28.306.42049</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="fix.css">
+
+<style id="georgia-petronas-gallery-style">
+  .georgia-petronas-feature {
+    max-width: 1120px;
+    margin: 3rem auto;
+    padding: 0 1rem;
+  }
+
+  .georgia-petronas-card {
+    display: grid;
+    grid-template-columns: minmax(0, 1.15fr) minmax(260px, 0.85fr);
+    gap: 1.25rem;
+    align-items: stretch;
+    border: 1px solid rgba(40, 32, 24, 0.14);
+    border-radius: 26px;
+    overflow: hidden;
+    background: rgba(255, 250, 239, 0.72);
+  }
+
+  .georgia-petronas-card img {
+    width: 100%;
+    height: 100%;
+    min-height: 320px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .georgia-petronas-copy {
+    padding: 1.35rem;
+    display: grid;
+    align-content: center;
+    gap: 0.8rem;
+  }
+
+  .georgia-petronas-copy p {
+    margin: 0;
+    line-height: 1.65;
+  }
+
+  .georgia-petronas-copy .zh {
+    font-weight: 650;
+  }
+
+  .georgia-petronas-copy .en {
+    opacity: 0.78;
+  }
+
+  @media (max-width: 760px) {
+    .georgia-petronas-card {
+      grid-template-columns: 1fr;
+    }
+
+    .georgia-petronas-card img {
+      min-height: auto;
+    }
+  }
+</style>
+
 </head>
 <body>
 <header class="site-header">
@@ -34,6 +92,32 @@
       a greeting, a short scene that would disappear if kept only as a still photo.
     </p>
   </section>
+
+
+<section class="georgia-petronas-feature" id="georgia-petronas-carparts-shop">
+  <p class="kicker">Georgia Gallery · Petronas far from home</p>
+  <div class="georgia-petronas-card">
+    <img src="https://chinsookling.github.io/1234-media-europe/assets/images/gallery/georgia/georgia-petronas-carparts-shop.jpg" alt="Petronas products displayed at a carparts shop in Georgia beside Toyotaki.">
+    <div class="georgia-petronas-copy">
+      <h2>Petronas appeared in Georgia.</h2>
+      <p class="zh">
+        Petronas 是 Malaysia brand，对不？可是在 Georgia 的 carparts shop 里突然出现。路上有时候会在很远的地方遇见自己的国家。
+      </p>
+      <p class="en">
+        Petronas is a Malaysian brand, yet it suddenly appeared in a carparts shop in Georgia.
+        Sometimes the road lets you meet your own country very far from home.
+      </p>
+      <p class="zh">
+        这不是大事件，只是一个小小的 visual fragment：Toyotaki 停在旁边，Georgia 字母在上面，Petronas 绿色在门口。
+      </p>
+      <p class="en">
+        It was not a major event, only a small visual fragment: Toyotaki beside the shop,
+        Georgian letters above, and Petronas green at the entrance.
+      </p>
+    </div>
+  </div>
+</section>
+
 
   <section class="prose">
     <p class="kicker">中文说明</p>

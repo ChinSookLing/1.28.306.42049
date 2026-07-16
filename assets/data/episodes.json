@@ -1757,20 +1757,24 @@
     "slug": "the-ticket-i-did-not-know-i-needed",
     "title": "The Ticket I Did Not Know I Needed",
     "country": "Estonia",
-    "location": "Luhamaa Border Parking / Vastseliina Metskond Camping",
+    "location": "Luhamaa Border Parking / Vastseliina Metskond Camping / Sumilkino Border",
     "date": "2024-06-08",
-    "journeyPhase": "Baltic Gate / Border Waiting",
-    "excerpt": "At Luhamaa, a border queue became a three-day wait after I discovered I needed a GoSwift ticket I did not know how to read.",
+    "journeyPhase": "Baltic Gate / Border Systems",
+    "excerpt": "A GoSwift ticket I did not know I needed turned Luhamaa into days of waiting, noise, customs worry, and finally relief at Sumilkino.",
     "tags": [
       "Estonia",
       "Luhamaa",
       "GoSwift",
+      "Sumilkino",
       "border",
       "waiting",
-      "camping"
+      "camping",
+      "customs"
     ],
     "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/luhamaa-border-parking.jpg",
     "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/luhamaa-border-parking.jpg",
-    "imageAlt": "Toyotaki parked at Luhamaa Border Parking among cars and trucks under a blue sky."
+    "imageAlt": "Toyotaki parked at Luhamaa Border Parking among cars and trucks under a blue sky.",
+    "titleZh": "我不知道自己需要的一张票",
+    "excerptZh": "一张我不知道自己需要的 GoSwift 排队票，让 Luhamaa 变成几天等待、噪音、海关压力，以及最后从 Sumilkino 出来时的松一口气。"
   }
 ]

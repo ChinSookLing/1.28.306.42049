@@ -15,13 +15,26 @@
 
     .story-body {
       display: grid;
-      gap: 1.4rem;
+      gap: 1.45rem;
       font-size: 1.05rem;
       line-height: 1.75;
     }
 
-    .story-body p {
+    .story-block {
+      display: grid;
+      gap: 0.55rem;
+    }
+
+    .story-block p {
       margin: 0;
+    }
+
+    .story-block .zh {
+      font-weight: 620;
+    }
+
+    .story-block .en {
+      opacity: 0.82;
     }
 
     .story-figure {
@@ -39,9 +52,11 @@
     }
 
     .story-figure figcaption {
+      display: grid;
+      gap: 0.25rem;
       padding: 0.8rem 1rem;
       font-size: 0.9rem;
-      opacity: 0.72;
+      opacity: 0.76;
     }
 
     .story-meta-card {
@@ -66,6 +81,11 @@
     .story-meta-card dd {
       margin: 0;
     }
+
+    .story-subtitle {
+      margin-top: 0.5rem;
+      font-size: clamp(1.5rem, 3vw, 2.3rem);
+    }
   </style>
 </head>
 
@@ -89,91 +109,217 @@
 
 <main class="story-shell">
   <section class="page-hero">
-    <p class="kicker">Estonia · Border Waiting · 8–10 June 2024</p>
+    <p class="kicker">Estonia / Russia Border · Luhamaa / Sumilkino · 8–14 June 2024</p>
     <h1>The Ticket I Did Not Know I Needed</h1>
-    <p>
-      Luhamaa Border Parking, GoSwift, a three-day slot, and the cold-storage noise that stayed above my head.
-    </p>
+    <h2 class="story-subtitle">我不知道自己需要的一张票</h2>
+
+    <div class="story-block">
+      <p class="zh">
+        这不是一篇景点故事，而是一篇边境系统故事：GoSwift、排队票、三天等待、冷冻货柜的噪音、俄罗斯海关检查，以及最后终于驶出 Sumilkino 边境时的松一口气。
+      </p>
+      <p class="en">
+        This is not a sightseeing story. It is a border-system story: GoSwift, a queue ticket, three days of waiting,
+        the noise of a cold-storage container, Russian customs inspection, and the relief of finally driving out through Sumilkino.
+      </p>
+    </div>
 
     <div class="story-meta-card">
       <dl>
         <dt>Location</dt>
-        <dd>Luhamaa Border Parking → Vastseliina Metskond Camping</dd>
+        <dd>Luhamaa Border Parking → Vastseliina Metskond Camping → Russian APP Sumilkino Border</dd>
         <dt>Route Node</dt>
         <dd>Latvia / Estonia · Baltic Gate</dd>
         <dt>Date</dt>
-        <dd>8–10 June 2024</dd>
+        <dd>8–14 June 2024</dd>
       </dl>
     </div>
   </section>
 
   <article class="story-body">
-    <p>
-      On 8 June 2024, I was at the sleeping area of Luhamaa Border Parking.
-    </p>
+    <div class="story-block">
+      <p class="zh">
+        2024 年 6 月 8 日，我在 Luhamaa Border Parking 的 sleeping area。
+      </p>
+      <p class="en">
+        On 8 June 2024, I was at the sleeping area of Luhamaa Border Parking.
+      </p>
+    </div>
 
-    <p>
-      It was not a quiet night. A cold-storage container nearby was running twenty-four hours a day.
-      The metallic clinging sound stayed in my ears and above my head. I did not complain much then,
-      but the noise was there, pressing on the night while I tried to rest inside Toyotaki.
-    </p>
+    <div class="story-block">
+      <p class="zh">
+        那不是一个安静的夜晚。附近有一个冷冻货柜 24 小时开着，金属的 clinging 声一直在耳边、在头顶上方。我当时没有一直抱怨，可是那个声音是真的存在，压着夜晚，也压着 Toyotaki 里面想休息的我。
+      </p>
+      <p class="en">
+        It was not a quiet night. A cold-storage container nearby was running twenty-four hours a day.
+        The metallic clinging sound stayed in my ears and above my head. I did not complain much then,
+        but the noise was there, pressing on the night while I tried to rest inside Toyotaki.
+      </p>
+    </div>
 
     <figure class="story-figure">
       <img src="https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/luhamaa-border-parking.jpg" alt="Toyotaki parked at Luhamaa Border Parking among cars and trucks under a blue sky.">
       <figcaption>
-        Luhamaa Border Parking, where the queue became a three-day wait.
+        <span>在 Luhamaa Border Parking，排队后来变成三天等待。</span>
+        <span>Luhamaa Border Parking, where the queue became a three-day wait.</span>
       </figcaption>
     </figure>
 
-    <p>
-      Before that, I had seen one comment in the parking app mentioning the GoSwift system at the border.
-      I could not understand what it meant, so I ignored it.
-    </p>
+    <div class="story-block">
+      <p class="zh">
+        在那之前，我曾经在 parking app 里看到有人留言提到 GoSwift 系统。可是我看不明白，所以就忽略了。
+      </p>
+      <p class="en">
+        Before that, I had seen one comment in the parking app mentioning the GoSwift system at the border.
+        I could not understand what it meant, so I ignored it.
+      </p>
+    </div>
 
-    <p>
-      That day, I queued at the Luhamaa border for three hours.
-      Only then did an Estonian officer notice me and tell me that I first needed to go to a nearby counter
-      to obtain a ticket, something like the queue number ticket used in a bank.
-    </p>
+    <figure class="story-figure">
+      <img src="https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/goswift-luhamaa-status.jpg" alt="GoSwift queue management service screenshot showing Luhamaa checkpoint waiting times and pre-reservation status.">
+      <figcaption>
+        <span>GoSwift 页面显示 Luhamaa checkpoint 的等待时间、车辆数量和预约状态。</span>
+        <span>The GoSwift page showed Luhamaa checkpoint waiting times, queue numbers, and reservation status.</span>
+      </figcaption>
+    </figure>
 
-    <p>
-      I went to the counter.
-    </p>
+    <div class="story-block">
+      <p class="zh">
+        当天我去 Luhamaa border 排队。排了三个小时之后，Estonia officer 才注意到我，并告诉我需要先到附近的 counter 取得一个 ticket，就像银行排队号码那样。
+      </p>
+      <p class="en">
+        That day, I queued at the Luhamaa border for three hours.
+        Only then did an Estonian officer notice me and tell me that I first needed to go to a nearby counter
+        to obtain a ticket, something like the queue number ticket used in a bank.
+      </p>
+    </div>
 
-    <p>
-      The fastest available slot was three days later.
-    </p>
+    <div class="story-block">
+      <p class="zh">
+        我去了 counter。最快的下一个 slot 是三天后。
+      </p>
+      <p class="en">
+        I went to the counter. The fastest available slot was three days later.
+      </p>
+    </div>
 
-    <p>
-      Bang. No choice.
-    </p>
+    <div class="story-block">
+      <p class="zh">
+        Bang。没有选择。
+      </p>
+      <p class="en">
+        Bang. No choice.
+      </p>
+    </div>
 
-    <p>
-      I paid extra and stayed overnight at Luhamaa Border Parking. Even though the slot was three days away,
-      I did not dare to drive somewhere else in Estonia because I was afraid of losing the ticket slot.
-    </p>
+    <div class="story-block">
+      <p class="zh">
+        我付了额外费用，在 Luhamaa Border Parking 过夜。虽然 slot 是三天后，但我不敢开去 Estonia 其他地方，因为我怕错过或失去这个 ticket slot。
+      </p>
+      <p class="en">
+        I paid extra and stayed overnight at Luhamaa Border Parking. Even though the slot was three days away,
+        I did not dare to drive somewhere else in Estonia because I was afraid of losing the ticket slot.
+      </p>
+    </div>
 
-    <p>
-      From 9 to 10 June, I moved to Vastseliina Metskond Camping.
-      It was quiet and beautiful. Toyotaki was parked beside the green field and forest.
-    </p>
+    <div class="story-block">
+      <p class="zh">
+        6 月 9 日到 10 日，我决定移到 Vastseliina Metskond Camping。那里很安静，也很漂亮。Toyotaki 停在绿色草地和树林前面。等待没有消失，但至少那两天，等待有了一个比较温柔的地方。
+      </p>
+      <p class="en">
+        From 9 to 10 June, I moved to Vastseliina Metskond Camping.
+        It was quiet and beautiful. Toyotaki was parked beside the green field and forest.
+        The waiting did not disappear, but for those two days, at least the waiting had a gentler place to stay.
+      </p>
+    </div>
 
     <figure class="story-figure">
       <img src="https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/vastseliina-metskond-camping.jpg" alt="Toyotaki parked on a green field beside forest at Vastseliina Metskond Camping.">
       <figcaption>
-        Vastseliina Metskond Camping, where waiting became softer for two days.
+        <span>Vastseliina Metskond Camping，让等待暂时变得柔软一点。</span>
+        <span>Vastseliina Metskond Camping, where waiting became softer for two days.</span>
       </figcaption>
     </figure>
 
-    <p>
-      The waiting did not disappear, but for those two days, at least the waiting had a gentler place to stay.
-    </p>
+    <div class="story-block">
+      <p class="zh">
+        6 月 13 日上午 11:37，我终于回到 Estonia Luhamaa border 排队。那一刻我其实是开心的。就像上一次在 Iran 边境等 Armenia e-visa 时一样，虽然还是在等待，可是“终于能排队”代表事情开始往前走。
+      </p>
+      <p class="en">
+        On 13 June, at 11:37 a.m., I finally returned to queue at the Estonia Luhamaa border.
+        I was actually happy. It was like the Armenia e-visa situation at the Iranian border:
+        even though I was still waiting, being allowed to queue meant that something was finally moving forward.
+      </p>
+    </div>
 
-    <p>
-      This is one of the small systems of the road: not dramatic, not scenic, but powerful.
-      A system you do not understand can turn a border crossing into three days of waiting.
-      A parking lot can become a bedroom. A ticket can become a border. A noisy container can become part of the memory.
-    </p>
+    <div class="story-block">
+      <p class="zh">
+        上一次在 Iran 边境，我也曾经卡了四天，等 Armenia 的 e-visa。那种等待不是风景照里看得到的东西，可是它会留在身体里。
+      </p>
+      <p class="en">
+        At the Iranian border, I had also been stuck for four days waiting for the Armenia e-visa.
+        That kind of waiting is not something visible in scenic photographs, but it remains in the body.
+      </p>
+    </div>
+
+    <figure class="story-figure">
+      <img src="https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/luhamaa-border-queue-13-june.jpg" alt="Toyotaki waiting in line at Luhamaa border under a bright blue sky on 13 June 2024.">
+      <figcaption>
+        <span>2024 年 6 月 13 日，Toyotaki 在 Luhamaa border 排队。等待仍然存在，但这一次等待代表正在前进。</span>
+        <span>13 June 2024, Toyotaki waiting in the Luhamaa border queue. The waiting was still there, but this time it meant movement.</span>
+      </figcaption>
+    </figure>
+
+    <div class="story-block">
+      <p class="zh">
+        Russia border 的检查非常严格，也非常仔细。每一辆车都会被详细检查。我心里还有另一个压力：海关只允许 3L 酒类，可是我一路经过欧洲各国时，都买了不同大小的 vodka，像是给那段路留下小小的纪念。
+      </p>
+      <p class="en">
+        The Russian border was strict and detailed. Every vehicle was checked carefully.
+        I also carried one private worry: customs only allowed 3 litres of alcohol, but along the way through Europe
+        I had bought vodka bottles of different sizes, like small souvenirs from the countries I had passed.
+      </p>
+    </div>
+
+    <div class="story-block">
+      <p class="zh">
+        6 月 13 日进入 Estonia Luhamaa border，6 月 14 日早上 6:56，我终于从 Russian APP Sumilkino border 出来。那一刻，我是真的很开心。
+      </p>
+      <p class="en">
+        I entered the Estonia Luhamaa border on 13 June.
+        On 14 June, at 6:56 a.m., I finally came out from the Russian APP Sumilkino border.
+        At that moment, I was truly happy.
+      </p>
+    </div>
+
+    <figure class="story-figure">
+      <img src="https://chinsookling.github.io/1234-media-europe/assets/images/stories/latvia-estonia/sumilkino-border-exit-14-june.jpg" alt="Toyotaki driving near the Russian border after leaving Sumilkino checkpoint on 14 June 2024.">
+      <figcaption>
+        <span>2024 年 6 月 14 日早上 6:56，刚从 Russian APP Sumilkino border 出来。</span>
+        <span>14 June 2024, 6:56 a.m., just out from the Russian APP Sumilkino border.</span>
+      </figcaption>
+    </figure>
+
+    <div class="story-block">
+      <p class="zh">
+        这不是王子公主式的旅行。它有天空很蓝的时候，也有冷冻货柜的噪音；有漂亮的 camping，也有看不懂的系统；有排队、有票、有海关、有担心，也有最后终于出来时的快乐。
+      </p>
+      <p class="en">
+        This was not a prince-and-princess kind of journey. It had bright blue skies, but also the noise of a cold-storage container.
+        It had beautiful camping, but also systems I did not understand. It had queues, tickets, customs, worry,
+        and finally the happiness of making it through.
+      </p>
+    </div>
+
+    <div class="story-block">
+      <p class="zh">
+        这就是路上的小系统：不戏剧化，也不一定好看，可是很有力量。一个看不懂的系统，可以把一次过境变成三天等待。一个 parking lot 可以变成卧室。一张票可以变成边界。一个噪音，也会成为记忆的一部分。
+      </p>
+      <p class="en">
+        This is one of the small systems of the road: not dramatic, not always beautiful, but powerful.
+        A system you do not understand can turn a border crossing into three days of waiting.
+        A parking lot can become a bedroom. A ticket can become a border. A noise can become part of the memory.
+      </p>
+    </div>
   </article>
 </main>
 

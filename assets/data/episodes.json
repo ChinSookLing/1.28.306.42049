@@ -1983,5 +1983,29 @@
       "container",
       "ferry"
     ]
+  },
+  {
+    "slug": "the-night-georgia-won",
+    "title": "The Night Georgia Won",
+    "titleZh": "Georgia 赢了那一夜",
+    "country": "Georgia",
+    "location": "Camp A Way / Georgia",
+    "date": "2024-06-26",
+    "journeyPhase": "Georgia Return / Waiting for Plan C",
+    "excerpt": "At Camp A Way, I thought the town was in trouble when noise lasted until 4 a.m.; the next morning I learned Georgia had beaten Portugal 2–0.",
+    "excerptZh": "在 Camp A Way，外面吵到凌晨四点多，我以为镇上出事；第二天才知道 Georgia 2:0 赢了 Portugal。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/georgia/georgia-football-score-georgia-portugal-26-june.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/georgia/georgia-football-score-georgia-portugal-26-june.jpg",
+    "imageAlt": "Mobile screenshot showing Georgia 2 Portugal 0 in UEFA Euro 2024.",
+    "tags": [
+      "Georgia",
+      "Camp A Way",
+      "Euro 2024",
+      "Portugal",
+      "football",
+      "Plan C",
+      "old house",
+      "waiting"
+    ]
   }
 ]

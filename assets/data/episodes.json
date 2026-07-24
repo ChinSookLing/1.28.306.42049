@@ -2031,5 +2031,28 @@
       "Tbilisi airport",
       "Maajid Hotel"
     ]
+  },
+  {
+    "slug": "old-stones-then-the-customs-news",
+    "title": "Old Stones, Then the Customs News",
+    "titleZh": "老城石头，然后海关消息",
+    "country": "Azerbaijan",
+    "location": "Baku Old City → Black Mount Hotel / near Baku Customs",
+    "date": "2024-07-03",
+    "journeyPhase": "Azerbaijan / Waiting for Toyotaki at Customs",
+    "excerpt": "I explored Baku’s old city in the morning, then received news that Toyotaki might reach Baku Customs and moved to Black Mount Hotel.",
+    "excerptZh": "早上探索 Baku 老城区和百年石头；下午收到 Toyotaki 可能抵达 Baku Custom 的消息，立刻搬去靠近海关的 Black Mount Hotel。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/azerbaijan/baku-old-city-cat-3-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/azerbaijan/baku-old-city-cat-3-july.jpg",
+    "imageAlt": "A cat resting near a window in Baku old city.",
+    "tags": [
+      "Azerbaijan",
+      "Baku",
+      "Old City",
+      "Black Mount Hotel",
+      "Baku Customs",
+      "Toyotaki",
+      "Plan C"
+    ]
   }
 ]

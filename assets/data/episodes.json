@@ -2007,5 +2007,29 @@
       "old house",
       "waiting"
     ]
+  },
+  {
+    "slug": "while-toyotaki-travelled-separately",
+    "title": "While Toyotaki Travelled Separately",
+    "titleZh": "Toyotaki 先走，我飞去 Baku",
+    "country": "Azerbaijan",
+    "location": "Tbilisi Airport → Baku / Azerbaijan",
+    "date": "2024-07-02",
+    "journeyPhase": "Azerbaijan / Plan C Separated Vehicle Route",
+    "excerpt": "Toyotaki travelled separately by transporter toward Baku while I flew ahead after a last-minute Azerbaijan e-visa.",
+    "excerptZh": "Toyotaki 被 transporter 送去 Baku，我自己临时发现需要 Azerbaijan e-visa，5 分钟拿到后飞去 Baku 接它。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/azerbaijan/baku-coast-from-plane-2-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/azerbaijan/baku-coast-from-plane-2-july.jpg",
+    "imageAlt": "Baku coastline seen from the airplane window on 2 July 2024.",
+    "tags": [
+      "Azerbaijan",
+      "Baku",
+      "Plan C",
+      "Toyotaki",
+      "transporter",
+      "e-visa",
+      "Tbilisi airport",
+      "Maajid Hotel"
+    ]
   }
 ]

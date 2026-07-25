@@ -2151,5 +2151,29 @@
       "outdoor sleeping",
       "Toyotaki"
     ]
+  },
+  {
+    "slug": "the-editor-who-gave-me-white-chrysanthemums",
+    "title": "The Editor Who Gave Me White Chrysanthemums",
+    "titleZh": "送我白色菊花的 Kazakhstan Editor",
+    "country": "Kazakhstan",
+    "location": "Karabulak / Kazakhstan",
+    "date": "2024-07-12",
+    "journeyPhase": "Kazakhstan / Long-run Mode Human Hospitality",
+    "excerpt": "I finally met my Kazakhstan editor friend, who helped with my YouTube videos and welcomed me with white chrysanthemums.",
+    "excerptZh": "终于见到帮我 edit YouTube video 的 Kazakhstan editor 朋友；他按当地习俗送了我一束白色菊花，当晚住在 Karabulak 的 Otabek’s house。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/kazakhstan/kazakhstan-editor-white-chrysanthemums-12-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/kazakhstan/kazakhstan-editor-white-chrysanthemums-12-july.jpg",
+    "imageAlt": "Tuzi meeting her Kazakhstan editor friend, who gave her white chrysanthemums.",
+    "tags": [
+      "Kazakhstan",
+      "Karabulak",
+      "editor friend",
+      "white chrysanthemums",
+      "Otabek",
+      "hospitality",
+      "YouTube",
+      "long-run mode"
+    ]
   }
 ]

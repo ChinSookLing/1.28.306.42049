@@ -2054,5 +2054,30 @@
       "Toyotaki",
       "Plan C"
     ]
+  },
+  {
+    "slug": "toyotaki-returned-then-the-ferry-began",
+    "title": "Toyotaki Returned, Then the Ferry Began",
+    "titleZh": "Toyotaki 回来了，然后渡轮开始",
+    "country": "Azerbaijan",
+    "location": "Baku Customs → Alat Port / Azerbaijan",
+    "date": "2024-07-05",
+    "journeyPhase": "Azerbaijan / Caspian Ferry Gate",
+    "excerpt": "Toyotaki reached Baku after a USD 580 transport from Georgia, then the Caspian ferry from Alat to Kuryk began.",
+    "excerptZh": "Toyotaki 从 Georgia 运到 Baku，费用 USD 580；接着准备搭 Zarifa Aliyeva ferry 从 Alat 到 Kuryk，航程约 30 小时，费用 USD 560。",
+    "image": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/azerbaijan/kuryk-map-caspian-crossing-5-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-europe/assets/images/stories/azerbaijan/kuryk-map-caspian-crossing-5-july.jpg",
+    "imageAlt": "Map showing Kuryk across the Caspian Sea from Azerbaijan.",
+    "tags": [
+      "Azerbaijan",
+      "Baku Customs",
+      "Alat",
+      "Kuryk",
+      "Kazakhstan",
+      "Caspian Sea",
+      "Zarifa Aliyeva",
+      "Toyotaki",
+      "Plan C"
+    ]
   }
 ]

@@ -1,5 +1,103 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>About Me — 1.28.306.42049</title><link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="fix.css"></head><body><header class="site-header"><nav class="nav"><a class="brand" href="index.html"><strong>1.28.306.42049</strong><span>Visual Memory Archive</span></a><div class="nav-links"><a href="index.html">Home</a>
+  <link rel="stylesheet" href="fix.css">
+  <style id="about-journey-faces-style">
+    .about-journey-faces {
+      margin: 3rem auto;
+      max-width: 1120px;
+      padding: 0 1rem;
+    }
+
+    .about-journey-faces .section-intro {
+      max-width: 820px;
+      margin-bottom: 1.4rem;
+    }
+
+    .about-journey-faces .kicker {
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      font-size: 0.78rem;
+      opacity: 0.72;
+      margin-bottom: 0.35rem;
+    }
+
+    .about-journey-faces h2 {
+      margin: 0 0 0.7rem;
+      font-size: clamp(1.9rem, 4vw, 3.2rem);
+      line-height: 1.08;
+    }
+
+    .about-journey-faces .intro-copy {
+      display: grid;
+      gap: 0.45rem;
+      font-size: 1.05rem;
+      line-height: 1.7;
+      opacity: 0.86;
+    }
+
+    .journey-face-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1rem;
+      margin-top: 1.6rem;
+    }
+
+    .journey-face-card {
+      border: 1px solid rgba(40, 32, 24, 0.14);
+      border-radius: 26px;
+      overflow: hidden;
+      background: rgba(255, 250, 239, 0.75);
+      box-shadow: 0 18px 48px rgba(50, 36, 22, 0.08);
+    }
+
+    .journey-face-card img {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      display: block;
+    }
+
+    .journey-face-card .card-copy {
+      padding: 1rem;
+      display: grid;
+      gap: 0.55rem;
+    }
+
+    .journey-face-card h3 {
+      margin: 0;
+      font-size: 1.18rem;
+      line-height: 1.25;
+    }
+
+    .journey-face-card .stats {
+      margin: 0;
+      font-size: 0.88rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      opacity: 0.64;
+    }
+
+    .journey-face-card .zh,
+    .journey-face-card .en {
+      margin: 0;
+      line-height: 1.58;
+    }
+
+    .journey-face-card .zh {
+      font-weight: 650;
+    }
+
+    .journey-face-card .en {
+      opacity: 0.78;
+    }
+
+    @media (max-width: 860px) {
+      .journey-face-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+
+</head><body><header class="site-header"><nav class="nav"><a class="brand" href="index.html"><strong>1.28.306.42049</strong><span>Visual Memory Archive</span></a><div class="nav-links"><a href="index.html">Home</a>
       <a href="stories.html">Stories</a>
       <a href="atlas.html">Atlas</a>
       <a href="gallery.html">Gallery</a>
@@ -21,6 +119,50 @@
         Route overview from the journey archive. This map shows the scale of the road, not private location details.
       </figcaption>
     </figure>
+  </section>
+
+
+  <section class="about-journey-faces" aria-labelledby="journey-faces-title">
+    <div class="section-intro">
+      <p class="kicker">Three Faces of the Journey</p>
+      <h2 id="journey-faces-title">旅程里的三个我</h2>
+      <div class="intro-copy">
+        <p class="zh">这三张照片不是为了证明我去过哪里，而是为了说明这段路怎样改变了我。</p>
+        <p class="en">These three photos are not only proof of where I went. They show how the road changed me.</p>
+      </div>
+    </div>
+
+    <div class="journey-face-grid">
+      <article class="journey-face-card">
+        <img src="https://chinsookling.github.io/1234-media-europe/assets/images/about/about-iceland-18-countries-gratitude.jpg" alt="Tuzi holding the Malaysian flag beside Toyotaki in Iceland after 18 countries.">
+        <div class="card-copy">
+          <p class="stats">18 countries · 182 days · 19,958 km</p>
+          <h3>I kept going alone<br>我一个人继续往前</h3>
+          <p class="zh">我不是一开始就无所畏惧。我是一次又一次继续走，才走到这里。</p>
+          <p class="en">I did not begin as someone fearless. I became someone who could keep going.</p>
+        </div>
+      </article>
+
+      <article class="journey-face-card">
+        <img src="https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/flaming-mountains-four-teams-21-july.jpg" alt="Four overlander teams posing with their vehicles in front of the Flaming Mountains in China.">
+        <div class="card-copy">
+          <p class="stats">China · Four teams · 5,000 km</p>
+          <h3>I learned to move with others<br>我学习和别人一起走</h3>
+          <p class="zh">266 天一个人以后，我开始学习另一种勇气：和不同背景的人一起前进。</p>
+          <p class="en">After 266 solo days, I had to learn a new kind of courage: moving with others.</p>
+        </div>
+      </article>
+
+      <article class="journey-face-card">
+        <img src="https://chinsookling.github.io/1234-media-asia/assets/images/about/about-final-van-flags-306-days.jpg" alt="Tuzi standing beside Toyotaki with country flags after the full journey.">
+        <div class="card-copy">
+          <p class="stats">306 days · 42,049 km · homecoming</p>
+          <h3>I brought the whole journey home<br>我把整条路带回来了</h3>
+          <p class="zh">我的车不只是交通工具。它是我的家、我的档案，也是这段旅程的身体。</p>
+          <p class="en">My van became my home, my archive, and the body of the journey.</p>
+        </div>
+      </article>
+    </div>
   </section>
 
 </main><footer class="footer"><span>© Tuzi · 1.28.306.42049</span><span>A world folded into pages.</span></footer></body></html>

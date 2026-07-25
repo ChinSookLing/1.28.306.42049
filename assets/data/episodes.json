@@ -2200,5 +2200,29 @@
       "Zharkent",
       "Kenen"
     ]
+  },
+  {
+    "slug": "from-first-dinner-to-food-guide-in-china",
+    "title": "From First Dinner to Food Guide in China",
+    "titleZh": "从第一顿晚餐，到带大家找中国美食",
+    "country": "China",
+    "location": "China → Kuitun / China",
+    "date": "2024-07-17",
+    "journeyPhase": "China / Team Phase Begins",
+    "excerpt": "China opened through the first dinner, first breakfast, an unexpected extra day in Kuitun, and Tuzi becoming the team’s food scout.",
+    "excerptZh": "中国这一段从第一顿晚餐、第一顿早餐、Kuitun 多出来的一天开始；因为自驾游没有食物安排，Tuzi 开始带 foreign overlanders 找中国美食。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/china-first-dinner-17-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/china-first-dinner-17-july.jpg",
+    "imageAlt": "First dinner in China with the overlander team.",
+    "tags": [
+      "China",
+      "Kuitun",
+      "food scout",
+      "self-drive",
+      "China team",
+      "Douyin",
+      "overlanders",
+      "Toyotaki"
+    ]
   }
 ]

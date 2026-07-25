@@ -2079,5 +2079,29 @@
       "Toyotaki",
       "Plan C"
     ]
+  },
+  {
+    "slug": "kazakhstan-opened-at-kuryk",
+    "title": "Kazakhstan Opened at Kuryk",
+    "titleZh": "Kazakhstan 在 Kuryk 打开",
+    "country": "Kazakhstan",
+    "location": "Kuryk → Aktau / Kazakhstan",
+    "date": "2024-07-07",
+    "journeyPhase": "Kazakhstan / Long-run Mode Begins",
+    "excerpt": "After a 30-hour ferry crossing from Alat, Toyotaki and I reached Kuryk, Kazakhstan, and prepared for the 3,800 km long run toward Horgos.",
+    "excerptZh": "从 Alat 到 Kuryk 的 ferry 约 30 小时；7 July 抵达 Kazakhstan 后，准备开启 3800 km 的 Horgos 长奔 mode。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/kazakhstan/kuryk-kazakhstan-opening-sign-7-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/kazakhstan/kuryk-kazakhstan-opening-sign-7-july.jpg",
+    "imageAlt": "Toyotaki beside a road sign for Kuryk and Aktau in Kazakhstan.",
+    "tags": [
+      "Kazakhstan",
+      "Kuryk",
+      "Aktau",
+      "Caspian Sea",
+      "Toyotaki",
+      "Horgos",
+      "long-run mode",
+      "Armenia flag"
+    ]
   }
 ]

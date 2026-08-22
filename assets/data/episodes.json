@@ -2533,5 +2533,29 @@
       "Toyotaki",
       "skeleton anchor"
     ]
+  },
+  {
+    "slug": "the-air-filter-tied-with-wire",
+    "title": "The Air Filter Tied with Wire",
+    "titleZh": "用铁丝绑回去的 air filter",
+    "country": "China",
+    "location": "Lila Spring Hotel Parking / China",
+    "date": "2024-08-06",
+    "journeyPhase": "China / Toyotaki Survival Repair",
+    "excerpt": "After a low wall bump while reversing, Toyotaki’s air filter dropped off. China did not have the exact model, so a local shop boss temporarily tied it back with wire.",
+    "excerptZh": "倒车时不小心撞到矮短墙，Toyotaki 的 air filter 掉下来了。中国没有对应 model，只能先请老板用铁丝临时绑回去。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/toyotaki-air-filter-wire-fix-6-aug.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/toyotaki-air-filter-wire-fix-6-aug.jpg",
+    "imageAlt": "Local repair using wire to temporarily secure Toyotaki's air filter.",
+    "tags": [
+      "China",
+      "Toyotaki",
+      "air filter",
+      "wire fix",
+      "vehicle repair",
+      "overland repair",
+      "Lila Spring Hotel",
+      "survival repair"
+    ]
   }
 ]

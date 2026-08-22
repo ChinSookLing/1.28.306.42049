@@ -2391,5 +2391,29 @@
       "Xi'an Xianyang International Airport",
       "Toyotaki"
     ]
+  },
+  {
+    "slug": "the-tunnel-the-flight-and-the-same-day-exit",
+    "title": "The Tunnel, the Flight, and the Same-Day Exit",
+    "titleZh": "麦积山隧道、航班，和同日折返",
+    "country": "China",
+    "location": "Maiji Mountain Tunnel → Xi’an → Hong Kong → Xi’an / China",
+    "date": "2024-07-29",
+    "journeyPhase": "China / 15-Day Visa-Free Same-Day Exit and Return",
+    "excerpt": "Maiji Mountain Tunnel, a 15-day visa-free same-day Hong Kong exit and return, a one-hour wait inside the plane, and a recovery night at Yunduo Hotel in Xi’an.",
+    "excerptZh": "麦积山隧道 12.29 km 后，Tuzi 完成 15-day visa-free 的 Hong Kong 同日折返；首次上飞机却又在机内等多一个小时，最后回到西安云朵酒店。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/maiji-mountain-tunnel-29-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/maiji-mountain-tunnel-29-july.jpg",
+    "imageAlt": "Toyotaki near the entrance of Maiji Mountain Tunnel in China.",
+    "tags": [
+      "China",
+      "Hong Kong",
+      "visa run",
+      "Maiji Mountain Tunnel",
+      "Xi'an",
+      "Yunduo Hotel",
+      "same-day exit",
+      "Toyotaki"
+    ]
   }
 ]

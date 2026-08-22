@@ -2676,5 +2676,29 @@
       "Kunming parts",
       "skeleton anchor"
     ]
+  },
+  {
+    "slug": "ninety-nine-kilometres-from-the-border",
+    "title": "Ninety-Nine Kilometres from the Border",
+    "titleZh": "离边境 99 公里，先停下来",
+    "country": "Laos",
+    "location": "Nam Phe village / Laos",
+    "date": "2024-08-16",
+    "journeyPhase": "Laos / Rainy Road Safety Stop",
+    "excerpt": "There were still 99 kilometres to the border, but at 5:30pm the road was rainy, slippery, winding, and full of potholes. Tuzi stopped at a garden in Nam Phe village instead of gambling on the road.",
+    "excerptZh": "还剩 99 km 到 border，但已经 5:30pm，天雨路滑，九曲十八弯，路又坑坑洞洞。Tuzi 没有硬冲，而是停在 Nam Phe 乡村某人家的庭园。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/laos/nam-phe-village-rainy-garden-sleeping-16-aug.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/laos/nam-phe-village-rainy-garden-sleeping-16-aug.jpg",
+    "imageAlt": "Rainy garden view in Nam Phe village, Laos.",
+    "tags": [
+      "Laos",
+      "Nam Phe",
+      "rain",
+      "border road",
+      "safety stop",
+      "sleeping area",
+      "road judgement",
+      "Toyotaki"
+    ]
   }
 ]

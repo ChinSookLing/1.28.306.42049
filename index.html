@@ -246,6 +246,69 @@
     }
   </style>
 
+
+  <style id="country-opening-balance-style">
+    .country-openings-row {
+      grid-template-columns: minmax(0, 1.75fr) minmax(340px, 1fr) !important;
+      gap: clamp(2rem, 3.5vw, 4rem) !important;
+      align-items: start;
+    }
+
+    .country-openings-row > .country-open-section h2 {
+      overflow-wrap: normal !important;
+      word-break: normal !important;
+      hyphens: manual !important;
+    }
+
+    .country-openings-row > .country-open-section:first-child h2 {
+      max-width: 17ch !important;
+      font-size: clamp(1.95rem, 3.1vw, 3.55rem) !important;
+      line-height: 0.98 !important;
+    }
+
+    .country-openings-row > .country-open-section:last-child h2 {
+      max-width: 13.5ch !important;
+      font-size: clamp(2rem, 3.15vw, 3.65rem) !important;
+      line-height: 0.98 !important;
+    }
+
+    .country-openings-row > .country-open-section:last-child .country-open-summary {
+      max-width: 42ch !important;
+      font-size: 0.92rem;
+      line-height: 1.55;
+    }
+
+    .country-openings-row > .country-open-section:first-child .featured-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    @media (max-width: 1180px) {
+      .country-openings-row {
+        grid-template-columns: minmax(0, 1.45fr) minmax(320px, 1fr) !important;
+      }
+
+      .country-openings-row > .country-open-section:first-child .featured-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 920px) {
+      .country-openings-row {
+        grid-template-columns: 1fr !important;
+      }
+
+      .country-openings-row > .country-open-section:first-child .featured-grid,
+      .country-openings-row > .country-open-section:last-child .featured-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .country-openings-row > .country-open-section:first-child h2,
+      .country-openings-row > .country-open-section:last-child h2 {
+        max-width: 16ch !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 <header class="site-header">

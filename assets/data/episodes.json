@@ -2605,5 +2605,28 @@
       "mountains",
       "food detail"
     ]
+  },
+  {
+    "slug": "one-night-in-zhenyuan",
+    "title": "One Night in Zhenyuan",
+    "titleZh": "镇沅大酒店停车场的一晚",
+    "country": "China",
+    "location": "Zhenyuan / China",
+    "date": "2024-08-10",
+    "journeyPhase": "China / Zhenyuan Hotel Parking Anchor",
+    "excerpt": "After Dali, 10 August became a practical road record: Toyotaki parked at Zhenyuan Hotel’s parking area in Zhenyuan, China.",
+    "excerptZh": "大理之后，10 August 先成为一个实在的 road record：Toyotaki 停在镇沅大酒店停车场，镇沅，中国。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/zhenyuan-hotel-parking-10-aug.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/zhenyuan-hotel-parking-10-aug.jpg",
+    "imageAlt": "Toyotaki parked at Zhenyuan Hotel parking area in Zhenyuan, China.",
+    "tags": [
+      "China",
+      "Zhenyuan",
+      "Zhenyuan Hotel",
+      "hotel parking",
+      "sleeping area",
+      "Toyotaki",
+      "skeleton anchor"
+    ]
   }
 ]

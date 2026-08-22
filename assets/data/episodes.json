@@ -2581,5 +2581,29 @@
       "old town night",
       "skeleton anchor"
     ]
+  },
+  {
+    "slug": "dali-finally-reached-smoothly",
+    "title": "Dali, Finally Reached Smoothly",
+    "titleZh": "终于顺利到达大理",
+    "country": "China",
+    "location": "Dali / China",
+    "date": "2024-08-09",
+    "journeyPhase": "China / Dali Arrival Anchor",
+    "excerpt": "After Lijiang, Tuzi and Toyotaki finally reached Dali smoothly. The 9 August sleeping area was Dali Bairimeng Guesthouse parking area.",
+    "excerptZh": "丽江之后，Tuzi 和 Toyotaki 终于顺利到达大理。9 August 的 sleeping area 是大理白日梦客栈停车场。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/dali-toyotaki-blue-sky-mountains-9-aug.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/dali-toyotaki-blue-sky-mountains-9-aug.jpg",
+    "imageAlt": "Toyotaki in Dali under blue sky, with mountains and clouds behind.",
+    "tags": [
+      "China",
+      "Dali",
+      "Bairimeng Guesthouse",
+      "arrival anchor",
+      "Toyotaki",
+      "blue sky",
+      "mountains",
+      "food detail"
+    ]
   }
 ]

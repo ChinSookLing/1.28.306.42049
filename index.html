@@ -47,6 +47,57 @@
   }
 </style>
 
+
+  <style id="country-openings-row-style">
+    .country-openings-row {
+      display: grid;
+      grid-template-columns: minmax(0, 2.15fr) minmax(280px, 0.9fr);
+      gap: clamp(1.5rem, 3vw, 3rem);
+      align-items: start;
+      margin-top: 2.5rem;
+    }
+
+    .country-openings-row > .country-open-section {
+      min-width: 0;
+      margin-top: 0;
+    }
+
+    .country-openings-row > .country-open-section h2 {
+      overflow-wrap: anywhere;
+    }
+
+    .country-openings-row > .country-open-section:first-child .featured-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      align-items: start;
+    }
+
+    .country-openings-row > .country-open-section:last-child .featured-grid {
+      grid-template-columns: 1fr;
+      align-items: start;
+    }
+
+    @media (max-width: 1180px) {
+      .country-openings-row {
+        grid-template-columns: minmax(0, 1.65fr) minmax(260px, 0.85fr);
+      }
+
+      .country-openings-row > .country-open-section:first-child .featured-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 860px) {
+      .country-openings-row {
+        grid-template-columns: 1fr;
+      }
+
+      .country-openings-row > .country-open-section:first-child .featured-grid,
+      .country-openings-row > .country-open-section:last-child .featured-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+
 </head>
 <body>
 <header class="site-header">
@@ -768,7 +819,8 @@
   
   
   
-  <section class="featured-memories">
+  <section class="country-openings-row" aria-label="China and Laos opening sections">
+<section class="featured-memories">
     <p class="kicker">China opens</p>
     <h2>China opened through meals, heat, rules, desert nights, visa clocks, textbook memories, ancient figures meeting AI, city-centre nights, Chengdu anchors, Hanyuan, Xichang’s return under trees, and Toyotaki’s air filter tied back with wire, and Lijiang Old Town finally making Tuzi stop in wonder, then Dali opening under blue sky and mountains, followed by Zhenyuan Hotel’s parking area and Jinghong’s Longhao Resort roadside parking, then Laos opening through a border workshop that saved Toyotaki.</h2>
     <div class="featured-grid">
@@ -964,11 +1016,7 @@
     </div>
   </section>
 
-<section class="home-section home-country-chambers">
-    <div class="section-heading">
-      
-
-  <section class="story-section country-open-section">
+<section class="story-section country-open-section">
     <p class="kicker">LAOS OPENS</p>
     <h2>Laos opened with a failing clutch, a border workshop, and a borrowed place to sleep.</h2>
     <div class="featured-grid">
@@ -983,6 +1031,14 @@
       </a>
     </div>
   </section>
+</section>
+
+
+<section class="home-section home-country-chambers">
+    <div class="section-heading">
+      
+
+  
 
 <p class="kicker">CURRENT COUNTRY CHAMBERS</p>
       <h2>Malaysia, India, Nepal, Pakistan, Iran, Armenia, Georgia, Turkey, Bulgaria, Romania, Hungary, Slovakia, Austria, Czech Republic, Poland, Germany, Denmark, Iceland, Russia, Georgia, Azerbaijan, Kazakhstan, China, and Laos have opened their first doors.</h2>

@@ -2439,5 +2439,29 @@
       "Hongye Hotel",
       "Toyotaki"
     ]
+  },
+  {
+    "slug": "the-heat-of-city-centre-nights",
+    "title": "The Heat of City-Centre Nights",
+    "titleZh": "市中心夜晚的热",
+    "country": "China",
+    "location": "Langzhong / Nanchong / China",
+    "date": "2024-08-01",
+    "journeyPhase": "China / City-Centre Heat and Group Travel Tension",
+    "excerpt": "In the group phase, sightseeing spots and city-centre hotels replaced Tuzi’s usual solo rhythm of sleeping in Toyotaki under trees, beside roads, in campsites, or by rivers.",
+    "excerptZh": "进入 group phase 后，景点和市中心酒店取代了 Tuzi 以前 solo 时在 park、roadside、campsite、树下或河边睡 Toyotaki 的节奏。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/langzhong-sanlian-shuyuan-guesthouse-1-aug.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/langzhong-sanlian-shuyuan-guesthouse-1-aug.jpg",
+    "imageAlt": "Night view of Sanlian Shuyuan Guesthouse in Langzhong, China.",
+    "tags": [
+      "China",
+      "Langzhong",
+      "Nanchong",
+      "city-centre heat",
+      "group travel",
+      "solo overland",
+      "Toyotaki",
+      "Sanlian Shuyuan Guesthouse"
+    ]
   }
 ]

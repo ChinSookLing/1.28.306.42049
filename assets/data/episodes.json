@@ -2272,5 +2272,29 @@
       "Xinjiang route",
       "Toyotaki"
     ]
+  },
+  {
+    "slug": "karaoke-under-the-desert-sky",
+    "title": "Karaoke Under the Desert Sky",
+    "titleZh": "沙漠星空下的万人卡拉OK",
+    "country": "China",
+    "location": "Dunhuang → Jiayuguan / China",
+    "date": "2024-07-23",
+    "journeyPhase": "China / Desert Night Crowd and Jiayuguan",
+    "excerpt": "At Dunhuang’s Mingsha Mountain and Crescent Spring, tourists turned the night desert into a karaoke stadium under the stars before the road continued to Jiayuguan.",
+    "excerptZh": "23 July 的敦煌鸣沙山月牙泉，游客把夜晚沙漠唱成万人星空演唱会；第二天，路继续往嘉峪关。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/jiayuguan-gate-24-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/jiayuguan-gate-24-july.jpg",
+    "imageAlt": "Tuzi standing in front of Jiayuguan in China.",
+    "tags": [
+      "China",
+      "Dunhuang",
+      "Mingsha Mountain",
+      "Crescent Spring",
+      "Jiayuguan",
+      "karaoke",
+      "desert night",
+      "Affiliates"
+    ]
   }
 ]

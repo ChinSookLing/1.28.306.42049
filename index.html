@@ -205,6 +205,47 @@
     }
   </style>
 
+
+  <style id="country-opening-text-fix-style">
+    .country-openings-row > .country-open-section h2 {
+      margin-bottom: 0.75rem;
+      line-height: 0.96;
+    }
+
+    .country-openings-row > .country-open-section:first-child h2 {
+      max-width: 15ch;
+      font-size: clamp(2.1rem, 4.2vw, 4.2rem);
+    }
+
+    .country-openings-row > .country-open-section:last-child h2 {
+      max-width: 9ch;
+      font-size: clamp(2.1rem, 4.4vw, 4.5rem);
+    }
+
+    .country-open-summary {
+      margin: 0 0 1.25rem;
+      max-width: 62ch;
+      font-size: 0.95rem;
+      line-height: 1.58;
+      color: rgba(35, 26, 16, 0.74);
+    }
+
+    .country-openings-row > .country-open-section:last-child .country-open-summary {
+      max-width: 34ch;
+    }
+
+    @media (max-width: 860px) {
+      .country-openings-row > .country-open-section:first-child h2,
+      .country-openings-row > .country-open-section:last-child h2 {
+        max-width: 14ch;
+      }
+
+      .country-openings-row > .country-open-section:last-child .country-open-summary {
+        max-width: 62ch;
+      }
+    }
+  </style>
+
 </head>
 <body>
 <header class="site-header">
@@ -948,7 +989,8 @@
   <section class="country-openings-row" aria-label="China and Laos opening sections">
 <section class="featured-memories">
     <p class="kicker">China opens</p>
-    <h2>China opened through meals, heat, rules, desert nights, visa clocks, textbook memories, ancient figures meeting AI, city-centre nights, Chengdu anchors, Hanyuan, Xichang’s return under trees, and Toyotaki’s air filter tied back with wire, and Lijiang Old Town finally making Tuzi stop in wonder, then Dali opening under blue sky and mountains, followed by Zhenyuan Hotel’s parking area and Jinghong’s Longhao Resort roadside parking, then Laos opening through a border workshop that saved Toyotaki.</h2>
+    <h2>China opened through roads, rules, repairs, and old-town wonder.</h2>
+    <p class="country-open-summary">It unfolded through meals, heat, desert nights, visa clocks, textbook memories, ancient figures meeting AI, city-centre nights, Chengdu, Hanyuan, Xichang, Lijiang, Dali, Zhenyuan, Jinghong, and the repair pressure before Laos.</p>
     <div class="featured-grid">
       <a class="featured-card" href="stories/from-first-dinner-to-food-guide-in-china.html">
         <img src="https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/china-first-dinner-17-july.jpg" alt="First dinner in China with the overlander team">
@@ -1144,7 +1186,8 @@
 
 <section class="story-section country-open-section">
     <p class="kicker">LAOS OPENS</p>
-    <h2>Laos opened with a failing clutch, a border workshop, and a borrowed place to sleep.</h2>
+    <h2>Laos opened in a border workshop.</h2>
+    <p class="country-open-summary">After the clutch began failing near Jinghong and worsened at the Laos border, Toyotaki was saved by a Chinese workshop owner near Boten, who ordered parts from Kunming and allowed Tuzi to sleep inside the underground workshop while waiting for repair.</p>
     <div class="featured-grid">
       <a class="featured-card" href="stories/the-border-workshop-that-saved-toyotaki.html">
         <img src="https://chinsookling.github.io/1234-media-asia/assets/images/stories/laos/toyotaki-underground-workshop-sleeping-12-15-aug.jpg" alt="Toyotaki parked inside an underground workshop near the Laos border">

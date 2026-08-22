@@ -2296,5 +2296,28 @@
       "desert night",
       "Affiliates"
     ]
+  },
+  {
+    "slug": "the-trees-on-iv-drips-in-zhangye",
+    "title": "The Trees on IV Drips in Zhangye",
+    "titleZh": "张掖打点滴的树",
+    "country": "China",
+    "location": "Zhangye / China",
+    "date": "2024-07-25",
+    "journeyPhase": "China / Zhangye Road Observation",
+    "excerpt": "After Dunhuang and Jiayuguan, Zhangye left a small roadside memory: trees cared for with IV-like bags and tubes, and a hotel night at Ruina Hotel.",
+    "excerptZh": "从敦煌、嘉峪关到张掖，记忆从大场面回到小细节：路边打点滴的树，以及 25 July 的瑞纳酒店 sleeping area。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/ruina-hotel-zhangye-25-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/ruina-hotel-zhangye-25-july.jpg",
+    "imageAlt": "Toyotaki parked outside Ruina Hotel in Zhangye, China.",
+    "tags": [
+      "China",
+      "Zhangye",
+      "trees",
+      "road observation",
+      "Ruina Hotel",
+      "Toyotaki",
+      "skeleton anchor"
+    ]
   }
 ]

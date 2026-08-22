@@ -98,6 +98,113 @@
     }
   </style>
 
+
+  <style id="archive-status-redesign-style">
+    .home-route-card.archive-status-card {
+      padding: clamp(1rem, 2vw, 1.35rem);
+    }
+
+    .archive-status-card .kicker {
+      margin-bottom: 0.55rem;
+    }
+
+    .archive-current {
+      display: grid;
+      gap: 0.25rem;
+      padding: 0.8rem 0.9rem;
+      margin: 0.7rem 0 0.9rem;
+      border: 1px solid rgba(35, 26, 16, 0.14);
+      border-radius: 18px;
+      background: rgba(255, 250, 239, 0.72);
+    }
+
+    .archive-current span {
+      font-size: 0.72rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: rgba(35, 26, 16, 0.62);
+      font-weight: 800;
+    }
+
+    .archive-current strong {
+      font-family: var(--font-display, Georgia, serif);
+      font-size: clamp(1.55rem, 3vw, 2.15rem);
+      line-height: 0.95;
+    }
+
+    .archive-route-compact {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.38rem 0.5rem;
+      align-items: center;
+      margin: 0.75rem 0 0.95rem;
+      font-size: 0.74rem;
+      line-height: 1.2;
+    }
+
+    .archive-route-compact span {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.22rem 0.48rem;
+      border: 1px solid rgba(35, 26, 16, 0.13);
+      border-radius: 999px;
+      background: rgba(255, 250, 239, 0.58);
+      white-space: nowrap;
+    }
+
+    .archive-route-compact span:not(:last-child)::after {
+      content: "→";
+      opacity: 0.48;
+      margin-left: 0.1rem;
+    }
+
+    .archive-route-compact .is-current {
+      border-color: rgba(35, 26, 16, 0.34);
+      background: rgba(35, 26, 16, 0.08);
+      font-weight: 800;
+    }
+
+    .archive-summary-short {
+      margin: 0.85rem 0 1rem;
+      font-size: 0.86rem;
+      line-height: 1.6;
+      color: rgba(35, 26, 16, 0.76);
+    }
+
+    .archive-stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 0.55rem;
+      padding-top: 0.8rem;
+      border-top: 1px solid rgba(35, 26, 16, 0.13);
+    }
+
+    .archive-stats-grid div {
+      display: grid;
+      gap: 0.15rem;
+      min-width: 0;
+    }
+
+    .archive-stats-grid strong {
+      font-family: var(--font-display, Georgia, serif);
+      font-size: 1.1rem;
+      line-height: 1;
+    }
+
+    .archive-stats-grid span {
+      font-size: 0.68rem;
+      line-height: 1.2;
+      color: rgba(35, 26, 16, 0.62);
+    }
+
+    @media (max-width: 720px) {
+      .archive-stats-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+
 </head>
 <body>
 <header class="site-header">
@@ -134,44 +241,63 @@
       </div>
     </div>
 
-    <aside class="home-route-card">
-      <p class="kicker">Archive Status</p>
-      <h2 class="route-chain" aria-label="Malaysia to China team route">
-          <span>Malaysia</span>
-          <span>India</span>
-          <span>Nepal</span>
-          <span>Pakistan</span>
-          <span>Iran</span>
-          <span>Armenia</span>
-          <span>Georgia</span>
-          <span>Turkey</span>
-          <span>Bulgaria</span>
-          <span>Romania</span>
-          <span>Hungary</span>
-          <span>Slovakia</span>
-          <span>Austria</span>
-          <span>Czech Republic</span>
-          <span>Poland</span>
-          <span>Germany</span>
-          <span>Denmark</span>
-          <span>Iceland</span>
-          <span>Lithuania</span>
-          <span>Latvia</span>
-          <span>Estonia</span>
-          <span>Russia</span>
-          <span>Georgia</span>
-          <span>Azerbaijan</span>
-          <span>Kazakhstan</span>
-          <span>China</span>
-        <span>Laos</span>
-        </h2>
-      <p>
-        The first chambers are open: the container departure, India’s road fragments, Nepal’s mountain encounters, Pakistan’s border-opening story, Iran’s first Zahedan interviews, Armenia’s first icy mountain climb, Georgia’s roadside hospitality, Turkey’s river rest, Bulgaria’s first step into Europe, Romania’s Friendship Bridge vignette moment, Hungary’s Chinese buffet kindness, Slovakia’s quiet border crossing, Austria’s crazy classical Vienna, Czech Republic’s Brno price-conversion relief, Poland’s yellow fields with painful war memory, Germany’s Berlin hail, Denmark’s ferry gate, Iceland’s North Atlantic arrival, Russia’s return-road pressure, Georgia’s Plan C reopening, Azerbaijan’s Caspian ferry gate, Kazakhstan’s long-run animal crossings, China’s meals, heat, rules, desert nights, visa clocks, textbook memories, city-centre nights, ancient figures meeting AI, Toyotaki survival repairs, Lijiang’s beauty, Dali’s arrival, Zhenyuan and Jinghong sleeping anchors, and Laos’s border workshop rescue.
-      </p>
-      <div class="route-stats">
-        <span><strong id="story-count">—</strong> stories indexed</span>
-        <span><strong id="country-count">—</strong> countries opened</span>
+    <aside class="home-route-card archive-status-card">
+      <p class="kicker">ARCHIVE STATUS</p>
+
+      <div class="archive-current">
+        <span>Current return arc</span>
+        <strong>China → Laos</strong>
       </div>
+
+      <div class="archive-route-compact" aria-label="Route opened through Laos">
+        <span>Malaysia</span>
+        <span>India</span>
+        <span>Nepal</span>
+        <span>Pakistan</span>
+        <span>Iran</span>
+        <span>Armenia</span>
+        <span>Georgia</span>
+        <span>Turkey</span>
+        <span>Bulgaria</span>
+        <span>Romania</span>
+        <span>Hungary</span>
+        <span>Slovakia</span>
+        <span>Austria</span>
+        <span>Czech Republic</span>
+        <span>Poland</span>
+        <span>Germany</span>
+        <span>Denmark</span>
+        <span>Iceland</span>
+        <span>Lithuania</span>
+        <span>Latvia</span>
+        <span>Estonia</span>
+        <span>Russia</span>
+        <span>Georgia</span>
+        <span>Azerbaijan</span>
+        <span>Kazakhstan</span>
+        <span class="is-current">China</span>
+        <span class="is-current">Laos</span>
+      </div>
+
+      <p class="archive-summary-short">
+        The archive now reaches Laos: from the container departure and early Asia road fragments, through Europe and the North Atlantic, back across Russia, Kazakhstan, China, and into the border workshop that saved Toyotaki.
+      </p>
+
+      <div class="archive-stats-grid" aria-label="Archive statistics">
+        <div>
+          <strong>127</strong>
+          <span>stories indexed</span>
+        </div>
+        <div>
+          <strong>26</strong>
+          <span>countries opened</span>
+        </div>
+        <div>
+          <strong>Laos</strong>
+          <span>latest chamber</span>
+        </div>
+      </div>
+
     </aside>
   </section>
 

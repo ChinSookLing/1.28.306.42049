@@ -2352,8 +2352,8 @@
     "location": "Tianshui → Xi’an / China",
     "date": "2024-07-27",
     "journeyPhase": "China / Tianshui Camp and Visa-Run Pivot",
-    "excerpt": "A quiet night at Manshi Camping Club in Tianshui became the pause before Tuzi left the group alone for a Hong Kong same-day visa run.",
-    "excerptZh": "27 July 的天水漫时露营俱乐部看起来很慢、很安静；但 visa clock 已经逼近，Tuzi 29 July 要一个人离队开去西安咸阳国际机场。",
+    "excerpt": "A quiet night at Manshi Camping Club in Tianshui became the pause before Tuzi left the group alone for a Hong Kong same-day visa run under the 15-day visa-free clock.",
+    "excerptZh": "27 July 的天水漫时露营俱乐部看起来很慢、很安静；但 15 days visa-free clock 已经逼近，Tuzi 29 July 要一个人离队开去西安咸阳国际机场。",
     "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/manshi-camping-club-tents-27-july.jpg",
     "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/manshi-camping-club-tents-27-july.jpg",
     "imageAlt": "Lit tents at Manshi Camping Club in Tianshui, China.",
@@ -2366,6 +2366,30 @@
       "Xi'an Xianyang International Airport",
       "Toyotaki",
       "team phase"
+    ]
+  },
+  {
+    "slug": "du-fu-before-the-hong-kong-visa-run",
+    "title": "Du Fu Before the Hong Kong Visa Run",
+    "titleZh": "去香港折返前的杜甫草堂",
+    "country": "China",
+    "location": "Du Fu Thatched Cottage → Xianyang / China",
+    "date": "2024-07-28",
+    "journeyPhase": "China / Literature Memory and Visa-Run Approach",
+    "excerpt": "Before the Hong Kong same-day visa run, Du Fu Thatched Cottage turned a schoolbook poet into a real stop on the road, while the visa clock pulled Tuzi toward Xianyang Airport.",
+    "excerptZh": "去 Hong Kong same-day visa run 前，杜甫草堂把中小学课本里的诗人变成现实路线上的一站；同一晚，visa clock 把 Tuzi 拉向咸阳机场。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/dufu-thatched-cottage-toyotaki-28-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/dufu-thatched-cottage-toyotaki-28-july.jpg",
+    "imageAlt": "Toyotaki parked outside Du Fu Thatched Cottage in China.",
+    "tags": [
+      "China",
+      "Du Fu",
+      "Du Fu Thatched Cottage",
+      "Xianyang",
+      "visa run",
+      "Hong Kong",
+      "Xi'an Xianyang International Airport",
+      "Toyotaki"
     ]
   }
 ]

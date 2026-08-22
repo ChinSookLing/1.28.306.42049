@@ -46,60 +46,7 @@
     color: #1f1a14;
   }
 </style>
-
-
-  <style id="country-openings-row-style">
-    .country-openings-row {
-      display: grid;
-      grid-template-columns: minmax(0, 2.15fr) minmax(280px, 0.9fr);
-      gap: clamp(1.5rem, 3vw, 3rem);
-      align-items: start;
-      margin-top: 2.5rem;
-    }
-
-    .country-openings-row > .country-open-section {
-      min-width: 0;
-      margin-top: 0;
-    }
-
-    .country-openings-row > .country-open-section h2 {
-      overflow-wrap: anywhere;
-    }
-
-    .country-openings-row > .country-open-section:first-child .featured-grid {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      align-items: start;
-    }
-
-    .country-openings-row > .country-open-section:last-child .featured-grid {
-      grid-template-columns: 1fr;
-      align-items: start;
-    }
-
-    @media (max-width: 1180px) {
-      .country-openings-row {
-        grid-template-columns: minmax(0, 1.65fr) minmax(260px, 0.85fr);
-      }
-
-      .country-openings-row > .country-open-section:first-child .featured-grid {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-      }
-    }
-
-    @media (max-width: 860px) {
-      .country-openings-row {
-        grid-template-columns: 1fr;
-      }
-
-      .country-openings-row > .country-open-section:first-child .featured-grid,
-      .country-openings-row > .country-open-section:last-child .featured-grid {
-        grid-template-columns: 1fr;
-      }
-    }
-  </style>
-
-
-  <style id="archive-status-redesign-style">
+<style id="archive-status-redesign-style">
     .home-route-card.archive-status-card {
       padding: clamp(1rem, 2vw, 1.35rem);
     }
@@ -205,98 +152,84 @@
     }
   </style>
 
+  <style id="country-opening-final-style">
+    .country-openings-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1.55fr) minmax(360px, 0.9fr);
+      gap: clamp(2rem, 4vw, 4.25rem);
+      align-items: start;
+      margin-top: 2.5rem;
+    }
 
-  <style id="country-opening-text-fix-style">
+    .country-openings-row > .country-open-section {
+      min-width: 0;
+      margin-top: 0;
+    }
+
     .country-openings-row > .country-open-section h2 {
-      margin-bottom: 0.75rem;
-      line-height: 0.96;
+      margin: 0 0 0.7rem;
+      line-height: 0.98;
+      overflow-wrap: normal;
+      word-break: normal;
+      hyphens: none;
     }
 
     .country-openings-row > .country-open-section:first-child h2 {
-      max-width: 15ch;
-      font-size: clamp(2.1rem, 4.2vw, 4.2rem);
+      max-width: 18ch;
+      font-size: clamp(2rem, 3.4vw, 3.7rem);
     }
 
     .country-openings-row > .country-open-section:last-child h2 {
-      max-width: 9ch;
-      font-size: clamp(2.1rem, 4.4vw, 4.5rem);
+      max-width: 15ch;
+      font-size: clamp(2rem, 3.4vw, 3.7rem);
     }
 
     .country-open-summary {
-      margin: 0 0 1.25rem;
-      max-width: 62ch;
-      font-size: 0.95rem;
-      line-height: 1.58;
+      margin: 0 0 1.15rem;
+      font-size: 0.92rem;
+      line-height: 1.55;
       color: rgba(35, 26, 16, 0.74);
     }
 
-    .country-openings-row > .country-open-section:last-child .country-open-summary {
-      max-width: 34ch;
-    }
-
-    @media (max-width: 860px) {
-      .country-openings-row > .country-open-section:first-child h2,
-      .country-openings-row > .country-open-section:last-child h2 {
-        max-width: 14ch;
-      }
-
-      .country-openings-row > .country-open-section:last-child .country-open-summary {
-        max-width: 62ch;
-      }
-    }
-  </style>
-
-
-  <style id="country-opening-balance-style">
-    .country-openings-row {
-      grid-template-columns: minmax(0, 1.75fr) minmax(340px, 1fr) !important;
-      gap: clamp(2rem, 3.5vw, 4rem) !important;
-      align-items: start;
-    }
-
-    .country-openings-row > .country-open-section h2 {
-      overflow-wrap: normal !important;
-      word-break: normal !important;
-      hyphens: manual !important;
-    }
-
-    .country-openings-row > .country-open-section:first-child h2 {
-      max-width: 17ch !important;
-      font-size: clamp(1.95rem, 3.1vw, 3.55rem) !important;
-      line-height: 0.98 !important;
-    }
-
-    .country-openings-row > .country-open-section:last-child h2 {
-      max-width: 13.5ch !important;
-      font-size: clamp(2rem, 3.15vw, 3.65rem) !important;
-      line-height: 0.98 !important;
+    .country-openings-row > .country-open-section:first-child .country-open-summary {
+      max-width: 62ch;
     }
 
     .country-openings-row > .country-open-section:last-child .country-open-summary {
-      max-width: 42ch !important;
-      font-size: 0.92rem;
-      line-height: 1.55;
+      max-width: 42ch;
     }
 
     .country-openings-row > .country-open-section:first-child .featured-grid {
       grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1rem;
+      align-items: start;
     }
 
-    @media (max-width: 1180px) {
+    .country-openings-row > .country-open-section:last-child .featured-grid {
+      grid-template-columns: minmax(260px, 1fr);
+      gap: 1rem;
+      align-items: start;
+    }
+
+    .country-openings-row > .country-open-section:last-child .featured-card {
+      max-width: 360px;
+    }
+
+    @media (max-width: 1120px) {
       .country-openings-row {
-        grid-template-columns: minmax(0, 1.45fr) minmax(320px, 1fr) !important;
+        grid-template-columns: 1fr;
       }
 
       .country-openings-row > .country-open-section:first-child .featured-grid {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .country-openings-row > .country-open-section:last-child .featured-card {
+        max-width: 360px;
       }
     }
 
-    @media (max-width: 920px) {
-      .country-openings-row {
-        grid-template-columns: 1fr !important;
-      }
-
+    @media (max-width: 780px) {
       .country-openings-row > .country-open-section:first-child .featured-grid,
       .country-openings-row > .country-open-section:last-child .featured-grid {
         grid-template-columns: 1fr;
@@ -304,7 +237,7 @@
 
       .country-openings-row > .country-open-section:first-child h2,
       .country-openings-row > .country-open-section:last-child h2 {
-        max-width: 16ch !important;
+        max-width: 16ch;
       }
     }
   </style>

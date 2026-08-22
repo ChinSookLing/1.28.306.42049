@@ -222,7 +222,7 @@
 
     .country-openings-row > .country-open-section:last-child .featured-grid {
       display: grid !important;
-      grid-template-columns: 1fr !important;
+      grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
       gap: 1rem !important;
       width: 100% !important;
     }
@@ -242,7 +242,7 @@
       }
 
       .country-openings-row > .country-open-section:last-child .featured-card {
-        max-width: 360px !important;
+        max-width: none !important;
       }
     }
 

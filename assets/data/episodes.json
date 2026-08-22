@@ -2651,5 +2651,30 @@
       "Toyotaki",
       "skeleton anchor"
     ]
+  },
+  {
+    "slug": "the-border-workshop-that-saved-toyotaki",
+    "title": "The Border Workshop That Saved Toyotaki",
+    "titleZh": "在老挝边境救回 Toyotaki 的地下车库",
+    "country": "Laos",
+    "location": "Laos Border / Near Boten",
+    "date": "2024-08-12",
+    "journeyPhase": "Laos / Border Workshop and Toyotaki Repair",
+    "excerpt": "Toyotaki’s clutch began failing near Jinghong and worsened by the Laos border. A Chinese workshop boss near the border ordered parts from Kunming, repaired the clutch and air filter, and allowed Tuzi to sleep inside Toyotaki in his underground workshop from 12 to 15 August.",
+    "excerptZh": "Toyotaki 的 clutch 从 Jinghong 附近开始不稳，到老挝边境更严重。边境附近一位中国老板从昆明订货，帮忙修 clutch 和 air filter，并让 Tuzi 在 12–15 August 睡在地下 workshop 里的 Toyotaki。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/laos/toyotaki-underground-workshop-sleeping-12-15-aug.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/laos/toyotaki-underground-workshop-sleeping-12-15-aug.jpg",
+    "imageAlt": "Toyotaki parked inside an underground workshop near the Laos border.",
+    "tags": [
+      "Laos",
+      "Boten",
+      "border",
+      "Toyotaki",
+      "clutch repair",
+      "air filter",
+      "underground workshop",
+      "Kunming parts",
+      "skeleton anchor"
+    ]
   }
 ]

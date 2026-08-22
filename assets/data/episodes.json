@@ -2343,5 +2343,29 @@
       "Toyotaki",
       "high-altitude road"
     ]
+  },
+  {
+    "slug": "the-camp-before-the-visa-run",
+    "title": "The Camp Before the Visa Run",
+    "titleZh": "签证折返点前的露营夜",
+    "country": "China",
+    "location": "Tianshui → Xi’an / China",
+    "date": "2024-07-27",
+    "journeyPhase": "China / Tianshui Camp and Visa-Run Pivot",
+    "excerpt": "A quiet night at Manshi Camping Club in Tianshui became the pause before Tuzi left the group alone for a Hong Kong same-day visa run.",
+    "excerptZh": "27 July 的天水漫时露营俱乐部看起来很慢、很安静；但 visa clock 已经逼近，Tuzi 29 July 要一个人离队开去西安咸阳国际机场。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/manshi-camping-club-tents-27-july.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/china/manshi-camping-club-tents-27-july.jpg",
+    "imageAlt": "Lit tents at Manshi Camping Club in Tianshui, China.",
+    "tags": [
+      "China",
+      "Tianshui",
+      "Manshi Camping Club",
+      "visa run",
+      "Hong Kong",
+      "Xi'an Xianyang International Airport",
+      "Toyotaki",
+      "team phase"
+    ]
   }
 ]

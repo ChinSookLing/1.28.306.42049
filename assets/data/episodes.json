@@ -2876,5 +2876,74 @@
       "333 days",
       "return arc"
     ]
+  },
+  {
+    "slug": "the-newspaper-counted-the-journey",
+    "title": "The Newspaper Counted the Journey",
+    "titleZh": "报纸如何计算这趟旅程",
+    "country": "Malaysia",
+    "location": "Malaysia / Press Interview",
+    "date": "2024-11-12",
+    "journeyPhase": "After the Return / Newspaper Record",
+    "excerpt": "After the return, the journey entered the newspaper with a 27-country count, while this archive keeps the identity as 1 woman, 28 countries, 306 days, 42,049 km.",
+    "excerptZh": "回程之后，这趟旅程进入报纸，用的是 27 国算法；而这个 archive 保留自己的主轴：1 woman，28 countries，306 days，42,049 km。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/after-return/after-return-guangming-newspaper-interview-27-countries-2024.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/after-return/after-return-guangming-newspaper-interview-27-countries-2024.jpg",
+    "imageAlt": "Guang Ming Daily newspaper interview about Tuzi's solo driving journey.",
+    "tags": [
+      "After the Return",
+      "Malaysia",
+      "newspaper",
+      "Guang Ming Daily",
+      "27 countries",
+      "28 countries",
+      "press interview"
+    ]
+  },
+  {
+    "slug": "the-first-public-sharing-in-cheras",
+    "title": "The First Public Sharing in Cheras",
+    "titleZh": "Cheras 的第一次公开分享",
+    "country": "Malaysia",
+    "location": "Oh Yeah Kopitiam / Cheras / Kuala Lumpur",
+    "date": "2024-10-20",
+    "journeyPhase": "After the Return / First Public Sharing",
+    "excerpt": "At Oh Yeah Kopitiam in Cheras, the road was spoken publicly for the first time: maps, photos, repairs, borders, waiting, and home brought into one room.",
+    "excerptZh": "在 Cheras 的 Oh Yeah Kopitiam，这条路第一次被公开讲述：地图、照片、修车、边境、等待和回家，被带进同一个房间。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/after-return/after-return-cheras-sharing-audience-20-oct-2024.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/after-return/after-return-cheras-sharing-audience-20-oct-2024.jpg",
+    "imageAlt": "Audience listening to Tuzi's sharing in Cheras.",
+    "tags": [
+      "After the Return",
+      "Malaysia",
+      "Cheras",
+      "Oh Yeah Kopitiam",
+      "public sharing",
+      "Asia to Iceland",
+      "Tuzi Vlogs"
+    ]
+  },
+  {
+    "slug": "speaking-at-russian-house",
+    "title": "Speaking at Russian House",
+    "titleZh": "在 Russian House 分享这趟旅程",
+    "country": "Malaysia",
+    "location": "Russian Centre for Science and Culture / Kuala Lumpur",
+    "date": "2024-12-22",
+    "journeyPhase": "After the Return / Russian House Sharing",
+    "excerpt": "At Russian House, the Russia section of the road returned as a room, an audience, and a place where the journey could be spoken back.",
+    "excerptZh": "在 Russian House，路上的 Russia 回到一个房间、一个 audience，以及一个可以把旅程讲回来的地方。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/after-return/after-return-russian-house-group-photo-22-dec-2024.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/after-return/after-return-russian-house-group-photo-22-dec-2024.jpg",
+    "imageAlt": "Group photo after Tuzi's Russian House sharing.",
+    "tags": [
+      "After the Return",
+      "Malaysia",
+      "Russian House",
+      "Russian Centre for Science and Culture",
+      "public sharing",
+      "Russia",
+      "China"
+    ]
   }
 ]

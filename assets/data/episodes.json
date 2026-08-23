@@ -2774,5 +2774,30 @@
       "road life",
       "camping ground"
     ]
+  },
+  {
+    "slug": "a-sea-edge-night-at-phadang",
+    "title": "A Sea-Edge Night at Phadang",
+    "titleZh": "Phadang 海边的一夜",
+    "country": "Thailand",
+    "location": "จุดกางเต็นท์ ชายสมุทรแอทผาแดง / Chaisamut camping site at Phadang / Chumphon, Thailand",
+    "date": "2024-08-20",
+    "journeyPhase": "Thailand / Sea-Edge Camping Night",
+    "excerpt": "Thailand’s overnight rhythm reached the sea at Chaisamut camping site at Phadang, where Toyotaki parked on grass beside coconut trees, boats, blue sky, and distant islands.",
+    "excerptZh": "Thailand 的 overnight rhythm 终于靠近海。20/8，Toyotaki 停在 Phadang 的 Chaisamut camping site，草地、椰树、蓝天、海、船和远处的小岛让这一晚安静下来。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/thailand/thailand-chaisamut-phadang-sea-camping-20-aug.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/thailand/thailand-chaisamut-phadang-sea-camping-20-aug.jpg",
+    "imageAlt": "Toyotaki parked by the sea at Chaisamut camping site at Phadang, Chumphon, Thailand.",
+    "tags": [
+      "Thailand",
+      "Phadang",
+      "Chumphon",
+      "Chaisamut",
+      "sea camping",
+      "sleeping area",
+      "Toyotaki",
+      "coastal rhythm",
+      "road life"
+    ]
   }
 ]

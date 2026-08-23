@@ -38,6 +38,32 @@
     "imageAlt": "Fuel tank cleared from Toyotaki before shipment at Ample Warehouse, Port Klang."
   },
   {
+    "slug": "the-flight-that-began-the-306-days",
+    "title": "The Flight That Began the 306 Days",
+    "titleZh": "开启 306 天的那一趟飞机",
+    "country": "Malaysia",
+    "location": "KLIA / Kuala Lumpur → Kolkata / India",
+    "date": "2023-10-25",
+    "journeyPhase": "Human Departure / Solo Journey Begins",
+    "type": "Story",
+    "excerpt": "Toyotaki had already gone first. Tuzi’s own 306-day solo journey began later, with the flight from KLIA to Kolkata on 25 October 2023.",
+    "excerptZh": "Toyotaki 已经先走了。Tuzi 自己的 306 天，是从 2023 年 10 月 25 日 KLIA 飞往 Kolkata 的这一趟飞机开始。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/malaysia/human-departure/human-departure-klia-relative-photo-25-oct-2023.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/malaysia/human-departure/human-departure-klia-relative-photo-25-oct-2023.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/malaysia/human-departure/human-departure-klia-relative-photo-25-oct-2023.jpg",
+    "imageAlt": "Tuzi at KLIA before departing for Kolkata, photographed by a relative.",
+    "tags": [
+      "Malaysia",
+      "KLIA",
+      "Kolkata",
+      "India",
+      "human departure",
+      "solo journey begins",
+      "306 days",
+      "Toyotaki"
+    ]
+  },
+  {
     "slug": "traffic-light-equation",
     "title": "Traffic Light Equation",
     "subtitle": "Two oranges, one laughing driver, one impatient policeman, infinite memories.",

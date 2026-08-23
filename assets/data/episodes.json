@@ -2823,5 +2823,32 @@
       "road life",
       "southbound"
     ]
+  },
+  {
+    "slug": "the-welcome-banner-in-hat-yai",
+    "title": "The Welcome Banner in Hat Yai",
+    "titleZh": "合艾的欢迎布条",
+    "country": "Thailand",
+    "location": "Old Mayflower Grande Hotel / Hat Yai / Thailand",
+    "date": "2024-08-22",
+    "dateDisplay": "22–24 August 2024",
+    "journeyPhase": "Thailand / Family Reunion and Temple Thanksgiving",
+    "excerpt": "Hat Yai became the place where the road finally met family: a reunion with Mum, a welcome banner, temple thanksgiving for safe arrival, and the Malaysian joy of lunch, tea time, and dinner together.",
+    "excerptZh": "合艾成了这条路终于遇见家人的地方：和妈妈重逢、收到欢迎布条、去庙里感谢平安抵达，再一起吃午餐、喝茶、吃晚餐。",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/thailand/hat-yai-family-welcome-banner-22-aug.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/thailand/hat-yai-family-welcome-banner-22-aug.jpg",
+    "imageAlt": "Family holding a welcome banner for Tuzi and Toyotaki in Hat Yai.",
+    "tags": [
+      "Thailand",
+      "Hat Yai",
+      "family reunion",
+      "welcome banner",
+      "Mum",
+      "Old Mayflower Grande Hotel",
+      "temple thanksgiving",
+      "safe arrival",
+      "Malaysian food",
+      "return arc"
+    ]
   }
 ]

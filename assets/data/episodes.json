@@ -4,8 +4,8 @@
     "title": "The Container Door Closed",
     "subtitle": "Before the road began, Toyotaki first had to disappear into a 20-foot container.",
     "country": "Malaysia",
-    "location": "Port Klang",
-    "journeyPhase": "Prologue / Before India",
+    "location": "Ample Warehouse / Telok Gong / Port Klang / Selangor / Malaysia",
+    "journeyPhase": "Vehicle Departure / Container Loading",
     "type": "Story",
     "emotions": [
       "Threshold",
@@ -19,7 +19,20 @@
     "thumb": "assets/images/stories/malaysia/container-door-closed/toyotaki-container-port-klang.jpg",
     "status": "Real Memory Photo",
     "affiliate": "Tuzi",
-    "summary": "Before the 306-day road journey began, Toyotaki was loaded into a 20-foot container at Port Klang and shipped toward Kolkata."
+    "summary": "Before the 306-day road journey began, Toyotaki was loaded into a 20-foot container at Port Klang and shipped toward Kolkata.",
+    "date": "2023-10-11",
+    "excerpt": "Before Tuzi’s 306 days began, Toyotaki had to go first: petrol and engine oil cleared at Ample Warehouse on 10 October, then manually pushed into a 20-foot container on 11 October 2023.",
+    "excerptZh": "在 Tuzi 的 306 天开始以前，Toyotaki 必须先走：10 月 10 日在 Ample Warehouse 清空汽油和机油，10 月 11 日被人工推入 20 尺货柜。",
+    "tags": [
+      "Malaysia",
+      "Port Klang",
+      "Ample Warehouse",
+      "container",
+      "vehicle departure",
+      "Toyotaki",
+      "10 October 2023",
+      "11 October 2023"
+    ]
   },
   {
     "slug": "traffic-light-equation",

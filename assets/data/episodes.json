@@ -95,19 +95,34 @@
     "title": "Traffic Light Equation",
     "subtitle": "Two oranges, one laughing driver, one impatient policeman, infinite memories.",
     "country": "India",
-    "location": "Kolkata",
-    "journeyPhase": "Outbound / South Asia",
+    "location": "Kolkata / Eco Park / Misti Hub / India",
+    "journeyPhase": "India First Day / Waiting for Toyotaki",
     "type": "Story",
     "emotions": [
       "Comedy",
       "Street Chaos",
       "Orange Memory"
     ],
-    "thumb": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/traffic-light-equation.png",
-    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/traffic-light-equation.png",
+    "thumb": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/kolkata-traffic-light-equation/india-kolkata-eco-park-painted-electric-postbox-26-oct-2023.jpg",
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/kolkata-traffic-light-equation/india-kolkata-eco-park-painted-electric-postbox-26-oct-2023.jpg",
     "status": "Canon Image",
     "affiliate": "GPT",
-    "summary": "At a Kolkata traffic light, the whole world moved too fast except the fruit seller and two glowing oranges."
+    "summary": "At a Kolkata traffic light, the whole world moved too fast except the fruit seller and two glowing oranges.",
+    "date": "2023-10-26",
+    "titleZh": "交通灯方程式",
+    "excerpt": "Before Toyotaki was released, Kolkata taught Tuzi how to move by Uber, taste sweets at Misti Hub, notice a painted postbox, and laugh through the Orange Theorem.",
+    "excerptZh": "Toyotaki 还未 release 以前，Kolkata 先教 Tuzi 用 Uber 移动、在 Misti Hub 尝甜点、看见被画成 art 的电箱，也在橙子方程式里笑出来。",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/kolkata-traffic-light-equation/india-kolkata-eco-park-painted-electric-postbox-26-oct-2023.jpg",
+    "imageAlt": "Painted electric postbox art inside Eco Park, Kolkata.",
+    "externalVideo": "https://youtu.be/XPHYpdiIZ8Y?si=oPUw8Uk0pANf_7pt",
+    "tags": [
+      "Uber",
+      "Visa card",
+      "Misti Hub",
+      "Ms Priyanka Das",
+      "Eco Park",
+      "Orange Theorem"
+    ]
   },
   {
     "slug": "407-km-to-cuttack",

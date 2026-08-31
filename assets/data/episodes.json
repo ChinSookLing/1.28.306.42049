@@ -323,6 +323,40 @@
     ]
   },
   {
+    "slug": "the-sim-card-i-needed-for-amazon",
+    "title": "The SIM Card I Needed for Amazon",
+    "titleZh": "为了 Amazon，我去办了一张 SIM 卡",
+    "subtitle": "A very ordinary Amazon purchase sent Tuzi into a local Vi service centre in Kolkata.",
+    "country": "India",
+    "location": "Kolkata / Dum Dum Road / India",
+    "journeyPhase": "India First Days / Waiting for Toyotaki",
+    "type": "Story",
+    "emotions": [
+      "Local Life",
+      "Everyday Life",
+      "Human Connection",
+      "Curiosity",
+      "Travel Errand"
+    ],
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/sim-card/03-vi-store-dum-dum-road.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/sim-card/03-vi-store-dum-dum-road.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/sim-card/03-vi-store-dum-dum-road.jpg",
+    "status": "Real Memory Photo Archive",
+    "affiliate": "Tuzi",
+    "summary": "While in Kolkata, Tuzi needed an Indian SIM card before making a purchase from Amazon. A simple online errand became a small encounter with local staff at a Vi service centre.",
+    "excerpt": "I wanted to buy something from Amazon. First, I needed an Indian SIM card. A very ordinary errand became another small Kolkata memory.",
+    "date": "2023-10-26",
+    "tags": [
+      "India",
+      "Kolkata",
+      "Dum Dum",
+      "SIM Card",
+      "Vi",
+      "Amazon",
+      "Local Life"
+    ]
+  },
+  {
     "slug": "407-km-to-cuttack",
     "title": "407 km to Cuttack",
     "subtitle": "A winter market, a Tibetan refugee community, and the meaning of having a home.",

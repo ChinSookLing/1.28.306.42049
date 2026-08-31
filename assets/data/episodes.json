@@ -456,6 +456,41 @@
     "story": "i-eat-local-food"
   },
   {
+    "slug": "a-kolkata-local-market",
+    "title": "A Kolkata Local Market",
+    "titleZh": "加尔各答的当地市场",
+    "subtitle": "Vegetables, sweets and flowers — just ordinary things I saw on the streets of Kolkata.",
+    "country": "India",
+    "location": "Kolkata / India",
+    "journeyPhase": "India First Days / Waiting for Toyotaki",
+    "type": "Story",
+    "emotions": [
+      "Everyday Life",
+      "Observation",
+      "Curiosity",
+      "Local Life",
+      "Street Life"
+    ],
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/local-market/sweet-preview.png",
+    "thumb": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/local-market/sweet-preview.png",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/local-market/sweet-preview.png",
+    "status": "Real Memory + Video",
+    "affiliate": "Tuzi",
+    "summary": "A simple Kolkata street-market memory: vegetables, local sweets and flowers, seen while walking through everyday city life.",
+    "excerpt": "Vegetables, sweets and flowers. Nothing arranged for tourists — just ordinary life happening on the streets of Kolkata.",
+    "date": "2023-10-26",
+    "tags": [
+      "India",
+      "Kolkata",
+      "Local Market",
+      "Vegetables",
+      "Sweets",
+      "Flowers",
+      "Everyday Life"
+    ],
+    "story": "a-kolkata-local-market"
+  },
+  {
     "slug": "407-km-to-cuttack",
     "title": "407 km to Cuttack",
     "subtitle": "A winter market, a Tibetan refugee community, and the meaning of having a home.",
@@ -475,7 +510,8 @@
     "thumb": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/407-km-to-cuttack/cuttack-winter-market-entrance.jpg",
     "status": "Real Memory Photo",
     "affiliate": "Tuzi",
-    "summary": "After driving 407 km from Kolkata to Cuttack, Tuzi met a Tibetan refugee community and heard a sixty-year story of gratitude, resilience, and hope."
+    "summary": "After driving 407 km from Kolkata to Cuttack, Tuzi met a Tibetan refugee community and heard a sixty-year story of gratitude, resilience, and hope.",
+    "story": "407-km-to-cuttack"
   },
   {
     "slug": "a-small-csr-ride-at-puri",

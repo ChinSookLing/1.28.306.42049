@@ -423,6 +423,39 @@
     ]
   },
   {
+    "slug": "i-eat-local-food",
+    "title": "I Eat Local Food",
+    "titleZh": "我吃当地的食物",
+    "subtitle": "I saw MAGGI on the menu and immediately felt familiar.",
+    "country": "India",
+    "location": "Kolkata / India",
+    "journeyPhase": "India First Days / Waiting for Toyotaki",
+    "type": "Story",
+    "emotions": [
+      "Curiosity",
+      "Familiarity",
+      "Everyday Life",
+      "Local Food",
+      "Travel Memory"
+    ],
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/local-food/02-maggi-local-food.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/local-food/02-maggi-local-food.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/local-food/02-maggi-local-food.jpg",
+    "status": "Real Memory + Photo + Video",
+    "affiliate": "Tuzi",
+    "summary": "In Kolkata, Tuzi saw MAGGI on a local menu. Familiar from Malaysia, the name caught his attention, so he decided to try the local version.",
+    "excerpt": "I saw MAGGI on the menu. It was familiar from Malaysia, so of course I had to try the local version in Kolkata.",
+    "date": "2023-10-26",
+    "tags": [
+      "India",
+      "Kolkata",
+      "Local Food",
+      "MAGGI",
+      "Everyday Life"
+    ],
+    "story": "i-eat-local-food"
+  },
+  {
     "slug": "407-km-to-cuttack",
     "title": "407 km to Cuttack",
     "subtitle": "A winter market, a Tibetan refugee community, and the meaning of having a home.",

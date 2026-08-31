@@ -256,6 +256,39 @@
     ]
   },
   {
+    "slug": "india-wiring",
+    "title": "India Wiring",
+    "titleZh": "印度的电线",
+    "subtitle": "One ordinary Kolkata street, a ladder, a complicated web of wires, and a moment that made Tuzi stop and look twice.",
+    "country": "India",
+    "location": "Kolkata / India",
+    "journeyPhase": "India First Days / Waiting for Toyotaki",
+    "type": "Story",
+    "emotions": [
+      "Reality",
+      "Observation",
+      "Infrastructure",
+      "Surprise",
+      "Reflection"
+    ],
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/india-wiring/01-kolkata-wiring-repair.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/india-wiring/01-kolkata-wiring-repair.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/india-wiring/01-kolkata-wiring-repair.jpg",
+    "status": "Real Memory + Video",
+    "affiliate": "Tuzi",
+    "summary": "A Kolkata street observation: an older local man working among the street wiring, a scene that made Tuzi stop and look at how everyday infrastructure is maintained.",
+    "excerpt": "A ladder, a complicated web of wires, and an ordinary worker above the Kolkata street. Tuzi did not know exactly what he was repairing, but the scene stayed in memory.",
+    "date": "2023-10-26",
+    "tags": [
+      "India",
+      "Kolkata",
+      "Wiring",
+      "Street Life",
+      "Infrastructure",
+      "Observation"
+    ]
+  },
+  {
     "slug": "407-km-to-cuttack",
     "title": "407 km to Cuttack",
     "subtitle": "A winter market, a Tibetan refugee community, and the meaning of having a home.",

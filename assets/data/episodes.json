@@ -390,6 +390,39 @@
     ]
   },
   {
+    "slug": "the-river",
+    "title": "The River",
+    "titleZh": "这条河",
+    "subtitle": "Sometimes a place does not need much explanation. You just see it.",
+    "country": "India",
+    "location": "Kolkata / India",
+    "journeyPhase": "India First Days / Waiting for Toyotaki",
+    "type": "Story",
+    "emotions": [
+      "Observation",
+      "Reality",
+      "Reflection",
+      "Discomfort",
+      "Awareness"
+    ],
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/the-river/river-preview.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/the-river/river-preview.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/the-river/river-preview.jpg",
+    "status": "Real Memory + Video",
+    "affiliate": "Tuzi",
+    "summary": "A Kolkata river memory. Tuzi did not have much to say about what she saw, but felt that the condition of the river showed there was still much work to be done by local municipal authorities.",
+    "excerpt": "I don't really have much to say about it. I just saw it. Sometimes the less comfortable things are part of what a traveller sees too.",
+    "date": "2023-10-26",
+    "tags": [
+      "India",
+      "Kolkata",
+      "River",
+      "Municipal",
+      "Local Life",
+      "Observation"
+    ]
+  },
+  {
     "slug": "407-km-to-cuttack",
     "title": "407 km to Cuttack",
     "subtitle": "A winter market, a Tibetan refugee community, and the meaning of having a home.",

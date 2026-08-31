@@ -357,6 +357,39 @@
     ]
   },
   {
+    "slug": "welcome-to-india",
+    "title": "Welcome to India",
+    "titleZh": "欢迎来到印度",
+    "subtitle": "A spontaneous meeting with local ladies on the streets of Kolkata.",
+    "country": "India",
+    "location": "Kolkata / India",
+    "journeyPhase": "India First Days / Waiting for Toyotaki",
+    "type": "Story",
+    "emotions": [
+      "Warmth",
+      "Hospitality",
+      "Human Connection",
+      "Joy",
+      "Spontaneity"
+    ],
+    "image": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/welcome-to-india/welcome-to-india-preview.jpg",
+    "thumb": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/welcome-to-india/welcome-to-india-preview.jpg",
+    "thumbnail": "https://chinsookling.github.io/1234-media-asia/assets/images/stories/india/welcome-to-india/welcome-to-india-preview.jpg",
+    "status": "Real Memory + Video",
+    "affiliate": "Tuzi",
+    "summary": "While walking and filming the streets of Kolkata, Tuzi was approached by several local ladies. After introducing themselves one by one, they ended the spontaneous encounter by saying together, “Welcome to India!”",
+    "excerpt": "I was simply walking and filming Kolkata when some local ladies came over. I guided them one by one to say their names, and at the end they all said: “Welcome to India!”",
+    "date": "2023-10-26",
+    "tags": [
+      "India",
+      "Kolkata",
+      "Welcome to India",
+      "Local People",
+      "Street Life",
+      "Hospitality"
+    ]
+  },
+  {
     "slug": "407-km-to-cuttack",
     "title": "407 km to Cuttack",
     "subtitle": "A winter market, a Tibetan refugee community, and the meaning of having a home.",
